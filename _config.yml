@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zubin Jelveh / Data Science + Social Science"
+title                    : "Zubin Jelveh"
 title_separator          : "-"
 name                     : &name "Zubin Jelveh"
 description              : &description ""
