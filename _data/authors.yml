@@ -2,12 +2,12 @@
 
 Name Name:
   name        : "Zubin Jelveh"
-  uri         : "http://name.com"
+  uri         : ""
   email       : "zjelveh@uchicago.edu"
   bio         : "This is the first name."
   avatar      : "image2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "zubinjelveh"
+  google_plus : ""
 
 # Name2 Name2:
 #   name        : "Name2 Name2"
