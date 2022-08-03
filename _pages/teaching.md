@@ -11,4 +11,4 @@ author_profile: true
 
 ## Undergraduate
 - INST 414: Data Science Techniques
-- CCJS 418E: [Applications of Data Science in Criminology](_teaching/ccjs418e)
+- CCJS 418E: [Applications of Data Science in Criminology](ccjs418e)
