@@ -44,7 +44,7 @@ author_profile: true
   - **Abstract**: Prevention or de-escalation of dangerous police encounters with community members experiencing behavioral health challenges are central public health and safety challenges. A complementary approach that leverages emergency response data to predict which individuals are at highest risk for these encounters may be an important tool in the implementation of targeted prevention and service interventions. In this study, we use emergency response data to show that behavioral health-indicated encounters with police can be reliably predicted. Both simple and complex modeling approaches are able to identify small populations at extreme risk, though a machine learning approach is more accurate, especially when targeting larger groups. And ML can also identify opportunities for prevention. Fully 28% of individuals identified in our top 1% risk-group had no prior BH-police-involved emergency encounters. Both approaches, when combined with rich administrative data may also aid in tailoring pertinent interventions.
 
 - [No Ground Truth? No Problem: Improving Administrative Data Linking Using Active Learning and a Little Bit of Guile](http://achalfin.weebly.com/uploads/8/5/4/8/8548116/a_little_bit_of_guile.pdf) (R&R @ *PLOS ONE*)
-  - *With**: Sarah Tahamont, Melissa McNeill, Shi Yan, Aaron Chalfin, and Benjamin Hansen
+  - **With**: Sarah Tahamont, Melissa McNeill, Shi Yan, Aaron Chalfin, and Benjamin Hansen
   - **Abstract**: While linking records across large administrative datasets [“big data”] has the potential to revolutionize empirical social science research, many administrative data files do not have common identifiers and are thus not designed to be linked to others. To address this problem, researchers have developed probabilistic record linkage algorithms which use statistical patterns in identifying characteristics to perform linking tasks. Naturally, the accuracy of a candidate linking  In this paper, we investigate the value of providing groundtruth examples via active learning for linking performance. We confirm popular intuition that data linking can be dramatically improved with the availability of ground truth examples. But critically, in many real-world applications, only a relatively small number of tactically-selected ground-truth examples are needed to obtain most of the achievable gains. With a modest investment in ground truth, researchers can approximate the performance of a supervised learning algorithm that has access to a large database of ground truth examples using a readily available off-the-shelf tool.
 
 - [Political Language in Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535453) (R&R @ *Economic Journal*)
@@ -66,7 +66,8 @@ author_profile: true
   - **With**: Aaron Chalfin and Melissa McNeill
 
 ## Other
-### [Productivity and selection of human capital with machine learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161029) (w/ Aaron Chalfin, Oren Danieli, Andrew Hillis, Michael Luca, Jens Ludwig, Sendhil Mullainthan) *AER P&P*
-Economists have become increasingly interested in studying the nature of production functions in social policy applications, with the goal of improving productivity. Traditionally models have assumed workers are homogenous inputs. However, in practice, substantial variability in productivity means the marginal productivity of labor depends substantially on which new workers are hired--which requires not an estimate of a causal effect, but rather a prediction. We demonstrate that there can be large social welfare gains from using machine learning tools to predict worker productivity, using data from two important applications - police hiring and teacher tenure decisions.
-
-### Towards Diagnosing Accuracy Loss in Discrimination-Aware Classification: An Application to Predictive Policing (w/ Michael Luca) *FATML*
+- [Productivity and selection of human capital with machine learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161029) (*AER P&P*)
+  - **With**: Aaron Chalfin, Oren Danieli, Andrew Hillis, Michael Luca, Jens Ludwig, Sendhil Mullainthan)
+  
+- Towards Diagnosing Accuracy Loss in Discrimination-Aware Classification: An Application to Predictive Policing (*FATML*)
+  - **With**: Michael Luca
