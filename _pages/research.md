@@ -14,7 +14,9 @@ author_profile: true
 
 
 ## Peer-Reviewed
-### [Dude, Where’s My Treatment Effect? Errors in Administrative Data Linking and the Destruction of Statistical Power in Randomized Experiments](https://link.springer.com/article/10.1007/s10940-020-09461-x) (w/ Sarah Tahamont, Aaron Chalfin, Shi Yan, and Benjamin Hansen) *Journal of Quantitative Criminology*
+### [Dude, Where’s My Treatment Effect? Errors in Administrative Data Linking and the Destruction of Statistical Power in Randomized Experiments](https://link.springer.com/article/10.1007/s10940-020-09461-x)
+(w/ Sarah Tahamont, Aaron Chalfin, Shi Yan, and Benjamin Hansen) 
+*Journal of Quantitative Criminology*
 The increasing availability of large administrative datasets has led to an exciting innovation in social policy research—using administrative data to measure experimental outcomes in lieu of costly primary data collection. We demonstrate that this type of randomized experiment can have an unfortunate consequence: the destruction of statistical power. Combining experimental data with administrative records to track outcomes of interest typically requires linking datasets without a common identifier. In order to minimize mistaken linkages, researchers often use stringent linking rules like “exact matching” to ensure that speculative matches do not lead to errors in an analytic dataset. We show that this, seemingly conservative, approach leads to underpowered experiments, leaves real treatment effects undetected, and can therefore have profound implications for entire experimental literatures.
 
 ### [Detecting latent ideology in expert text: Evidence from academic papers in economics](https://aclanthology.org/D14-1191.pdf) (w/ Bruce Kogut and Suresh Naidu) *EMNLP*
