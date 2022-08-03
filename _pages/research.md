@@ -5,15 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+
 
 ### Peer-Reviewed
 #### [Dude, Where’s My Treatment Effect? Errors in Administrative Data Linking and the Destruction of Statistical Power in Randomized Experiments](https://link.springer.com/article/10.1007/s10940-020-09461-x) (w/ Sarah Tahamont, Aaron Chalfin, Shi Yan, and Benjamin Hansen)
