@@ -5,6 +5,9 @@ type: "Undergraduate course"
 permalink: /teaching/ccjs418e
 ---
 
+<!-- This course is an introduction to the use of prediction in decision-making in the criminal justice system.
+
+
 You may be familiar with headlines like X or Y. They present the awesome power of machine learning. 
 What do these models do ?
 
@@ -21,7 +24,6 @@ Prediction, or what
 
 travel time prediction
 
-This course is an introduction to the use of prediction in decision-making in the criminal justice system.
 
 The main example we will use is the decision by a judge whether to detain or release a defendant prior to their trial. Pretrial detention is  
 In 
@@ -52,4 +54,4 @@ In part 3 of the course, we will cover two related topics dealing with the fact 
 - 
 
 ### Hands on practice with Python/Jupyter notebooks
-We will ground the concepts we cover during lectures through problems sets, quizzes, a midterm, and a final exam. In particular, we will spend a significant amount of time working with with Python.
+We will ground the concepts we cover during lectures through problems sets, quizzes, a midterm, and a final exam. In particular, we will spend a significant amount of time working with with Python. -->
