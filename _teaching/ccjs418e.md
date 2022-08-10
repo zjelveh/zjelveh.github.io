@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-no-sidebar
 author_profile: false
 title: "Applications of Data Science for Criminology"
 collection: teaching
