@@ -1,11 +1,13 @@
 ---
+layout: single
+author_profile: false
 title: "Applications of Data Science for Criminology"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/ccjs418e
 ---
 
-**Note:** This page serves as an overview of the topics discussed in *Applications of Data Science for Criminology* which are likely to be new to a number of students. Thus, the purpose of this page is to shed light on what is covered in the course so that prospective students can make informed decisions about whether it's the right course for them. 
+**Note:** This page serves as an overview of the topics discussed in *Applications of Data Science for Criminology* which are likely to be new to a number of students. Thus, the purpose of this page is to shed light on what is covered in the course so that prospective students can make informed decisions about whether it's the right course for them.
+{: .notice}
 
 ---
 
