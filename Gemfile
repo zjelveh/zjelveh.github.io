@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-
+gem "webrick"
+gem 'tzinfo-data'
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 

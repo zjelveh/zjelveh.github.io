@@ -6,12 +6,12 @@ collection: teaching
 permalink: /teaching/ccjs418e
 ---
 
-**Note:** This page serves as an overview of the topics discussed in *Applications of Data Science for Criminology* which are likely to be new to a number of students. Thus, the purpose of this page is to shed light on what is covered in the course so that prospective students can make informed decisions about whether it's the right course for them.
+**Note:** This page serves as an overview of *Applications of Data Science for Criminology* a relativley new course on in the Department of Criminology and Criminal Justice at the University of Maryland. The purpose of this page is to give students thinking about enrolling in the course a preview of what to expect. Please feel free to reach to [me directly](mailto:zjelveh@umd.edu) if you have any questions.
 {: .notice}
 
 ---
 
-Actors in the criminal justice system are often tasked with making decisions that involve a prediction about the future For example, the following decisions are made (in part) on the basis of a prediction about future behavior:  
+Actors in the criminal justice system are often tasked with making decisions that involve a prediction about the future. For example, the following decisions are made (in part) on the basis of a prediction about future behavior:  
  - Judges make release/jail decisions based on an assessment of a defendant's likelihood of showing up at future court dates if released.  
  - Police officers make patrollings decisions based on a prediction of where crime is likely to happen
  - Domestic violence shelter providers make housing allocations based on an assessment of survivors near-term risk of re-victimization
@@ -21,7 +21,7 @@ At the same time, we know very little about the quality of  predictions made by 
  - Are they accurate?
  - Are they fair? 
  - Do they lead to intended outcomes? (e.g. Do patrolling decisions lead to lower crime rates, do detention decisions lead to more appearances overall, do they have unintended consequences on labor and eductional outcomes, etc ) 
- - Can they be improved through the use of administrative data and prediction algorithms. 
+ - Can they be improved through the use of administrative data and prediction algorithms? 
  
  At the same time, there is great controversy around the use of algorithms in the criminal justice system. Central to this controversy is the fear that data commonly used in these algorithms (e.g. arrest, court, and victimization records) contain human bias, and thus that the predictions from these algorithms will reinforce those biases. 
 
