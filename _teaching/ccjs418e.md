@@ -7,8 +7,8 @@ permalink: /teaching/ccjs418e
 classes: wide2
 ---
 
-**Note:** Below is an overview of *Applications of Data Science for Criminology*, a relativley new course in the Department of Criminology and Criminal Justice at the University of Maryland. The purpose of this page is to provide students who are considering the course a sense of what to expect. Please feel free to reach out to [me directly](mailto:zjelveh@umd.edu) if you have any questions about the content of the course.
-{: .notice}
+This page is an overview of *Applications of Data Science for Criminology*, a relativley new course in the Department of Criminology and Criminal Justice at the University of Maryland. The purpose of this page is to provide students who are considering the course a sense of what to expect. Please feel free to reach out to [me directly](mailto:zjelveh@umd.edu) if you have any questions about the content of the course.
+{: .notice--warning}
 
 ---
 

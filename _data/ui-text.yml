@@ -267,4 +267,3 @@ it-IT:
   <<: *DEFAULT_IT
 
 # Another locale
-# --------------

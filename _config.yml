@@ -145,6 +145,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
@@ -265,6 +266,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -274,6 +277,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# remote_theme           : "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Archives
 #  Type
