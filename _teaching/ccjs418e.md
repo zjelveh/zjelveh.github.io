@@ -21,7 +21,7 @@ Actors in the criminal justice system are often tasked with making consequential
 
 
  > - **Decision**: Shelters allocating scarce housing units to victims and survivors of domestic violence. 
- > - **Prediction**: Chance that a survivor is at high risk of re-victimization in the near term. 
+ > - **Prediction**: Chance that a survivor is at high risk of re-victimization in the near term. /
  
  
 At the same time, we know very little about the quality of  predictions made by humans in these contexts. 
@@ -35,12 +35,13 @@ At the same time, we know very little about the quality of  predictions made by 
 Through the lens of [pretrial risk assessments](https://advancingpretrial.org/pretrial-justice/pretrial-justice/)  this course asks and attempts to provide answers to the following questions:
  - What does it mean to make a prediction?
  - How do we know if our predictions are accurate? 
+ - How do we know if they are more accurate than the human?
  - How do we know if our predictions are fair and equitable?
 
 ### What is a prediction?
 In part one of the course, we will discuss what it means to make a prediction from data. To do that, we will go over the basics of probability theory (laws of probability, difference between joint/marginal/conditional probabilities, Bayes theorem). At the end of this section, you will learn that when we are talking about generating a prediction like the one made by a judge, we are talking about estimating a [conditional probability](https://www.khanacademy.org/commoncore/grade-HSS-S-CP). 
 
-A conditional probability tells us about the probability of an event happening given that something else has already happened. For example, a prediction about whether a defendant will show up to their next court date will (most likely) be different if the defendant had *zero* prior missed appearances as opposed to *ten* prior missed appearances. In other words, the chance, or probability, of missing a court date *given* zero prior misses is lower than the chance of missing court *given* ten prior misses. What using data and algorithms gives us here is an explicit estimate of these conditional probabilities. 
+A conditional probability tells us about the probability of an event happening given that something else has already happened. For example, a prediction about whether a defendant will show up to their next court date will (most likely) be different if the defendant had *zero* prior missed appearances as opposed to *ten* prior missed appearances. In other words, the chance, or probability, of missing a court date *given* zero prior misses is lower than the chance of missing court *given* ten prior misses. What using data and algorithms gives us here is an explicit estimate of these conditional probabilities.  
 
 And this is where the data science begins.
 
