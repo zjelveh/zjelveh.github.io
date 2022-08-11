@@ -11,7 +11,7 @@ permalink: /teaching/ccjs418e
 
 ---
 
-Actors in the criminal justice system are often tasked with making consequential decisions that rely on an assessment, or prediction,  of what will happen in the future. Examples of these decisions that are (in part) are made on the basis on a prediction include:  
+Actors in the criminal justice system are often tasked with making consequential decisions that rely on an assessment, or prediction,  of what will happen in the future. Examples of these decisions that hinge (at least in part) on a prediction include:  
  > - **Decision**: A judge releasing or jailing an arrestee. 
  > - **Prediction**: Chance that a defendant will skip future court dates, or be charged with a new crime. 
 
