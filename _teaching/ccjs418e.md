@@ -4,6 +4,7 @@ author_profile: false
 title: "Applications of Data Science for Criminology"
 collection: teaching
 permalink: /teaching/ccjs418e
+classes: wide2
 ---
 
 **Note:** This page serves as an overview of *Applications of Data Science for Criminology* a relativley new course in the Department of Criminology and Criminal Justice at the University of Maryland. The purpose of this page is to give students thinking about enrolling in the course a preview of what to expect. Please feel free to reach out to [me directly](mailto:zjelveh@umd.edu) if you have any questions about the content of the course.
@@ -21,7 +22,7 @@ Actors in the criminal justice system are often tasked with making consequential
 
 
  > - **Decision**: Shelters allocating scarce housing units to victims and survivors of domestic violence. 
- > - **Prediction**: Chance that a survivor is at high risk of re-victimization in the near term. /
+ > - **Prediction**: Chance that a survivor is at high risk of re-victimization in the near term. 
  
  
 At the same time, we know very little about the quality of  predictions made by humans in these contexts. 
