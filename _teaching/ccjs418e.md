@@ -24,20 +24,18 @@ Actors in the criminal justice system are often tasked with making consequential
  > - **Decision**: Shelters allocating scarce housing units to victims and survivors of domestic violence. 
  > - **Prediction**: Chance that a survivor is at high risk of re-victimization in the near term. 
  
- 
-At the same time, we know very little about the quality of  predictions made by humans in these contexts. 
+ There has historically been little data on the quality of these human-generated predictions:
  - Are they accurate?
  - Are they fair? 
- - Do they lead to the intended outcomes? (e.g. Do patrolling decisions lead to lower crime rates, do detention decisions lead to more appearances overall, etc.) 
- - Can they be improved through the use of administrative data and prediction algorithms (a.k.a. data science)? 
- 
- But the use of algorithms in these high-stakes contexts is controversial. Central to this controversy is the fear that data commonly used in these algorithms (e.g. arrest, court, and victimization records) contain human bias, and thus that the predictions from these algorithms will reproduce and reinforce those biases. 
+ - Do they lead to intended outcomes? (e.g. Do patrolling decisions lead to lower crime rates, do detention decisions lead to more court appearances, etc.) 
+
+ At the same time, and driven by their success in the private sector, there has been increasing interest in the use of machine learing algorithms combined with administrative data to generate what are hoped to be highly accurate predictions. But the use of algorithms in these high-stakes contexts is understandably controversial. Central to this controversy is the fear that the data that's commonly used in these algorithms (e.g. arrest, court, and victimization records) contain human bias, and thus that the predictions from these algorithms will reproduce and reinforce those biases. 
 
 Through the lens of [pretrial risk assessments](https://advancingpretrial.org/pretrial-justice/pretrial-justice/)  this course asks and attempts to provide answers to the following questions:
  - What does it mean to make a prediction?
- - How do we know if our predictions are accurate? 
- - How do we know if they are more accurate than the human?
- - How do we know if our predictions are fair and equitable?
+ - How do we know if the predictions made by an algorithm are accurate? 
+ - How do we know if the predictions made by an algorithm are more accurate than those made by humans?
+ - How do we know if the predictions made by an algorithm are fair and equitable?
 
 ### What is a prediction?
 In part one of the course, we will discuss what it means to make a prediction from data. To do that, we will go over the basics of probability theory (laws of probability, difference between joint/marginal/conditional probabilities, Bayes theorem). At the end of this section, you will learn that when we are talking about generating a prediction like the one made by a judge, we are talking about estimating a [conditional probability](https://www.khanacademy.org/commoncore/grade-HSS-S-CP). 
