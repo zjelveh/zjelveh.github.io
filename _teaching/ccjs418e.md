@@ -45,7 +45,7 @@ A conditional probability tells us about the probability of an event happening g
 And this is where the data science begins.
 
 ### Generating accurate conditional probabilities
-In part two of the course, we will learn that what prediction algorithms aim to do is to estimate these conditional probabilities using data. We will cover a sequence of machine learning models that generate these predictions: Naive Bayes, Linear/Logistic Regression, Random Forest, and Gradient Boosting. 
+In part two of the course, we will learn that what prediction algorithms aim to do is to estimate these conditional probabilities using data. We will cover a sequence of machine learning models that generate these predictions: Naive Bayes, Linear/Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.  
 
 In the process we will discuss where each algorithm comes up short in our goal of estimating accurate (or [calibrated](https://projects.fivethirtyeight.com/checking-our-work/)) probabilities and how the subsequent algorithm overcomes that limitation. 
 
