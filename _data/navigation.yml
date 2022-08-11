@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Scholar Page"
-    url: https://scholar.google.com/citations?user=F4X6MlQAAAAJ&hl=en&oi=ao
 
   - title: "Research"
     url: /research/    
@@ -9,14 +7,18 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Scholar Page"
+    url: https://scholar.google.com/citations?user=F4X6MlQAAAAJ&hl=en&oi=ao
+
+  # - title: "Guide"
+  #   url: /markdown/
+
   # - title: "Writing"
   #  url: /writing/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
