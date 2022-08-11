@@ -17,7 +17,7 @@ Actors in the criminal justice system are often tasked with making consequential
  > - **Prediction**: Chance that a defendant will skip future court dates, or be charged with a new crime. 
 
 
- > - **Decision**: Police officers patrolling of different parts of their beat. 
+ > - **Decision**: Police officers patrolling different locations in their beat. 
  > - **Prediction**: Chance that a particular geographic area will experience relatively higher levels of crime. 
 
 
