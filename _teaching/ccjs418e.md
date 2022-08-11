@@ -29,7 +29,7 @@ Actors in the criminal justice system are often tasked with making consequential
  - Are they fair? 
  - Do they lead to intended outcomes? (e.g. Do patrolling decisions lead to lower crime rates, do detention decisions lead to more court appearances, etc.) 
 
- At the same time, and driven by their success in the private sector, there has been increasing interest in the use of machine learing algorithms combined with administrative data to generate what are hoped to be highly accurate predictions. But the use of algorithms in these high-stakes contexts is understandably controversial. Central to this controversy is the fear that the data that's commonly used in these algorithms (e.g. arrest, court, and victimization records) contain human bias, and thus that the predictions from these algorithms will reproduce and reinforce those biases. 
+ At the same time, and spurred on by their success in the private sector, there has been increasing interest in the use of machine learning algorithms to generate what are hoped to be highly accurate predictions in the public domain. But the use of algorithms in these high-stakes contexts is understandably controversial. Central to this controversy is the fear that the data that's commonly used in these algorithms (e.g. arrest, court, and victimization records) contain human bias, and thus that the predictions from these algorithms will reproduce and reinforce those biases. 
 
 Through the lens of [pretrial risk assessments](https://advancingpretrial.org/pretrial-justice/pretrial-justice/)  this course asks and attempts to provide answers to the following questions:
  - What does it mean to make a prediction?
