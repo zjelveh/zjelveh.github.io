@@ -48,14 +48,14 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 /* Colors */
-$background-color: #fffefa !default;
+$background-color: #ffffff !default;
 $text-color: #161520 !default;
 $primary-color: #f21368 !default;
-$border-color: mix(#fff, $background-color, 20%) !default;
+$border-color: mix(rgb(7, 22, 238), $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix($primary-color, #000, 10%) !default;
+$footer-background-color: mix($primary-color, rgb(70, 193, 46), 10%) !default;
 $link-color: $primary-color !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;

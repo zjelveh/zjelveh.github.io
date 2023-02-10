@@ -7,15 +7,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-    
   - title: "CV"
     url: /cv/
     
   - title: "Scholar Page"
     url: https://scholar.google.com/citations?user=F4X6MlQAAAAJ&hl=en&oi=ao
 
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Software"
+    url: /software/
 
   # - title: "Writing"
   #  url: /writing/
