@@ -20,6 +20,7 @@ author_profile: true
 
 
 - [Political Language in Economics](https://sites.santafe.edu/~snaidu/papers/Jelveh_Kogut_Naidu_05232022.pdf) (*Economic Journal*, 2024)
+  - [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535453)
   - **With**: Bruce Kogut and Suresh Naidu  
   - **Abstract**: Do empirical estimates in economics reflect the political orientation of economists? We show that policy-relevant parameters are correlated with economist partisanship as predicted from the text of published academic papers. Specifically, we predict observed political behavior of a subset of economists using the phrases from their academic articles, obtain good out-of-sample fit, and then predict partisanship for all economists. We show considerable sorting of economists into fields of research by predicted partisanship, and yet can detect differences in partisanship among economists even within a field, even across those estimating the same theoretical parameter. Using policy-relevant parameters collected from previous meta-analyses we then show that imputed partisanship is correlated with estimated parameters, such that the implied policy prescription is consistent with partisan leaning. For example, we find that going from the most left-wing authored estimate of the taxable top income elasticity to the most right-wing authored estimate decreases the optimal tax rate from 84% to 58%.
 
@@ -30,7 +31,7 @@ author_profile: true
 
 
 - [Dude, Where’s My Treatment Effect? Errors in Administrative Data Linking and the Destruction of Statistical Power in Randomized Experiments](https://link.springer.com/article/10.1007/s10940-020-09461-x) (*Journal of Quantitative Criminology*, 2020)
-  - [NBER Version](https://www.nber.org/papers/w25657)
+  - [Working Paper Version](https://www.nber.org/papers/w25657)
   - **With**: Sarah Tahamont, Aaron Chalfin, Shi Yan, and Benjamin Hansen
   - **Abstract**: The increasing availability of large administrative datasets has led to an exciting innovation in social policy research—using administrative data to measure experimental outcomes in lieu of costly primary data collection. We demonstrate that this type of randomized experiment can have an unfortunate consequence: the destruction of statistical power. Combining experimental data with administrative records to track outcomes of interest typically requires linking datasets without a common identifier. In order to minimize mistaken linkages, researchers often use stringent linking rules like “exact matching” to ensure that speculative matches do not lead to errors in an analytic dataset. We show that this, seemingly conservative, approach leads to underpowered experiments, leaves real treatment effects undetected, and can therefore have profound implications for entire experimental literatures.
 
