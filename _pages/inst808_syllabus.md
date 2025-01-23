@@ -25,11 +25,11 @@ After completing this course, students will be able to:
 4. Design research workflows that appropriately incorporate AI assistance
 
 ## Prequisites
-While students aren't expected to have deep expertise in all areas, you should be comfortable with:
-- Python programming fundamentals
-- Basic linear algebra (matrix operations)
-- Basic machine learning concepts
-- Fundamental probability concepts
+While students aren't expected to have deep expertise in all areas, you should be comfortable with the following:
+- Python programming fundamentals (working with common data structures, functions, pandas)
+- Basic linear algebra. Understanding how language models represent and manipulate text requires familiarity with vector and matrix operations (addition, multiplication, transpose, distance, similarity).
+- Basic machine learning concepts (supervised vs unsupervised learning, common evaluation metrics)
+- Fundamental probability concepts (conditional probability, independence)
 
 ## Technical Requirements
 This course explores cutting-edge AI technologies, but we'll be working within practical computational constraints. While large language models like GPT-4 or Claude 3.5 require significant computing resources, we'll focus on working with smaller, more manageable models that can run on personal computers. Students will need a laptop capable of running Python and handling lightweight language models (8GB RAM minimum, 16GB+ recommended). We'll use TerpAI for tasks requiring more computational power, but part of the learning experience will involve understanding how to conduct meaningful research within resource limitations. The course will emphasize understanding core concepts and developing practical workflows that can scale from limited to abundant computational resources.
