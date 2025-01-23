@@ -10,8 +10,8 @@ author_profile: true
 {% include base_path %}
 
 ## Graduate
-- INST 800: AI as Research Assistant (Spring 2025)
-- CCJS 699F: Data Science for Criminology
+- INST 798/808 (Spring 2025): [A.I. as Research Assistant](/teaching/inst_808_syllabus)
+- CCJS 699F (Spring 2024): Data Science for Criminology
 
 
 ## Undergraduate
