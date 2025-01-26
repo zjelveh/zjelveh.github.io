@@ -132,11 +132,8 @@ The Final Paper will be due on the first day of finals period.
 ## Weekly Schedule
 
 ### Week 1: Introduction to Natural Language Processing
-**Topics:**
-- Basic NLP concepts
-- Text representation methods
-- Course tools and setup
-
+**Readings:**
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/)
 
 ### Week 2: Word Embeddings (No Class)
 **Required Readings:**
