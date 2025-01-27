@@ -24,7 +24,7 @@ After completing this course, students will be able to:
 3. Implement proper validation and error analysis techniques
 4. Design research workflows that appropriately incorporate AI assistance
 
-## Prequisites
+## Prerequisites
 While students aren't expected to have deep expertise in all areas, you should be comfortable with the following:
 - Python programming fundamentals (working with common data structures, functions, pandas)
 - Basic linear algebra. Understanding how language models represent and manipulate text requires familiarity with vector and matrix operations (addition, multiplication, transpose, distance, similarity).
