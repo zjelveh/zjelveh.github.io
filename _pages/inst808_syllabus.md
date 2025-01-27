@@ -155,9 +155,7 @@ The Final Paper will be due on the first day of finals period.
 ### Week 3: Neural Networks & Transformers
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-   - Chapter 7: 3.1 to 3.3, 3.7
-   - Chapter 8: 4.1, 4.6 to 4.8
-   - Chapter 9: 5.1 to 5.5
+   - Chapters 7 to 9
 - [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Howard & Ruder (2018). Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
