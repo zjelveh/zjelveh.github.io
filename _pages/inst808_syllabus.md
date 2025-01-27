@@ -48,14 +48,14 @@ This course explores cutting-edge AI technologies, but we'll be working within p
 <details>
 <summary class="section-heading">Weekly questions/reflections (20%)</summary>
 
-Students will submit weekly questions or reflections (maximum 500 words) by <b>Tuesday at 5pm</b> before each class. These submissions serve two purposes: they help shape our class discussion and demonstrate your engagement with the readings. These submissions will be used to guide our class discussions, so be prepared to elaborate on your question or reflection during class. Your submission should do one of the following:
+Students will submit weekly questions or reflections (maximum 500 words) by <b>Tuesday at 5pm</b> before each class. These submissions serve two purposes: they help shape our class discussion and demonstrate your engagement with the Reading. These submissions will be used to guide our class discussions, so be prepared to elaborate on your question or reflection during class. Your submission should do one of the following:
 
 <ul>
-<li>Pose a substantive question sparked by the readings. This could be about methodology, implications, connections to other work, or potential applications. Questions should go beyond basic clarification to engage with the material's concepts or implications.</li>
+<li>Pose a substantive question sparked by the Reading. This could be about methodology, implications, connections to other work, or potential applications. Questions should go beyond basic clarification to engage with the material's concepts or implications.</li>
 
-<li>Offer a reflection that connects multiple readings, relates the material to your own research, or critically examines the methodology or assumptions. Your reflection might consider how different papers approach similar problems, identify potential limitations, or propose new applications.</li>
+<li>Offer a reflection that connects multiple Reading, relates the material to your own research, or critically examines the methodology or assumptions. Your reflection might consider how different papers approach similar problems, identify potential limitations, or propose new applications.</li>
 
-<li>Express and explore areas of confusion in the readings. Some of our papers are technically challenging, and identifying what you don't understand is an important part of the learning process. When discussing confusing aspects, please:
+<li>Express and explore areas of confusion in the Reading. Some of our papers are technically challenging, and identifying what you don't understand is an important part of the learning process. When discussing confusing aspects, please:
   <ul>
     <li>Describe your current understanding of the concept</li>
     <li>Identify specifically what aspect is unclear</li>
@@ -132,7 +132,7 @@ The Final Paper will be due on the first day of finals period.
 ## Weekly Schedule
 
 ### Week 1: Introduction to Natural Language Processing
-**Readings:**
+**Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 3: 3.1 to 3.3, 3.7
    - Chapter 4: 4.1, 4.6 to 4.8
@@ -141,28 +141,28 @@ The Final Paper will be due on the first day of finals period.
 
 
 ### Week 2: Word Embeddings (No Class)
-**Required Readings:**
+**Required Reading:**
 - [Rodriguez & Spirling (2022). Word Embeddings: What Works, What Doesn't, and How to Tell the Difference for Applied Research](https://www.journals.uchicago.edu/doi/full/10.1086/715162)
 - [Kutuzov et al. (2018). Diachronic word embeddings and semantic shifts: a survey](https://arxiv.org/abs/1806.03537)
 - [Hofmann et al. (2021). Dynamic Contextualized Word Embeddings](https://arxiv.org/abs/2010.12684)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Hamilton et al. (2018). Diachronic Word Embeddings Reveal Statistical Laws](https://arxiv.org/abs/1605.09096)
 - [Yao et al. (2018). Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/abs/1703.00607)
 - [Charlesworth et al. (2022). Historical representations of social groups](https://www.pnas.org/doi/10.1073/pnas.2121798119)
 
 
 ### Week 3: Neural Networks & Transformers
+**Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 7: 3.1 to 3.3, 3.7
    - Chapter 8: 4.1, 4.6 to 4.8
    - Chapter 9: 5.1 to 5.5
-**Required Readings:**
 - [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Howard & Ruder (2018). Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
-**Highly Recommended Video:**
+**Highly Recommended Videos:**
 - [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 - [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
@@ -172,13 +172,13 @@ The Final Paper will be due on the first day of finals period.
 - [AI Coffee Break: Deepdive into transformers](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
 - [Neel Nanda: What is a Transformer](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 
 ### Week 4: Mechanistic Interpretability Week I
-**Required Readings:**
+**Required Reading:**
 - [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
 - [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
 - [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
@@ -186,13 +186,13 @@ The Final Paper will be due on the first day of finals period.
 
 
 ### Week 5: Mechanistic Interpretability Week II
-**Required Readings:**
+**Required Reading:**
 - [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 - [Ahuja et al. (2024). Learning Syntax Without Planting Trees: Understanding When and Why  Transformers Generalize Hierarchically](https://openreview.net/forum?id=YwLgSimUIT)
 - [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
 - [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Jiang et al. (2024). On the Origins of Linear Representations in Large Language Models](http://arxiv.org/abs/2403.03867)
 - [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
 - [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
@@ -200,55 +200,55 @@ The Final Paper will be due on the first day of finals period.
 - [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
 
 ### Week 6: Modern Topic Modeling
-**Required Readings:**
+**Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
 - [We et al. (2024). FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model](http://arxiv.org/abs/2405.17978)
 - [Pham et al. (2024). TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
 - [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
 
 ### Week 7: Qualitative Coding with LLMs I 
-**Required Readings:**
+**Required Reading:**
 - [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
 - [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](https://arxiv.org/abs/2306.00176)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
 
 
 ### Week 8: Qualitative Coding with LLMs II
-**Required Readings:**
+**Required Reading:**
 - [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
 - [Arlinghaus et al. (2024). Inductive Coding with ChatGPT - An Evaluation of Different GPT Models  Clustering Qualitative Data into Categories](https://osf.io/gpnye)
 
-**Optional Readings:**
+**Optional Reading:**
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
 
 
 ### Week 9: Error Analysis and Validation
-**Required Readings:**
+**Required Reading:**
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 - [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
 - [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
 
 
 ### Week 10: Concept Tracing I
-**Required Readings:**
+**Required Reading:**
 - [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
 - [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://arxiv.org/abs/2402.01661)
 
 - [Ganguli et al. (2024). Mapping Inventions in the Space of Ideas, 1836–2022:  Representation, Measurement, and Validation](https://congress-files.s3.amazonaws.com/2024-07/Innovation_similarity%2520%25281%2529-compressed.pdf?VersionId=Kv5xhUL2ZVVFYG6zh.JnVVouAP4RIV8B)
 
-**Optional Readings:**
+**Optional Reading:**
 - [Vicinanza et al. (2022). Deep-learning model of prescient ideas demonstrates that they emerge from the periphery](https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776)
 - [Lucy et al. (2023). Words as Gatekeepers](https://arxiv.org/abs/2212.09676)
 - [Rosin et al. (2022). Time Masking for Temporal Language Models](https://doi.org/10.1145/3488560.3498529)
@@ -256,7 +256,7 @@ The Final Paper will be due on the first day of finals period.
 
 
 ### Week 11: Concept Tracing II
-**Required Readings:**
+**Required Reading:**
 - [Garg & Fetzer (2025). Causal Claims in Economics](https://arxiv.org/abs/2501.06873)
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/10.1145/3613904.3642830)
