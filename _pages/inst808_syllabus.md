@@ -133,7 +133,12 @@ The Final Paper will be due on the first day of finals period.
 
 ### Week 1: Introduction to Natural Language Processing
 **Readings:**
-- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/)
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+   - Chapter 3: 3.1 to 3.3, 3.7
+   - Chapter 4: 4.1, 4.6 to 4.8
+   - Chapter 5: 5.1 to 5.5
+   - Chapter 6: 6.1 to 6.4, 6.8 to 6.12
+
 
 ### Week 2: Word Embeddings (No Class)
 **Required Readings:**
@@ -148,14 +153,28 @@ The Final Paper will be due on the first day of finals period.
 
 
 ### Week 3: Neural Networks & Transformers
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+   - Chapter 7: 3.1 to 3.3, 3.7
+   - Chapter 8: 4.1, 4.6 to 4.8
+   - Chapter 9: 5.1 to 5.5
 **Required Readings:**
-- [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Howard & Ruder (2018). Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
+**Highly Recommended Video:**
+- [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
+- [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
+
+**Recommended Videos:**
+- [Transformer explanation](https://www.youtube.com/watch?v=bCz4OMemCcA&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=19)
+- [AI Coffee Break: Deepdive into transformers](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
+- [Neel Nanda: What is a Transformer](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
+
 **Optional Readings:**
-- [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
+- [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 
 ### Week 4: Mechanistic Interpretability Week I
 **Required Readings:**
