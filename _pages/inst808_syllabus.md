@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Syllabus for INST 798/808: A.I.-Powered Research Assistants"
-permalink: /teaching/inst_808_syllabus
+layout: splash
 author_profile: false
+title: "Syllabus for INST 798/808: A.I.-Powered Research Assistants"
+collection: teaching
+permalink: /teaching/inst_808_syllabus
+classes: wide
 ---
 
 
@@ -158,7 +160,6 @@ The Final Paper will be due on the first day of finals period.
    - Chapters 7 to 9
 - [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- [Howard & Ruder (2018). Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
 **Highly Recommended Videos:**
 - [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)

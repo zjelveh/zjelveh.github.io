@@ -1,10 +1,10 @@
 ---
-layout: single-no-sidebar
+layout: splash
 author_profile: false
 title: "CCJS 418E: Applications of Data Science for Criminology (Fall 2023)"
 collection: teaching
 permalink: /teaching/ccjs418e
-classes: wide2
+classes: wide
 ---
 
 
