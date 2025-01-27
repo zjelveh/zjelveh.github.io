@@ -163,6 +163,7 @@ The Final Paper will be due on the first day of finals period.
 - [Howard & Ruder (2018). Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
 **Highly Recommended Video:**
+- [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 - [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
 
