@@ -134,6 +134,8 @@ The Final Paper will be due on the first day of finals period.
 ## Weekly Schedule
 
 ### Week 1: Introduction to Natural Language Processing
+[Slides](https://www.dropbox.com/scl/fi/sgkjfwi9nv8yadea0su54/Lecture_1__Intro.pptx?rlkey=icaxn0zoeiql3fchxu9wfz04s&st=ha8h815f&dl=1) | [Lab Notebook]()
+
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 3: 3.1 to 3.3, 3.7
