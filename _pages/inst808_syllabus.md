@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: splash
 author_profile: false
 title: "Syllabus for INST 798/808: A.I.-Powered Research Assistants"
@@ -6,7 +7,6 @@ collection: teaching
 permalink: /teaching/inst_808_syllabus
 classes: wide
 ---
-
 
 **Location + Time:** [TWS 0207](https://25live.collegenet.com/pro/umd#!/home/location/2426/details), Thursdays 2 to 4.45p.m. 
 
@@ -39,7 +39,7 @@ This course explores cutting-edge AI technologies, but we'll be working within p
 
 <style>
 .section-heading {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: bold;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -141,6 +141,11 @@ The Final Paper will be due on the first day of finals period.
    - Chapter 5: 5.1 to 5.5
    - Chapter 6: 6.1 to 6.4, 6.8 to 6.12
 
+**Highly Recommended Video:**
+- [3Blue1Brown: Essence of Linear Algebra Course](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+**Recommended Video:**
+- [Jason Wei: Scaling Paradigms for Large Language Models](https://youtu.be/yhpjpNXJDco?si=4SUMHKS0oWs7f08P)
 
 ### Week 2: Word Embeddings (No Class)
 **Required Reading:**
@@ -162,14 +167,14 @@ The Final Paper will be due on the first day of finals period.
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 **Highly Recommended Videos:**
-- [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- [AI Coffee Break: Deepdive into transformers](https://youtu.be/BprirYymXrg?si=EtnhWt3ntZZHQAZ3)
 - [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
-- [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
+- [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 **Recommended Videos:**
-- [Transformer explanation](https://www.youtube.com/watch?v=bCz4OMemCcA&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=19)
-- [AI Coffee Break: Deepdive into transformers](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
-- [Neel Nanda: What is a Transformer](https://www.youtube.com/watch?v=BprirYymXrg&list=PLqS2w6oyI17endIeNur8KQxw2zz1Qy_af&index=16)
+- [Transformer explanation](https://youtu.be/bCz4OMemCcA?si=X3Nh7XiN0Grp74W2)
+- [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
+- [Neel Nanda: What is a Transformer](https://youtu.be/bOYE6E8JrtU?si=dQYy04RmvWriP7Go)
 
 **Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
