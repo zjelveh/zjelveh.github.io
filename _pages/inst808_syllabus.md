@@ -150,6 +150,8 @@ The Final Paper will be due on the first day of finals period.
 **Recommended Video:**
 - [Jason Wei: Scaling Paradigms for Large Language Models](https://youtu.be/yhpjpNXJDco?si=4SUMHKS0oWs7f08P)
 
+---
+
 ### Week 2: Word Embeddings (No Class)
 **Required Reading:**
 - [Rodriguez & Spirling (2022). Word Embeddings: What Works, What Doesn't, and How to Tell the Difference for Applied Research](https://www.journals.uchicago.edu/doi/full/10.1086/715162)
@@ -161,6 +163,7 @@ The Final Paper will be due on the first day of finals period.
 - [Yao et al. (2018). Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/abs/1703.00607)
 - [Charlesworth et al. (2022). Historical representations of social groups](https://www.pnas.org/doi/10.1073/pnas.2121798119)
 
+---
 
 ### Week 3: Neural Networks & Transformers
 **Required Reading:**
@@ -183,6 +186,7 @@ The Final Paper will be due on the first day of finals period.
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
+---
 
 ### Week 4: Mechanistic Interpretability Week I
 **Required Reading:**
@@ -191,6 +195,7 @@ The Final Paper will be due on the first day of finals period.
 - [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
 - [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
 
+---
 
 ### Week 5: Mechanistic Interpretability Week II
 **Required Reading:**
@@ -206,6 +211,8 @@ The Final Paper will be due on the first day of finals period.
 - [Csordas et al. (2024). Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](http://arxiv.org/abs/2408.10920)
 - [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
 
+---
+
 ### Week 6: Modern Topic Modeling
 **Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
@@ -216,6 +223,8 @@ The Final Paper will be due on the first day of finals period.
 - [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
 - [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
 
+---
+
 ### Week 7: Qualitative Coding with LLMs I 
 **Required Reading:**
 - [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
@@ -225,6 +234,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
 
+---
 
 ### Week 8: Qualitative Coding with LLMs II
 **Required Reading:**
@@ -235,6 +245,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
 
+---
 
 ### Week 9: Error Analysis and Validation
 **Required Reading:**
@@ -247,6 +258,7 @@ The Final Paper will be due on the first day of finals period.
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
 
+---
 
 ### Week 10: Concept Tracing I
 **Required Reading:**
@@ -260,7 +272,7 @@ The Final Paper will be due on the first day of finals period.
 - [Lucy et al. (2023). Words as Gatekeepers](https://arxiv.org/abs/2212.09676)
 - [Rosin et al. (2022). Time Masking for Temporal Language Models](https://doi.org/10.1145/3488560.3498529)
 
-
+---
 
 ### Week 11: Concept Tracing II
 **Required Reading:**
@@ -268,6 +280,7 @@ The Final Paper will be due on the first day of finals period.
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/10.1145/3613904.3642830)
 
+---
 
 ### Week 12-14: To Be Determined
 
