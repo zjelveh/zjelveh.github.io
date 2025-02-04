@@ -8,6 +8,7 @@ permalink: /teaching/inst_808_syllabus
 classes: wide
 ---
 
+# INST 798/808: A.I.-Powered Research Assistants
 **Location + Time:** [TWS 0207](https://25live.collegenet.com/pro/umd#!/home/location/2426/details), Thursdays 2 to 4.45p.m. 
 
 ## Course Description
