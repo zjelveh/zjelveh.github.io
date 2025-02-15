@@ -141,8 +141,6 @@ The Final Paper will be due on the first day of finals period.
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 3: 3.1 to 3.3, 3.7
    - Chapter 4: 4.1, 4.6 to 4.8
-   - Chapter 5: 5.1 to 5.5
-   - Chapter 6: 6.1 to 6.4, 6.8 to 6.12
 
 **Highly Recommended Video:**
 - [3Blue1Brown: Essence of Linear Algebra Course](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -165,17 +163,32 @@ The Final Paper will be due on the first day of finals period.
 
 ---
 
-### Week 3: Neural Networks & Transformers
+### Week 3: Neural Networks 
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-   - Chapters 7 to 9
+   - Chapter 5: 5.1 to 5.5
+   - Chapter 6: 6.1 to 6.4, 6.8 to 6.12   
+   - Chapters 7 
+
+**Highly Recommended Videos:**
+- [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
+- [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- [ritvikmath: Word2Vec](https://www.youtube.com/watch?v=f7o8aDNxf7k&list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY&index=25)
+
+---
+
+### Week 4: RNNS, Attention, and Transformers
+**Required Reading:**
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+   - Chapter 8: 8-8.2.1, 8.3, 8.7 (not 8.7.1), 8.8
+   - Chapter 9
 - [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 **Highly Recommended Videos:**
+- [ritvikmath: Recurrent Neural Networks](https://www.youtube.com/watch?v=DFZ1UA7-fxY)
 - [AI Coffee Break: Deepdive into transformers](https://youtu.be/BprirYymXrg?si=EtnhWt3ntZZHQAZ3)
-- [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
-- [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- [3Blue1Brown: Neural Networks - Chapters 5 and 6](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 
 **Recommended Videos:**
 - [Transformer explanation](https://youtu.be/bCz4OMemCcA?si=X3Nh7XiN0Grp74W2)
@@ -187,18 +200,12 @@ The Final Paper will be due on the first day of finals period.
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ---
-
-### Week 4: Mechanistic Interpretability Week I
+### Week 5: Mechanistic Interpretability
 **Required Reading:**
 - [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
 - [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
 - [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
 - [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
-
----
-
-### Week 5: Mechanistic Interpretability Week II
-**Required Reading:**
 - [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 - [Ahuja et al. (2024). Learning Syntax Without Planting Trees: Understanding When and Why  Transformers Generalize Hierarchically](https://openreview.net/forum?id=YwLgSimUIT)
 - [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
