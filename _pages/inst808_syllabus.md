@@ -178,7 +178,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 4: RNNS and Attention
-[Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb)
+[Slides](/files/Lecture_2__NN.pptx) | [Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb)
 
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
