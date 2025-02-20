@@ -177,7 +177,9 @@ The Final Paper will be due on the first day of finals period.
 
 ---
 
-### Week 4: RNNS, Attention, and Transformers
+### Week 4: RNNS and Attention
+[Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb)
+
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 8: 8-8.2.1, 8.3, 8.7 (not 8.7.1), 8.8
@@ -200,23 +202,23 @@ The Final Paper will be due on the first day of finals period.
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ---
-### Week 5: Mechanistic Interpretability
+### Week 5: Transformers and Mechanistic Interpretability
 **Required Reading:**
-- [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
-- [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
 - [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
+- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
+- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
 - [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
-- [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-- [Ahuja et al. (2024). Learning Syntax Without Planting Trees: Understanding When and Why  Transformers Generalize Hierarchically](https://openreview.net/forum?id=YwLgSimUIT)
 - [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
-- [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
 
 **Optional Reading:**
+- [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
+- [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
+- [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
 - [Jiang et al. (2024). On the Origins of Linear Representations in Large Language Models](http://arxiv.org/abs/2403.03867)
-- [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
-- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
+- [Ahuja et al. (2024). Learning Syntax Without Planting Trees: Understanding When and Why  Transformers Generalize Hierarchically](https://openreview.net/forum?id=YwLgSimUIT)
 - [Csordas et al. (2024). Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](http://arxiv.org/abs/2408.10920)
-- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
+- [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
+- [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
 
 ---
 
