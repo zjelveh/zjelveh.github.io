@@ -202,8 +202,10 @@ The Final Paper will be due on the first day of finals period.
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ---
-### Week 5: Transformers and Mechanistic Interpretability
+### Week 5: Transformers and Sentence Embeddings
 **Required Reading:**
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+   - Chapter 11: 11.1 to 11.4
 - [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
 - [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
 - [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
@@ -211,6 +213,21 @@ The Final Paper will be due on the first day of finals period.
 - [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
 
 **Optional Reading:**
+- [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [Blog Post: Foundation Models, Transformers, BERT and GPT](https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/)
+
+---
+### Week 6: Mechanistic Interpretability
+**Required Reading:**
+- [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
+- [Bricken et al. (2023). Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+
+
+**Optional Reading:**
+- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
+- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
+- [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
+- [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
 - [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
 - [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 - [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
@@ -221,21 +238,11 @@ The Final Paper will be due on the first day of finals period.
 - [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
 
 ---
-
-### Week 6: Modern Topic Modeling
-**Required Reading:**
-- [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
-- [We et al. (2024). FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model](http://arxiv.org/abs/2405.17978)
-- [Pham et al. (2024). TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
-
-**Optional Reading:**
-- [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
-- [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
-
----
-
 ### Week 7: Qualitative Coding with LLMs I 
 **Required Reading:**
+- Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+   - Chapter 12
+- [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/abs/10.1145/3613904.3642830)
 - [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
 - [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](https://arxiv.org/abs/2306.00176)
@@ -244,7 +251,6 @@ The Final Paper will be due on the first day of finals period.
 - [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
 
 ---
-
 ### Week 8: Qualitative Coding with LLMs II
 **Required Reading:**
 - [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
@@ -255,8 +261,18 @@ The Final Paper will be due on the first day of finals period.
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
 
 ---
+### Week 9: Modern Topic Modeling
+**Required Reading:**
+- [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
+- [We et al. (2024). FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model](http://arxiv.org/abs/2405.17978)
+- [Pham et al. (2024). TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
 
-### Week 9: Error Analysis and Validation
+**Optional Reading:**
+- [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
+- [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
+
+---
+### Week 10: Error Analysis and Validation
 **Required Reading:**
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 - [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
@@ -269,7 +285,7 @@ The Final Paper will be due on the first day of finals period.
 
 ---
 
-### Week 10: Concept Tracing I
+### Week 11: Concept Tracing I
 **Required Reading:**
 - [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
 - [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://arxiv.org/abs/2402.01661)
@@ -283,7 +299,7 @@ The Final Paper will be due on the first day of finals period.
 
 ---
 
-### Week 11: Concept Tracing II
+### Week 12: Concept Tracing II
 **Required Reading:**
 - [Garg & Fetzer (2025). Causal Claims in Economics](https://arxiv.org/abs/2501.06873)
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
@@ -291,7 +307,7 @@ The Final Paper will be due on the first day of finals period.
 
 ---
 
-### Week 12-14: To Be Determined
+### Week 13-14: To Be Determined
 
 <!-- ## Course Policies
 [Standard policies about attendance, late work, academic integrity, etc. to be added] -->
