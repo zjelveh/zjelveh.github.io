@@ -204,6 +204,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 ### Week 5: Transformers and Sentence Embeddings
 [Slides](/files/Lecture_3__Transformers.pptx) | [Lab Notebook](/files/inst_808__Lab_3__sentence_embeddings.ipynb)
+
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 11: 11.1 to 11.4
