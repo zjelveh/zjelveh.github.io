@@ -146,7 +146,7 @@ The Final Paper will be due on the first day of finals period.
 ## Weekly Schedule
 
 ### Week 1: Introduction to Natural Language Processing
-[Slides](https://www.dropbox.com/scl/fi/sgkjfwi9nv8yadea0su54/Lecture_1__Intro.pptx?rlkey=icaxn0zoeiql3fchxu9wfz04s&st=ha8h815f&dl=1) | [Lab Notebook](/files/inst_808__Lab_1__ngram_lm.ipynb)
+[Slides](https://www.dropbox.com/scl/fi/sgkjfwi9nv8yadea0su54/Lecture_1__Intro.pptx?rlkey=icaxn0zoeiql3fchxu9wfz04s&st=ha8h815f&dl=1) | [Lab Notebook](/files/inst_808__Lab_1__ngram_lm.ipynb) | [Solutions](/files/inst_808__Lab_1__ngram_lm_sol.html)
 
 
 **Required Reading:**
@@ -192,7 +192,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 4: RNNS and Attention
-[Slides](/files/Lecture_2__NN.pptx) | [Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb)
+[Slides](/files/Lecture_2__NN.pptx) | [Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb) | [Solutions](/files/inst_808__Lab_2__word2vec_sol.html)
 
 
 **Required Reading:**

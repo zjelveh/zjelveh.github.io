@@ -1,0 +1,42 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background: #121212;
+    color: #ffffff;
+}
+
+.dark-mode a {
+    color: #BB86FC;
+}
+
+.dark-mode .reading-section, .dark-mode .section-heading {
+    background: #1e1e1e;
+    color: #e0e0e0;
+}
+
+.dark-mode details {
+    background: #222;
+    border: 1px solid #444;
+}
+
+.dark-mode summary {
+    color: #BB86FC;
+}
+
+/* Dark Mode Toggle Button */
+#dark-mode-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: #222;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+    z-index: 1000;
+}
+
+#dark-mode-toggle:hover {
+    background: #444;
+}
