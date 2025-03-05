@@ -173,6 +173,7 @@ The Final Paper will be due on the first day of finals period.
 - [Hamilton et al. (2018). Diachronic Word Embeddings Reveal Statistical Laws](https://arxiv.org/abs/1605.09096)
 - [Yao et al. (2018). Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/abs/1703.00607)
 - [Charlesworth et al. (2022). Historical representations of social groups](https://www.pnas.org/doi/10.1073/pnas.2121798119)
+
 ---
 
 ### Week 3: Neural Networks 
@@ -187,6 +188,7 @@ The Final Paper will be due on the first day of finals period.
 - [3Blue1Brown: Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 - [StatQuest: Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [ritvikmath: Word2Vec](https://www.youtube.com/watch?v=f7o8aDNxf7k&list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY&index=25)
+
 ---
 
 ### Week 4: RNNS and Attention
@@ -210,6 +212,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 - [Vaswani et al. (2017). Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 ---
 
 ### Week 5: Transformers and Sentence Embeddings
@@ -228,6 +231,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [Blog Post: Foundation Models, Transformers, BERT and GPT](https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/)
+
 ---
 
 ### Week 6: Mechanistic Interpretability
@@ -250,6 +254,7 @@ The Final Paper will be due on the first day of finals period.
 - [Csordas et al. (2024). Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](http://arxiv.org/abs/2408.10920)
 - [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
 - [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
+
 ---
 
 ### Week 7: Qualitative Coding with LLMs I 
@@ -278,6 +283,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
 - [Arlinghaus et al. (2024). Inductive Coding with ChatGPT - An Evaluation of Different GPT Models  Clustering Qualitative Data into Categories](https://osf.io/gpnye)
+
 ---
 ### Week 9: Modern Topic Modeling
 
@@ -289,6 +295,7 @@ The Final Paper will be due on the first day of finals period.
 **Optional Reading:**
 - [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
 - [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
+
 ---
 ### Week 10: Error Analysis and Validation
 
@@ -301,6 +308,7 @@ The Final Paper will be due on the first day of finals period.
 - [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
+
 ---
 
 ### Week 11: Concept Tracing I
@@ -315,6 +323,7 @@ The Final Paper will be due on the first day of finals period.
 - [Vicinanza et al. (2022). Deep-learning model of prescient ideas demonstrates that they emerge from the periphery](https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776)
 - [Lucy et al. (2023). Words as Gatekeepers](https://arxiv.org/abs/2212.09676)
 - [Rosin et al. (2022). Time Masking for Temporal Language Models](https://doi.org/10.1145/3488560.3498529)
+
 ---
 
 ### Week 12: Concept Tracing II
@@ -324,6 +333,7 @@ The Final Paper will be due on the first day of finals period.
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/10.1145/3613904.3642830)
 </div>
+
 ---
 
 ### Week 13-14: To Be Determined
