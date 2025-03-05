@@ -246,21 +246,24 @@ The Final Paper will be due on the first day of finals period.
    - Chapter 12
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/abs/10.1145/3613904.3642830)
 - [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
-- [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
+- [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](https://arxiv.org/abs/2306.00176)
 
 **Optional Reading:**
-- [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
+- [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
+- [Dai et al. (2023). LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis](https://arxiv.org/abs/2310.15100)
 
 ---
+
 ### Week 8: Qualitative Coding with LLMs II
 **Required Reading:**
 - [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
-- [Arlinghaus et al. (2024). Inductive Coding with ChatGPT - An Evaluation of Different GPT Models  Clustering Qualitative Data into Categories](https://osf.io/gpnye)
+- [Shao et al. (2024). Case2Code: Learning Inductive Reasoning with Synthetic Data.](https://arxiv.org/html/2407.12504)
 
 **Optional Reading:**
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
+- [Arlinghaus et al. (2024). Inductive Coding with ChatGPT - An Evaluation of Different GPT Models  Clustering Qualitative Data into Categories](https://osf.io/gpnye)
 
 ---
 ### Week 9: Modern Topic Modeling
