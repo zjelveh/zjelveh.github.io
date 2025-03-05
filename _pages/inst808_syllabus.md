@@ -259,6 +259,7 @@ The Final Paper will be due on the first day of finals period.
 - [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
 - [Shao et al. (2024). Case2Code: Learning Inductive Reasoning with Synthetic Data.](https://arxiv.org/html/2407.12504)
+- [Relin et al. (2024). Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives](https://www.crimrxiv.com/pub/vomgw766/release/1)
 
 **Optional Reading:**
 - [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
