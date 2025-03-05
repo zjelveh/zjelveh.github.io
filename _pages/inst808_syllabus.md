@@ -184,8 +184,6 @@ The Final Paper will be due on the first day of finals period.
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 8: 8-8.2.1, 8.3, 8.7 (not 8.7.1), 8.8
    - Chapter 9
-- [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-- [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 **Highly Recommended Videos:**
 - [ritvikmath: Recurrent Neural Networks](https://www.youtube.com/watch?v=DFZ1UA7-fxY)
@@ -208,11 +206,8 @@ The Final Paper will be due on the first day of finals period.
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 11: 11.1 to 11.4
-- [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
-- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
-- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
-- [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
-- [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
+- [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 **Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
