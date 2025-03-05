@@ -187,7 +187,6 @@ The Final Paper will be due on the first day of finals period.
 
 **Highly Recommended Videos:**
 - [ritvikmath: Recurrent Neural Networks](https://www.youtube.com/watch?v=DFZ1UA7-fxY)
-- [AI Coffee Break: Deepdive into transformers](https://youtu.be/BprirYymXrg?si=EtnhWt3ntZZHQAZ3)
 - [3Blue1Brown: Neural Networks - Chapters 5 and 6](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 
 **Recommended Videos:**
@@ -208,6 +207,9 @@ The Final Paper will be due on the first day of finals period.
    - Chapter 11: 11.1 to 11.4
 - [Alammar (2018). The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Rush (2018). The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+**Highly Recommended Videos:**
+- [AI Coffee Break: Deepdive into transformers](https://youtu.be/BprirYymXrg?si=EtnhWt3ntZZHQAZ3)
 
 **Optional Reading:**
 - [Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
