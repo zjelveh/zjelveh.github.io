@@ -263,7 +263,6 @@ The Final Paper will be due on the first day of finals period.
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 12
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/abs/10.1145/3613904.3642830)
-- []()
 - [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
 - [Schroeder et al. (2025). Large Language Models in Qualitative Research:
 Uses, Tensions, and Intentions](https://arxiv.org/pdf/2410.07362)
