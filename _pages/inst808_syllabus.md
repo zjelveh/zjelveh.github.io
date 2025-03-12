@@ -165,14 +165,14 @@ The Final Paper will be due on the first day of finals period.
 ### Week 2: Word Embeddings (No Class)
 
 **Required Reading:**
-- [Rodriguez & Spirling (2022). Word Embeddings: What Works, What Doesn't, and How to Tell the Difference for Applied Research](https://www.journals.uchicago.edu/doi/full/10.1086/715162)
-- [Kutuzov et al. (2018). Diachronic word embeddings and semantic shifts: a survey](https://arxiv.org/abs/1806.03537)
 - [Hofmann et al. (2021). Dynamic Contextualized Word Embeddings](https://arxiv.org/abs/2010.12684)
+- [Kutuzov et al. (2018). Diachronic word embeddings and semantic shifts: a survey](https://arxiv.org/abs/1806.03537)
+- [Rodriguez & Spirling (2022). Word Embeddings: What Works, What Doesn't, and How to Tell the Difference for Applied Research](https://www.journals.uchicago.edu/doi/full/10.1086/715162)
 
 **Optional Reading:**
+- [Charlesworth et al. (2022). Historical representations of social groups](https://www.pnas.org/doi/10.1073/pnas.2121798119)
 - [Hamilton et al. (2018). Diachronic Word Embeddings Reveal Statistical Laws](https://arxiv.org/abs/1605.09096)
 - [Yao et al. (2018). Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/abs/1703.00607)
-- [Charlesworth et al. (2022). Historical representations of social groups](https://www.pnas.org/doi/10.1073/pnas.2121798119)
 
 ---
 
@@ -205,8 +205,8 @@ The Final Paper will be due on the first day of finals period.
 - [3Blue1Brown: Neural Networks - Chapters 5 and 6](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=99t8gHU7x_4_0lxm)
 
 **Recommended Videos:**
-- [Transformer explanation](https://youtu.be/bCz4OMemCcA?si=X3Nh7XiN0Grp74W2)
 - [Serrano.Academy: The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&t=0s)
+- [Transformer explanation](https://youtu.be/bCz4OMemCcA?si=X3Nh7XiN0Grp74W2)
 - [Neel Nanda: What is a Transformer](https://youtu.be/bOYE6E8JrtU?si=dQYy04RmvWriP7Go)
 
 **Optional Reading:**
@@ -237,23 +237,23 @@ The Final Paper will be due on the first day of finals period.
 ### Week 6: Mechanistic Interpretability
 
 **Required Reading:**
-- [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
 - [Bricken et al. (2023). Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+- [Tennenholtz et al. (2024). Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
 
 
 **Optional Reading:**
-- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
-- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
-- [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
-- [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
-- [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
-- [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-- [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
-- [Jiang et al. (2024). On the Origins of Linear Representations in Large Language Models](http://arxiv.org/abs/2403.03867)
 - [Ahuja et al. (2024). Learning Syntax Without Planting Trees: Understanding When and Why  Transformers Generalize Hierarchically](https://openreview.net/forum?id=YwLgSimUIT)
 - [Csordas et al. (2024). Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations](http://arxiv.org/abs/2408.10920)
-- [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
+- [Engels et al. (2024). Not All Language Model Features Are Linear](http://arxiv.org/abs/2405.14860)
+- [Huben et al. (2023). Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://openreview.net/forum?id=F76bwRSLeK)
+- [Jiang et al. (2024). On the Origins of Linear Representations in Large Language Models](http://arxiv.org/abs/2403.03867)
 - [Karvonen et al. (2024). Evaluating Sparse Autoencoders](https://arxiv.org/abs/2411.18895)
+- [Lieberum et al. (2024). Gemma Scope: Open Sparse Autoencoders](https://arxiv.org/abs/2408.05147)
+- [Luo et al. (2024). PaCE: Parsimonious Concept Engineering for Large Language Models](http://arxiv.org/abs/2406.04331)
+- [Park et al. (2024). The Linear Representation Hypothesis and  the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
+- [Park et al. (2024). The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
+- [Rajendran et al. (2024). Learning Interpretable Concepts: Unifying Causal Representation Learning and Foundation Models](http://arxiv.org/abs/2402.09236)
+- [Valios et al. (2024). Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](http://arxiv.org/abs/2412.07334)
 
 ---
 
@@ -263,84 +263,81 @@ The Final Paper will be due on the first day of finals period.
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
    - Chapter 12
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/abs/10.1145/3613904.3642830)
-- [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
 - [Schroeder et al. (2025). Large Language Models in Qualitative Research:
 Uses, Tensions, and Intentions](https://arxiv.org/pdf/2410.07362)
+- [Zhang et al. (2024). When Qualitative Research Meets Large Language Model: Exploring the Potential of QualiGPT as a Tool for Qualitative Coding](http://arxiv.org/abs/2407.14925)
 
 **Optional Reading:**
+- [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
+- [Dai et al. (2023). LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis](https://arxiv.org/abs/2310.15100)
+- [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
 - [Raza et al. (2025). LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from
 Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01620)
-- [Chew et al. (2023). LLM-Assisted Content Analysis](https://arxiv.org/abs/2306.14924)
-- [Eschrich & Sterman (2024). A Framework For Discussing LLMs as Tools for Qualitative Analysis](https://arxiv.org/abs/2407.11198)
-- [Dai et al. (2023). LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis](https://arxiv.org/abs/2310.15100)
 
 ---
 
 ### Week 8: Qualitative Coding with LLMs II
 
 **Required Reading:**
-- [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
-- [Shao et al. (2024). Case2Code: Learning Inductive Reasoning with Synthetic Data](https://arxiv.org/html/2407.12504)
+- [Rasheed et al. (2024). Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis](http://arxiv.org/abs/2402.01386)
 - [Relin et al. (2024). Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives](https://www.crimrxiv.com/pub/vomgw766/release/1)
 
 **Optional Reading:**
-- [Overney et al. (2025). SenseMate: An Accessible and Beginner-Friendly Human-AI
-Platform for Qualitative Data Analysis](https://dl.acm.org/doi/pdf/10.1145/3640543.3645194)
+- [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
 - [Gao et al. (2025). Using Large Language Model to Support Flexible and Structural
 Inductive Qualitative Analysis](https://arxiv.org/pdf/2501.00775)   
-- [De Paoli (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis. Open-Ended Prompts, Better Terminologies and Thematic Maps](https://www.qualitative-research.net/index.php/fqs/article/view/4196)
-- [Arlinghaus et al. (2024). Inductive Coding with ChatGPT - An Evaluation of Different GPT Models  Clustering Qualitative Data into Categories](https://osf.io/gpnye)
+- [Overney et al. (2025). SenseMate: An Accessible and Beginner-Friendly Human-AI
+Platform for Qualitative Data Analysis](https://dl.acm.org/doi/pdf/10.1145/3640543.3645194)
 
 ---
 ### Week 9: Modern Topic Modeling
 
 **Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
-- [We et al. (2024). FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model](http://arxiv.org/abs/2405.17978)
 - [Pham et al. (2024). TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
+- [We et al. (2024). FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model](http://arxiv.org/abs/2405.17978)
 
 **Optional Reading:**
-- [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
 - [Egger & Yu (2022). A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120935/)
+- [Hastings & Pesando (2024). What's a parent to do?](https://www.sciencedirect.com/science/article/pii/S0049089X24000966)
 
 ---
 ### Week 10: Error Analysis and Validation
 
 **Required Reading:**
-- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
-- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
 - [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
+- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
+- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 
 **Optional Reading:**
 - [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
-- [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
+- [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 
 ---
 
 ### Week 11: Concept Tracing I
 
 **Required Reading:**
-- [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
+- [Ganguli et al. (2024). Mapping Inventions in the Space of Ideas, 1836–2022:  Representation, Measurement, and Validation](https://congress-files.s3.amazonaws.com/2024-07/Innovation_similarity%2520%25281%2529-compressed.pdf?VersionId=Kv5xhUL2ZVVFYG6zh.JnVVouAP4RIV8B)
 - [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://arxiv.org/abs/2402.01661)
 
-- [Ganguli et al. (2024). Mapping Inventions in the Space of Ideas, 1836–2022:  Representation, Measurement, and Validation](https://congress-files.s3.amazonaws.com/2024-07/Innovation_similarity%2520%25281%2529-compressed.pdf?VersionId=Kv5xhUL2ZVVFYG6zh.JnVVouAP4RIV8B)
+- [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
 
 **Optional Reading:**
-- [Vicinanza et al. (2022). Deep-learning model of prescient ideas demonstrates that they emerge from the periphery](https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776)
 - [Lucy et al. (2023). Words as Gatekeepers](https://arxiv.org/abs/2212.09676)
 - [Rosin et al. (2022). Time Masking for Temporal Language Models](https://doi.org/10.1145/3488560.3498529)
+- [Vicinanza et al. (2022). Deep-learning model of prescient ideas demonstrates that they emerge from the periphery](https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776)
 
 ---
 
 ### Week 12: Concept Tracing II
 
 **Required Reading:**
-- [Garg & Fetzer (2025). Causal Claims in Economics](https://arxiv.org/abs/2501.06873)
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
+- [Garg & Fetzer (2025). Causal Claims in Economics](https://arxiv.org/abs/2501.06873)
 - [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/10.1145/3613904.3642830)
-</div>
 
 ---
 
