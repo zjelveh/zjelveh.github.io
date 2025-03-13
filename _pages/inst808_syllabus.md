@@ -258,6 +258,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 7: Qualitative Coding with LLMs I 
+[Slides](/files/Lecture_4__QualCoding.pptx) (Includes Final Project guidelines)
 
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
