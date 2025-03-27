@@ -278,6 +278,7 @@ Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01
 ---
 
 ### Week 8: Qualitative Coding with LLMs II
+[Lab Notebook - Qualitative Coding with APIs](/files/Lab__qualcode.ipynb) | [Lab Notebook - Analyze Results](/files/Lab__qualcode_analyze.ipynb)
 
 **Required Reading:**
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
