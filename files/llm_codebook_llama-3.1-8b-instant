@@ -1,0 +1,102 @@
+{
+  "codebook": [
+    {
+      "code": "Emotional Expression",
+      "description": "Posts expressing emotions, feelings, and personal experiences related to mental health.",
+      "indicators": [
+        "I'm feeling anxious",
+        "I'm struggling with depression",
+        "I'm overwhelmed"
+      ],
+      "source_themes": [
+        "Batch 1: Theme 1",
+        "Batch 2: Theme 3",
+        "Batch 4: Theme 2"
+      ]
+    },
+    {
+      "code": "Seeking Support",
+      "description": "Posts seeking help, advice, or guidance from the community for mental health-related issues.",
+      "indicators": [
+        "Can anyone help me?",
+        "I need advice on...",
+        "I'm looking for support"
+      ],
+      "source_themes": [
+        "Batch 1: Theme 2",
+        "Batch 3: Theme 1",
+        "Batch 5: Theme 4"
+      ]
+    },
+    {
+      "code": "Sharing Experiences",
+      "description": "Posts sharing personal stories, experiences, or anecdotes related to mental health.",
+      "indicators": [
+        "My story of...",
+        "I went through...",
+        "I learned from..."
+      ],
+      "source_themes": [
+        "Batch 2: Theme 1",
+        "Batch 3: Theme 2",
+        "Batch 6: Theme 3"
+      ]
+    },
+    {
+      "code": "Mental Health Awareness",
+      "description": "Posts raising awareness about mental health issues, stigma, or related topics.",
+      "indicators": [
+        "Let's talk about...",
+        "Mental health matters",
+        "Break the stigma"
+      ],
+      "source_themes": [
+        "Batch 1: Theme 3",
+        "Batch 4: Theme 1",
+        "Batch 7: Theme 5"
+      ]
+    },
+    {
+      "code": "Self-Care and Wellness",
+      "description": "Posts discussing self-care practices, wellness strategies, or mental health maintenance.",
+      "indicators": [
+        "Self-care tips",
+        "Mental health maintenance",
+        "Wellness routines"
+      ],
+      "source_themes": [
+        "Batch 2: Theme 2",
+        "Batch 5: Theme 1",
+        "Batch 8: Theme 6"
+      ]
+    },
+    {
+      "code": "Trauma and Crisis",
+      "description": "Posts discussing traumatic experiences, crisis situations, or related emotional responses.",
+      "indicators": [
+        "I'm going through a crisis",
+        "I've experienced trauma",
+        "I'm struggling to cope"
+      ],
+      "source_themes": [
+        "Batch 3: Theme 3",
+        "Batch 6: Theme 1",
+        "Batch 9: Theme 7"
+      ]
+    },
+    {
+      "code": "Mental Health Resources",
+      "description": "Posts sharing resources, information, or services related to mental health support.",
+      "indicators": [
+        "Resources for...",
+        "Mental health services",
+        "Hotlines and helplines"
+      ],
+      "source_themes": [
+        "Batch 4: Theme 3",
+        "Batch 7: Theme 2",
+        "Batch 10: Theme 8"
+      ]
+    }
+  ]
+}
