@@ -11,7 +11,7 @@ prompts:
     
     {posts}
     
-    Based on these posts, identify 2-4 major themes that emerge from the data. For each theme:
+    Based on these posts, identify 2 to 4 major themes that emerge from the data. For each theme:
     1. Provide a clear name
     2. Write a 1-2 sentence description
     3. List 2-3 key indicators or signals of this theme
