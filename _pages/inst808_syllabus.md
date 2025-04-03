@@ -294,7 +294,12 @@ Platform for Qualitative Data Analysis](https://dl.acm.org/doi/pdf/10.1145/36405
 
 ---
 ### Week 9: Modern Topic Modeling
-
+Lab Notebooks:
+  - [Generate Synthetic Abstracts](/files/gt/1_compare_llms.ipynb)
+  - [Analyze Abstracts](/files/gt/2_analyze_abstracts.ipynb)
+  - [Deductive Coding of Abstracts](/files/gt/3_deductive_coding.ipynb)
+  - [Evaluate Deduction](/files/gt/3_evaluated_deduction.ipynb)
+  
 **Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
 - [Pham et al. (2024). TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
@@ -310,10 +315,10 @@ Platform for Qualitative Data Analysis](https://dl.acm.org/doi/pdf/10.1145/36405
 **Required Reading:**
 - [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
 - [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
-- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
+- [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 
 **Optional Reading:**
-- [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
+- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 
