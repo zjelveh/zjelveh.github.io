@@ -298,7 +298,7 @@ Lab Notebooks:
   - [Generate Synthetic Abstracts](/files/gt/1_compare_llms.ipynb)
   - [Analyze Abstracts](/files/gt/2_analyze_abstracts.ipynb)
   - [Deductive Coding of Abstracts](/files/gt/3_deductive_coding.ipynb)
-  - [Evaluate Deduction](/files/gt/3_evaluated_deduction.ipynb)
+  - [Evaluate Deduction](/files/gt/4_evaluate_deduction.ipynb)
   
 **Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
