@@ -314,11 +314,11 @@ Lab Notebooks:
 
 **Required Reading:**
 - [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
-- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
+- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 - [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 
 **Optional Reading:**
-- [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
+- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
 
