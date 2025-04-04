@@ -327,9 +327,8 @@ Lab Notebooks:
 ### Week 11: Concept Tracing I
 
 **Required Reading:**
-- [Ganguli et al. (2024). Mapping Inventions in the Space of Ideas, 1836–2022:  Representation, Measurement, and Validation](https://congress-files.s3.amazonaws.com/2024-07/Innovation_similarity%2520%25281%2529-compressed.pdf?VersionId=Kv5xhUL2ZVVFYG6zh.JnVVouAP4RIV8B)
+- [Islam & Goldwasser (2024).Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://arxiv.org/html/2404.10259v3)
 - [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://arxiv.org/abs/2402.01661)
-
 - [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
 
 **Optional Reading:**
