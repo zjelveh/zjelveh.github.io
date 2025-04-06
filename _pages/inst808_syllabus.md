@@ -313,22 +313,24 @@ Lab Notebooks:
 ### Week 10: Error Analysis and Validation
 
 **Required Reading:**
-- [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
 - [Barrie et al. (2024). Replication for Large Language Models](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
+- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
 
 **Optional Reading:**
-- [Ludwig et al. (2024). Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)
+- [Chang et al. (2024). A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289)
+- [Carlson et al. (2024). The Use of LLMs to Annotate Data in Management Research: Warnings, Guidelines, and an Application to Organizational Communication](https://papers.ssrn.com/abstract=4836620)
 - [Egami et al. (2024). Using Imperfect Surrogates for Downstream Inference](https://arxiv.org/abs/2306.04746)
 - [Thalken et al. (2023). Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement](https://arxiv.org/abs/2310.18440)
+
 
 ---
 
 ### Week 11: Concept Tracing I
 
 **Required Reading:**
-- [Islam & Goldwasser (2024).Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://arxiv.org/html/2404.10259v3)
-- [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://arxiv.org/abs/2402.01661)
+- [Islam & Goldwasser (2024). Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://arxiv.org/html/2404.10259v3)
+- [Li (2024). Tracing the Genealogies of Ideas with Large Language Model Embeddings](https://aclanthology.org/2024.nlp4dh-1.2.pdf)
 - [Nascimento et al. (2022). Concept Detection in Philosophical Corpora](https://www.digitalstudies.org/article/id/8106/)
 
 **Optional Reading:**
@@ -341,11 +343,42 @@ Lab Notebooks:
 ### Week 12: Concept Tracing II
 
 **Required Reading:**
+- [Ziems et al. (2023). Can Large Language Models Transform Computational Social Science?](https://arxiv.org/pdf/2305.03514)
 - [Cong et al. (2024). Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information](https://www.nber.org/papers/w33168)
 - [Garg & Fetzer (2025). Causal Claims in Economics](https://arxiv.org/abs/2501.06873)
-- [Lam et al. (2024). Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](https://dl.acm.org/doi/10.1145/3613904.3642830)
 
 ---
 
-### Week 13-14: To Be Determined
+### Week 13: What Patterns in Humanity Do LLMs Encode?
+
+**Required Reading**
+- [Santurkar et al. (2023). Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a/santurkar23a.pdf)
+- [Scherrer et al. (2023). Evaluating the Moral Beliefs Encoded in LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2cf225ba392627529efef14dc857e22-Paper-Conference.pdf)
+- [Aher et al. (2023). Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a.html)
+- [Salewski et al. (2023). In-Context Impersonation Reveals Large Language Models' Strengths and Biases](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html)
+- [Messeri et al. (2024). Artificial intelligence and illusions of understanding in scientific research](https://www.nature.com/articles/s41586-024-07146-0)
+- [Wang et al. (2025). Large language models that replace human participants can harmfully misportray and flatten identity groups](https://www.nature.com/articles/s42256-025-00986-z)
+
+**Optional Reading**
+- [Chen et al. (2023). The emergence of economic rationality of GPT](https://www.pnas.org/doi/abs/10.1073/pnas.2316205120)
+
+
+### Week 14: Applied Perspectives & Future Directions in LLM-Assisted Research
+
+**Required Reading:**
+- [Pang et al. (2025). Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review](https://arxiv.org/abs/2501.12557)
+- [Jiang et al. (2024). LLM-Collaboration on Automatic Science Journalism for the General Audience](https://arxiv.org/abs/2407.09756)
+- [Musslick et al. (2025). Automating the practice of science: Opportunities, challenges, and implications](https://www.pnas.org/doi/abs/10.1073/pnas.2401238121)
+- [D'Arcy et al. (2024). MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/pdf/2401.04259)
+
+**Optional Reading**
+- [Wang et al. (2024). A survey on large language model based autonomous agents](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf)
+
+
+
+
+
+
+
+
 
