@@ -311,6 +311,11 @@ Lab Notebooks:
 
 ---
 ### Week 10: Error Analysis and Validation
+Lab Notebooks:
+  - [Generate Synthetic Abstracts](/files/gt/1_full_pilot.ipynb)
+  - [Analyze Abstracts](/files/gt/2_final_plot_pilot.ipynb)
+  - [Deductive Coding of Abstracts](/files/gt/3_final_pilot_deductive.ipynb)
+  - [Evaluate Deduction](/files/gt/4_final_pilot_evaluate.ipynb)
 
 **Required Reading:**
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)

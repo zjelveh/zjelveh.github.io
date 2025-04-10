@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [iSchool](https://ischool.umd.edu/) as well as the [Criminology and Criminal Justice](https://ccjs.umd.edu/) department at the University of Maryland. I'm currently working in the three following areas:
+I am an Assistant Professor at the [College of Information](https://ischool.umd.edu/) as well as the [Criminology and Criminal Justice](https://ccjs.umd.edu/) department at the University of Maryland. I'm currently working in the three following areas:
 
  - Developing and evaluating prediction models in the domains of domestic violence, gun violence, and behavioral health.
  - Developing record linkage methods tailored for administrative data   
