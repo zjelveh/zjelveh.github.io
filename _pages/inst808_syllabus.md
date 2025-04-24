@@ -346,6 +346,7 @@ Lab Notebooks:
 ---
 
 ### Week 12: Concept Tracing II
+[Slides](/files/Lecturette__Prompt_engineering_and_evaluation.pptx)
 
 **Required Reading:**
 - [Ziems et al. (2023). Can Large Language Models Transform Computational Social Science?](https://arxiv.org/pdf/2305.03514)
