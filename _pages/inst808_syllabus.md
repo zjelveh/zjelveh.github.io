@@ -332,6 +332,7 @@ Lab Notebooks:
 ---
 
 ### Week 11: Concept Tracing I
+[Slides](/files/Lecturette__Prompt_engineering_and_evaluation.pptx)
 
 **Required Reading:**
 - [Islam & Goldwasser (2024). Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://arxiv.org/html/2404.10259v3)
@@ -346,7 +347,7 @@ Lab Notebooks:
 ---
 
 ### Week 12: Concept Tracing II
-[Slides](/files/Lecturette__Prompt_engineering_and_evaluation.pptx)
+[Slides](/files/Lecture_Concept_Tracing.pptx)
 
 **Required Reading:**
 - [Ziems et al. (2023). Can Large Language Models Transform Computational Social Science?](https://arxiv.org/pdf/2305.03514)
@@ -379,6 +380,8 @@ Lab Notebooks:
 
 **Optional Reading**
 - [Wang et al. (2024). A survey on large language model based autonomous agents](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf)
+- [Gnanasekaran et al. (2024). Model Selection for HERITAGE-AI: Evaluating LLMs for Contextual Data Analysis of Maryland’s
+Domestic Traffic Ads (1824–1864)](https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/stamp/stamp.jsp?tp=&arnumber=10825591&tag=1)
 
 
 
