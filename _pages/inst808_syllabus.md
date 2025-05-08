@@ -357,6 +357,7 @@ Lab Notebooks:
 ---
 
 ### Week 13: What Patterns in Humanity Do LLMs Encode?
+[Slides](/files/Lecture_What_Are_LLMS_Useful_For.pptx)
 
 **Required Reading**
 - [Santurkar et al. (2023). Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a/santurkar23a.pdf)
