@@ -14,7 +14,8 @@ author_profile: true
 
 
 ## Peer-Reviewed
-- [Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It](https://www.nber.org/papers/w30170) (Forthcoming, *Review of Economics and Statistics*)  
+- [Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It](https://www.nber.org/papers/w30170) (*Review of Economics and Statistics*, 2024)  
+  - [Working Paper Version](https://www.nber.org/papers/w30170)
   - **With**: Sara Heller, Benjamin Jakubowski, and Max Kapustin
   - **Abstract**: This paper shows that shootings are predictable enough to be preventable. Using arrest and victimization records for almost 644,000 people from the Chicago Police Department, we train a machine learning model to predict the risk of being shot in the next 18 months. We address central concerns about police data and algorithmic bias by predicting shooting victimization rather than arrest, which we show accurately captures risk differences across demographic groups despite bias in the predictors. Out-of-sample accuracy is strikingly high: of the 500 people with the highest predicted risk, 13 percent are shot within 18 months, a rate 130 times higher than the average Chicagoan. Although Black male victims more often have enough police contact to generate predictions, those predictions are not, on average, inflated; the demographic composition of predicted and actual shooting victims is almost identical. There are legal, ethical, and practical barriers to using these predictions to target law enforcement. But using them to target social services could have enormous preventive benefits.
 
