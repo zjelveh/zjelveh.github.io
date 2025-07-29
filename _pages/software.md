@@ -20,3 +20,6 @@ author_profile: true
 ## Causal Inference
 - [staggeredpower](https://github.com/zjelveh/staggeredpower) 
   - R-package for conducting simulated power analysis with heterogeneity-robust estimators. 
+
+- [SCMs](https://github.com/zjelveh/SCMs) 
+  - R-package for conducting explainable specification curve analysis for Synthetic Controls with one treated unit. Allows for assessment of sensitivity to variation in matching variable construction, penalization, bias correction, etc.
