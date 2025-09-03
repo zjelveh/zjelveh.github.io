@@ -155,22 +155,22 @@ Resouces:
 
 ---
 
-### Week 11:  (11/11, NO CLASS 11/13)
+### Week 11: To be determined (11/11, NO CLASS 11/13)
 
 
 ---
 
-### Week 12:  (11/18, 11/20)
+### Week 12: To be determined (11/18, 11/20)
 
 - **Problem Set 3 Due (11/23 11:59am)**
 
 ---
 
-### Week 13:  (11/25)
+### Week 13: To be determined (11/25)
 
 ---
 
-### Week 14:  (12/2, 12/4)
+### Week 14: To be determined (12/2, 12/4)
 
 ---
 
