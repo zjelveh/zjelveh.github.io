@@ -15,6 +15,6 @@ author_profile: true
 
 
 ## Undergraduate
-- CCJS 418E (Fall 2024): Coding for Criminology
+- CCJS 418E (Fall 2025): [Coding for Criminology](/teaching/ccjs_418e_2025_fall)
 - INST 414: Data Science Techniques
 - CCJS 418E (prior version): [Applications of Data Science in Criminology](ccjs418e)
