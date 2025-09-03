@@ -8,14 +8,50 @@ permalink: /teaching/ccjs_418e_2025_fall
 classes: wide
 ---
 
+<style>
+h3 + p + ul,  /* Targets lists after headings and paragraphs */
+h3 + p + ol {
+  font-size: 0.9em;
+}
+
+/* If you want the "Required Reading:" and "Optional Reading:" text to be smaller too */
+h3 + p {
+  font-size: 0.9em;
+}
+
+
+.section-heading {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+/* Compact styling for the top info section only */
+.compact-info p {
+  margin-bottom: 0.3em; /* Very tight spacing */
+  line-height: 1.3;
+}
+
+.compact-info p:last-child {
+  margin-bottom: 1em; /* Normal spacing after the last item */
+}
+</style>
+
+
 # CCJS 418E: Coding for Criminology (Fall 2025)
-**Location + Time:** [SQH 1117 0207](https://25live.collegenet.com/pro/umd#!/home/location/2377/details), Tuesday (Online) / Thursdays (SQH) 3.30 to 4.45 p.m. 
+<div class="compact-info" markdown="1">
+**Location:** [SQH 1117 0207](https://25live.collegenet.com/pro/umd#!/home/location/2377/details)
+
+**Time:** Tuesday (Online) / Thursdays (SQH) 3.30 to 4.45 p.m. 
 
 **Instructor:** Zubin Jelveh (zjelveh@umd.edu)
 
 **Office:** 2220F LeFrak
 
 **Office Hours:** TBD
+
+</div>
 
 ## Course Description
 This course introduces criminology students to data analysis using Python programming and artificial intelligence tools. Criminal justice increasingly relies on data for major decisions—from setting bail to deploying patrols. This course teaches you to analyze that data using modern tools while understanding what's happening behind the scenes.
@@ -52,25 +88,6 @@ Students will need:
 - No software purchases required - we'll use free, open-source tools
 
 
-<style>
-h3 + p + ul,  /* Targets lists after headings and paragraphs */
-h3 + p + ol {
-  font-size: 0.9em;
-}
-
-/* If you want the "Required Reading:" and "Optional Reading:" text to be smaller too */
-h3 + p {
-  font-size: 0.9em;
-}
-
-
-.section-heading {
-    font-size: 1.1em;
-    font-weight: bold;
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
-</style>
 
 ## Assessment
 <details>
@@ -124,7 +141,7 @@ Resouces:
 
 ### Week 4: Python Basics II (9/23, 9/25)
 
-- **Problem Set 1 Due (9/28 11:59am)**
+- **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
 
 ---
 
@@ -141,7 +158,7 @@ Resouces:
 
 ### Week 7: Pandas II (10/16)
 
-- **Problem Set 2 Due (10/19 11:59am)**
+- **Problem Set 2 Due (10/19 11:59am)**{: style="color: red"}
 
 ---
 
@@ -151,7 +168,7 @@ Resouces:
 
 ### Week 9: Data Visualization (10/28, 10/30)
 
-- **Project Proposal Due (11/2 11:59am)**
+- **Project Proposal Due (11/2 11:59am)**{: style="color: red"}
 
 ---
 
@@ -167,7 +184,7 @@ Resouces:
 
 ### Week 12: To be determined (11/18, 11/20)
 
-- **Problem Set 3 Due (11/23 11:59am)**
+- **Problem Set 3 Due (11/23 11:59am)**{: style="color: red"}
 
 ---
 
@@ -187,13 +204,13 @@ Resouces:
 ## Course Policies
 
 ### Contacting the Instructor
-Students should contact me via email at zjelveh@umd.edu. Please begin your subject line with "CCJS418E" or "Coding for Criminology:" to ensure your email receives prompt attention. I typically respond to emails within 24-48 hours during weekdays.
+Students should contact me via email at zjelveh@umd.edu. Please begin your subject line with **"CCJS418E"** or **"Coding for Criminology"** to ensure your email receives prompt attention. I typically respond to emails within 24-48 hours during weekdays.
 
 ### Course-Related Policies
-Policies relevant to Undergraduate Courses are found here: https://ugst.umd.edu/courserelatedpolicies.html. Topics that are addressed in these various policies include academic integrity, student and instructor conduct, accessibility and accommodations, attendance and excused absences, grades and appeals, copyright and intellectual property.
+Policies relevant to Undergraduate Courses are found [here](https://ugst.umd.edu/courserelatedpolicies.html). Topics that are addressed in these various policies include academic integrity, student and instructor conduct, accessibility and accommodations, attendance and excused absences, grades and appeals, copyright and intellectual property.
 
 ### Academic Integrity
-The University of Maryland, College Park has a nationally recognized Code of Academic Integrity, administered by the Student Honor Council. This Code sets standards for academic integrity at Maryland for all undergraduate and graduate students. As a student you are responsible for upholding these standards for this course. It is very important for you to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit http://www.studentconduct.umd.edu.
+The University of Maryland, College Park has a nationally recognized Code of Academic Integrity, administered by the Student Honor Council. This Code sets standards for academic integrity at Maryland for all undergraduate and graduate students. As a student you are responsible for upholding these standards for this course. It is very important for you to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit [http://www.studentconduct.umd.edu](http://www.studentconduct.umd.edu).
 
 
 ### Accessibility and Disability Support
@@ -201,7 +218,7 @@ The University of Maryland is committed to creating and maintaining a welcoming 
 
 Students with disabilities who require accommodations for this course should contact the Accessibility and Disability Service (ADS) at 301-314-7682 or adsfrontdesk@umd.edu. Please inform me of any accommodations you need as soon as possible, preferably within the first two weeks of the semester.
 
-More information about ADS and accommodations can be found at https://www.counseling.umd.edu/ads/
+More information about ADS and accommodations can be found at [https://www.counseling.umd.edu/ads/](https://www.counseling.umd.edu/ads/)
 
 
 
