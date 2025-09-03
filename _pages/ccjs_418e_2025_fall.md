@@ -11,6 +11,12 @@ classes: wide
 # CCJS 418E: Coding for Criminology (Fall 2025)
 **Location + Time:** [SQH 1117 0207](https://25live.collegenet.com/pro/umd#!/home/location/2377/details), Tuesday (Online) / Thursdays (SQH) 3.30 to 4.45 p.m. 
 
+**Instructor:** Zubin Jelveh (zjelveh@umd.edu)
+
+**Office:** 2220F LeFrak
+
+**Office Hours:** TBD
+
 ## Course Description
 This course introduces criminology students to data analysis using Python programming and artificial intelligence tools. Criminal justice increasingly relies on data for major decisions—from setting bail to deploying patrols. This course teaches you to analyze that data using modern tools while understanding what's happening behind the scenes.
 
@@ -29,7 +35,6 @@ By the end of the course, you'll be able to work with criminal justice data, run
 
 ## Course Objectives
 After completing this course, students will be able to:
-1. Apply computational thinking principles to break down complex criminological problems into manageable steps
 2. Write and modify Python code to load, clean, and analyze criminal justice datasets
 3. Use pandas to calculate statistics, identify patterns, and answer specific research questions about crime data
 4. Create meaningful visualizations that communicate findings from criminological data
