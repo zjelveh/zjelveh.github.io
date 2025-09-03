@@ -177,7 +177,26 @@ Resouces:
 ### Week 15: **FINAL PRESENTATIONS** (12/9, 12/11)
 
 
+---
 
+## Course Policies
+
+### Contacting the Instructor
+Students should contact me via email at zjelveh@umd.edu. Please begin your subject line with "CCJS418E" or "Coding for Criminology:" to ensure your email receives prompt attention. I typically respond to emails within 24-48 hours during weekdays.
+
+### Course-Related Policies
+Policies relevant to Undergraduate Courses are found here: https://ugst.umd.edu/courserelatedpolicies.html. Topics that are addressed in these various policies include academic integrity, student and instructor conduct, accessibility and accommodations, attendance and excused absences, grades and appeals, copyright and intellectual property.
+
+### Academic Integrity
+The University of Maryland, College Park has a nationally recognized Code of Academic Integrity, administered by the Student Honor Council. This Code sets standards for academic integrity at Maryland for all undergraduate and graduate students. As a student you are responsible for upholding these standards for this course. It is very important for you to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit http://www.studentconduct.umd.edu.
+
+
+### Accessibility and Disability Support
+The University of Maryland is committed to creating and maintaining a welcoming and inclusive educational, working, and living environment for people of all abilities. The University of Maryland is also committed to the principle that no qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of the University, or be subjected to discrimination.
+
+Students with disabilities who require accommodations for this course should contact the Accessibility and Disability Service (ADS) at 301-314-7682 or adsfrontdesk@umd.edu. Please inform me of any accommodations you need as soon as possible, preferably within the first two weeks of the semester.
+
+More information about ADS and accommodations can be found at https://www.counseling.umd.edu/ads/
 
 
 
