@@ -41,7 +41,7 @@ h3 + p {
 
 # CCJS 418E: Coding for Criminology (Fall 2025)
 <div class="compact-info" markdown="1">
-**Location:** [SQH 1117 0207](https://25live.collegenet.com/pro/umd#!/home/location/2377/details)
+**Location:** [SQH 1117](https://25live.collegenet.com/pro/umd#!/home/location/2377/details)
 
 **Time:** Tuesday (Online) / Thursdays (SQH) 3.30 to 4.45 p.m. 
 
