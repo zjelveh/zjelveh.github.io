@@ -123,7 +123,7 @@ Presentations will be held in the last week of class and projects will be due 12
 ## Weekly Schedule
 
 ### Week 1: Introduction to Computational Thinking (9/4)
-- Slides: [Introduction](files/cfc/lecture_1.pptx)
+- Slides: [Introduction](/files/cfc/lecture_1.pptx)
 
 Resources: 
 - [BBC Bitesize: Computational Thinking](https://www.bbc.co.uk/bitesize/topics/z7tp34j)
