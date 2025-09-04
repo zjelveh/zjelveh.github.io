@@ -123,9 +123,11 @@ Presentations will be held in the last week of class and projects will be due 12
 ## Weekly Schedule
 
 ### Week 1: Introduction to Computational Thinking (9/4)
+- Slides: [Introduction](files/cfc/lecture_1.pptx)
 
 Resources: 
 - [BBC Bitesize: Computational Thinking](https://www.bbc.co.uk/bitesize/topics/z7tp34j)
+- [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/)
 
 ---
 
