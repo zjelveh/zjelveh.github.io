@@ -125,6 +125,7 @@ Presentations will be held in the last week of class and projects will be due 12
 
 Resources: 
 - [BBC Bitesize: Computational Thinking](https://www.bbc.co.uk/bitesize/topics/z7tp34j)
+- [Video: Making Cocount Stew](https://www.youtube.com/watch?v=dHWmnayy8MY)
 - [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/)
 
 ---
