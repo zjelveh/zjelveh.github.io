@@ -58,25 +58,23 @@ This course introduces criminology students to data analysis using Python progra
 
 We begin with computational thinking, which is essentially a structured way to approach complex problems. You'll learn to break big questions into smaller pieces and identify patterns in data. These mental tools matter whether you're investigating crime trends or evaluating whether a new policy actually works. They're useful on their own but become essential once we start programming. Computational thinking is just one way to approach solving complex problems, but it can be a particularly useful skill when first learning how to code.  
 
-The course then introduces Python, which has become the go-to programming language for data analysis. You'll learn the fundamentals through real examples from criminal justice. Instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data.
+After computational thinking, we move to Python programming. Python has become the standard language for data analysis in many fields. We'll start with Python fundamentals and will learn how to apply them to criminology examples—calculating crime rates, working with arrest data, etc.
 
-Most of our time will focus on pandas, Python's main tool for working with data. This is where things get interesting. You'll investigate questions that matter in criminology: Why do certain neighborhoods see more repeat offenses? How do arrest patterns change over time? What happens to recidivism rates after policy changes? You'll learn to clean messy data, run basic statistics, and create visualizations that actually tell a story.
+The course then introduces Python, which has become the go-to programming language for data analysis. You'll learn the fundamentals through real examples from criminal justice. Instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library. The course covers data cleaning, basic statistical analysis, and data visualization.
 
-We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code, and they can accelerate your learning significantly. However, using these tools without understanding what they produce is like using Google Translate without knowing if the translation makes sense. The assessments in this class ensure you develop real understanding alongside AI assistance.
+We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. However, using these tools without understanding what they produce is like using Google Translate without knowing if the translation makes sense. The assessments in this class ensure you develop real understanding alongside AI assistance.
 
-You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these 10-minute conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and what your results mean in the context of criminology. These aren't intimidating exams—they're collaborative discussions focused on making sure you understand the tools you're using.
-
-By the end of the course, you'll be able to work with criminal justice data, run meaningful analyses, and create useful visualizations. Most importantly, you'll understand what your code is doing and be able to adapt it when your research questions change.
+You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these 10-minute conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
 
 
 ## Course Objectives
 After completing this course, students will be able to:
-2. Write and modify Python code to load, clean, and analyze criminal justice datasets
-3. Use pandas to calculate statistics, identify patterns, and answer specific research questions about crime data
-4. Create meaningful visualizations that communicate findings from criminological data
-5. Collaborate effectively with AI tools while understanding what the generated code actually does
-6. Explain their code and analytical choices in plain English during code review discussions
-7. Adapt existing code to answer new questions when research needs change
+1. Write and modify Python code to load, clean, and analyze criminal justice datasets
+2. Use pandas to calculate statistics, identify patterns, and answer specific research questions about crime data
+3. Create meaningful visualizations that communicate findings from criminological data
+4. Collaborate effectively with AI tools while understanding what the generated code actually does
+5. Explain their code and analytical choices in plain English during code review discussions
+6. Adapt existing code to answer new questions when research needs change
 
 ## Prerequisites
 No prior programming experience is required. This course is designed for students with no coding background who want to learn how to use data analysis and AI tools in criminology.
