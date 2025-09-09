@@ -131,6 +131,8 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
+- [Jupyter Notebook](/files/cfc/1_getting_started_with_python.ipynb) | [Slides](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
+
 Resouces:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-python)
 
