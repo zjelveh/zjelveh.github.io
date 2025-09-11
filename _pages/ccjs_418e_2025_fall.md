@@ -131,7 +131,9 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- [Jupyter Notebook](/files/cfc/1_getting_started_with_python.ipynb) 
+- Jupyter Notebook 1: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb) 
+- Jupyter Notebook 2: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb) 
+
 - [Slides](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
 Resouces:
