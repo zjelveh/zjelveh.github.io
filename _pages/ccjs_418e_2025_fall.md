@@ -132,9 +132,8 @@ Resources:
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
 - Jupyter Notebook 1: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb) 
-- Jupyter Notebook 2: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb) 
 
-- [Slides](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
+- Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
 Resouces:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-python)
@@ -142,10 +141,12 @@ Resouces:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb) 
 
 ---
 
 ### Week 4: Python Basics II (9/23, 9/25)
+- Jupyter Notebook: Functions 
 
 - **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
 
