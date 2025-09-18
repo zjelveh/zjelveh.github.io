@@ -135,18 +135,23 @@ Resources:
 
 - Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
-Resouces:
+Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-python)
 
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
 - Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb) 
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb) 
+
+Resources:
+- 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
+- 30-Days-of-Python: [Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
+- GeeksforGeeks: [Functions](https://www.geeksforgeeks.org/python/python-functions/)
 
 ---
 
 ### Week 4: Python Basics II (9/23, 9/25)
-- Jupyter Notebook: Functions 
 
 - **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
 
