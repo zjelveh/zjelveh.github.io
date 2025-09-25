@@ -152,6 +152,9 @@ Resources:
 ---
 
 ### Week 4: Python Basics II (9/23, 9/25)
+- Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1389501/pages/final-project-example-datasets-and-stories)
+- Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1389501/pages/final-project-crime-data-analysis-ideas)
+- Final Project: Proposal Guidelines
 
 - **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
 
