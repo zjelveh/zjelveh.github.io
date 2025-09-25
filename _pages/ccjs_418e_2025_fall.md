@@ -111,7 +111,7 @@ You will complete three problem sets throughout the semester that build on each 
 </details>
 <details>
 <summary class="section-heading">Project Proposal (10%)</summary>
-Due November 2nd, you'll submit a 2-3 page proposal for your final project. The project will require you to find a dataset set to analyze, an overall question you want to explore, and demonstration of computational thinking in how you will explore this question. Furether details on the proposal to come. 
+Due November 2nd, you'll submit a 2-3 page proposal for your final project. The project will require you to find a dataset set to analyze, an overall question you want to explore, and demonstration of computational thinking in how you will explore this question. Further details on the proposal to come. 
 </details>
 <details>
 <summary class="section-heading">Final Project (30%)</summary>
@@ -154,7 +154,7 @@ Resources:
 ### Week 4: Python Basics II (9/23, 9/25)
 - Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1389501/pages/final-project-example-datasets-and-stories)
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1389501/pages/final-project-crime-data-analysis-ideas)
-- Final Project: Proposal Guidelines
+- Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide)
 
 - **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
 
