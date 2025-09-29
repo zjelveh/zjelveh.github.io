@@ -163,21 +163,20 @@ Resources:
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
 
-
 ---
 
 ### Week 6: Pandas I (10/7, 10/9)
-
 
 ---
 
 ### Week 7: Pandas II (10/16)
 
-- **Problem Set 2 Due (10/19 11:59am)**{: style="color: red"}
 
 ---
 
 ### Week 8: Pandas III (10/21, 10/23)
+
+- **Problem Set 2 Due (10/26 11:59am)**{: style="color: red"}
 
 ---
 
