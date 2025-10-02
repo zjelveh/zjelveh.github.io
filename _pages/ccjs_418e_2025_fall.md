@@ -162,7 +162,7 @@ Resources:
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
 - Slides: [Intro to Pandas](/files/cfc/Intro_to_Pandas.pptx) 
-- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb)
+- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
