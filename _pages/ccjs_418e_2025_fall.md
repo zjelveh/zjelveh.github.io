@@ -131,7 +131,7 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- Jupyter Notebook 1: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
 
 - Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
@@ -141,8 +141,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
-- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
-- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -161,7 +161,12 @@ Resources:
 ---
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
+- Slides: [Intro to Pandas](/files/cfc/Intro_to_Pandas.pptx) 
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb)
+
+Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
+
 
 ---
 
