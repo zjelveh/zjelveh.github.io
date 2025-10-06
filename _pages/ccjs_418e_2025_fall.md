@@ -171,6 +171,7 @@ Resources:
 ---
 
 ### Week 6: Pandas I (10/7, 10/9)
+- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb)
 
 ---
 
