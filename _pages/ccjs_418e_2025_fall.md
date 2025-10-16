@@ -169,16 +169,15 @@ Resources:
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
 
-
 ---
 
-### Week 6: Pandas I (10/7, 10/9)
+### Week 6: Pandas I - Filtering (10/7, 10/9)
 - Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb)
 
 ---
 
-### Week 7: Pandas II (10/16)
-
+### Week 7: Pandas II - Groupby (10/16)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb)
 
 ---
 
