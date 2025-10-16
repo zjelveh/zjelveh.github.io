@@ -120,6 +120,8 @@ Presentations will be held in the last week of class and projects will be due 12
 
 ## Weekly Schedule
 
+[**Links to Lecture Videos**](https://umd.instructure.com/courses/1389501/pages/video-links)
+
 ### Week 1: Introduction to Computational Thinking (9/4)
 - Slides: [Introduction](/files/cfc/lecture_1.pptx)
 
