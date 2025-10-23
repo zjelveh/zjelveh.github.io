@@ -62,7 +62,7 @@ After computational thinking, we move to Python programming. Python has become t
 
 We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. However, using these tools without understanding what they produce is like using Google Translate without knowing if the translation makes sense. The assessments in this class ensure you develop real understanding alongside AI assistance.
 
-You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these 10-minute conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
+You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these 5-minute conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
 
 
 ## Course Objectives
@@ -97,7 +97,7 @@ You will complete three problem sets throughout the semester that build on each 
 <strong>How Problem Sets Work:</strong>
 <ul>
 <li>You submit working code on the Sunday that it is due (use any resources, including AI tools)</li>
-<li>The next Tuesday, you'll have a 10 to 15 minute code review session with me during class</li>
+<li>The next Tuesday, you'll have a 5 minute code review session with me during class</li>
 <li>During the review, you'll walk me through your code and answer questions about:
   <ul>
     <li>What specific lines of code do</li>
@@ -157,7 +157,7 @@ Resources:
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide)
 
 **Problem Set 1 Due: 9/28 11:59am** (covers Weeks 2-4)
-**Code Review: 9/30** (Tuesday class - 10-15 min sessions)
+**Code Review: 9/30** (Tuesday class - 5 min sessions)
 {: style="color: red"}
 
 ---
@@ -179,13 +179,13 @@ Resources:
 ### Week 7: Pandas II - Groupby (10/16)
 - Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
 
-**Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-7)
-**Code Review: 10/28** (Tuesday class - 10-15 min sessions)
-{: style="color: red"}
-
 ---
 
 ### Week 8: Pandas III (10/21, 10/23)
+
+**Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
+**Code Review: 10/28** (Tuesday class - 5 min sessions)
+{: style="color: red"}
 
 ---
 
@@ -208,7 +208,7 @@ Resources:
 ### Week 12: To be determined (11/18, 11/20)
 
 **Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
-**Code Review: 11/25** (Tuesday class - 10-15 min sessions)
+**Code Review: 11/25** (Tuesday class - 5 min sessions)
 {: style="color: red"}
 
 ---
