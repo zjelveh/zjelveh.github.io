@@ -175,22 +175,25 @@ Resources:
 - Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
 
 Resources:
-- Pandas Documentation: [Boolean Indexing](https://pandas.pydata.org/docs/user_guide/indexing.html#boolean-indexing)
+- Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
 - Real Python: [Pandas DataFrames](https://realpython.com/pandas-dataframe/)
 
 ---
 
-### Week 7: Pandas - Groupby (10/16)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
-
-Resources:
-- Pandas Documentation: [Group By](https://pandas.pydata.org/docs/user_guide/groupby.html)
-- Real Python: [Pandas GroupBy](https://realpython.com/pandas-groupby/)
-- Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
+### Week 7: Pandas - Filtering Continued (10/14, 10/16)
 
 ---
 
-### Week 8: Pandas - Answering Questions with Data (10/21, 10/23)
+### Week 8: Pandas - Groupby (10/21, 10/23)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
+
+Resources:
+- Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
+- Real Python: [Pandas GroupBy](https://realpython.com/pandas-groupby/)
+
+---
+
+### Week 9: Pandas - Answering Questions with Data (10/28, 10/30)
 
 **Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
 **Code Review: 10/28** (Tuesday class - 5 min sessions)
@@ -198,14 +201,10 @@ Resources:
 
 ---
 
-### Week 9: Data Visualization (10/28, 10/30)
+### Week 10: Data Visualization (11/4, 11/6)
 
 **Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
 {: style="color: red"}
-
----
-
-### Week 10: Merging (11/4, 11/6)
 
 
 ---
