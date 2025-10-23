@@ -56,11 +56,9 @@ h3 + p {
 ## Course Description
 This course introduces criminology students to data analysis using Python programming and artificial intelligence tools. Criminal justice increasingly relies on data for major decisions—from setting bail to deploying patrols. This course teaches you to analyze that data using modern tools while understanding what's happening behind the scenes.
 
-We begin with computational thinking, which is essentially a structured way to approach complex problems. You'll learn to break big questions into smaller pieces and identify patterns in data. These mental tools matter whether you're investigating crime trends or evaluating whether a new policy actually works. They're useful on their own but become essential once we start programming. Computational thinking is just one way to approach solving complex problems, but it can be a particularly useful skill when first learning how to code.  
+We begin with computational thinking, which is essentially a structured way to approach complex problems. You'll learn to break big questions into smaller pieces and identify patterns in data. These mental tools matter whether you're investigating crime trends or evaluating whether a new policy actually works. They're useful on their own but become essential once we start programming.
 
-After computational thinking, we move to Python programming. Python has become the standard language for data analysis in many fields. We'll start with Python fundamentals and will learn how to apply them to criminology examples—calculating crime rates, working with arrest data, etc.
-
-The course then introduces Python, which has become the go-to programming language for data analysis. You'll learn the fundamentals through real examples from criminal justice. Instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library. The course covers data cleaning, basic statistical analysis, and data visualization.
+After computational thinking, we move to Python programming. Python has become the standard language for data analysis in many fields. You'll learn the fundamentals through real examples from criminal justice—instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library, covering data cleaning, filtering, aggregation, and data visualization.
 
 We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. However, using these tools without understanding what they produce is like using Google Translate without knowing if the translation makes sense. The assessments in this class ensure you develop real understanding alongside AI assistance.
 
@@ -158,7 +156,9 @@ Resources:
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1389501/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide)
 
-- **Problem Set 1 Due (9/28 11:59am)**{: style="color: red"}
+**Problem Set 1 Due: 9/28 11:59am** (covers Weeks 2-4)
+**Code Review: 9/30** (Tuesday class - 10-15 min sessions)
+{: style="color: red"}
 
 ---
 
@@ -177,13 +177,15 @@ Resources:
 ---
 
 ### Week 7: Pandas II - Groupby (10/16)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
+
+**Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-7)
+**Code Review: 10/28** (Tuesday class - 10-15 min sessions)
+{: style="color: red"}
 
 ---
 
 ### Week 8: Pandas III (10/21, 10/23)
-
-- **Problem Set 2 Due (10/26 11:59am)**{: style="color: red"}
 
 ---
 
@@ -205,7 +207,9 @@ Resources:
 
 ### Week 12: To be determined (11/18, 11/20)
 
-- **Problem Set 3 Due (11/23 11:59am)**{: style="color: red"}
+**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
+**Code Review: 11/25** (Tuesday class - 10-15 min sessions)
+{: style="color: red"}
 
 ---
 
