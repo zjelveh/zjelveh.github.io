@@ -180,16 +180,23 @@ Resources:
 
 ---
 
-### Week 7: Pandas - Filtering Continued (10/14, 10/16)
-
----
-
-### Week 8: Pandas - Groupby (10/21, 10/23)
+### Week 7: Pandas - Groupby (10/14, 10/16)
 - Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
 - Real Python: [Pandas GroupBy](https://realpython.com/pandas-groupby/)
+
+---
+
+### Week 8: Data Visualization with Seaborn (10/21, 10/23)
+- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
+
+Resources:
+- Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
+- Real Python: [Python Plotting with Seaborn](https://realpython.com/python-seaborn/)
+- Storytelling with Data: [Chart Chooser](https://www.storytellingwithdata.com/chart-guide)
+- Kaggle: [Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
 ---
 
