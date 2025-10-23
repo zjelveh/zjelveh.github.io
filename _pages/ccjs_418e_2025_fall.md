@@ -191,7 +191,8 @@ Resources:
 
 ### Week 9: Data Visualization (10/28, 10/30)
 
-- **Project Proposal Due (11/2 11:59am)**{: style="color: red"}
+**Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
+{: style="color: red"}
 
 ---
 
