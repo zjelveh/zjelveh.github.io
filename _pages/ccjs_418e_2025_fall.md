@@ -131,7 +131,7 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
+- Lab Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
 
 - Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
@@ -141,8 +141,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
-- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
-- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
+- Lab Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
+- Lab Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -164,7 +164,7 @@ Resources:
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
 - Slides: [Intro to Pandas](/files/cfc/Intro_to_Pandas.pptx) 
-- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture_solutions.ipynb)
+- Lab Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture_solutions.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
@@ -172,7 +172,7 @@ Resources:
 ---
 
 ### Week 6: Pandas - Filtering (10/7, 10/9)
-- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
+- Lab Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
@@ -181,7 +181,7 @@ Resources:
 ---
 
 ### Week 7: Pandas - Groupby (10/14, 10/16)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
+- Lab Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
@@ -189,8 +189,8 @@ Resources:
 
 ---
 
-### Week 8: Data Visualization with Seaborn (10/21, 10/23)
-- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
+### Week 8: Data Visualization I (10/21, 10/23)
+- Lab Notebook: [Visualization I](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
@@ -200,15 +200,17 @@ Resources:
 
 ---
 
-### Week 9: Pandas - Answering Questions with Data (10/28, 10/30)
+### Week 9: Data Visualization II (10/28, 10/30)
+- Lab Notebook: [Visualization II](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified.ipynb)
 
 **Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
 **Code Review: 10/28** (Tuesday class - 5 min sessions)
 {: style="color: red"}
 
+
 ---
 
-### Week 10: Data Visualization (11/4, 11/6)
+### Week 10: Answering Questions with Data (11/4, 11/6)
 
 **Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
 {: style="color: red"}
@@ -216,20 +218,20 @@ Resources:
 
 ---
 
-### Week 11: To be determined (11/11, NO CLASS 11/13)
+### Week 11: Merging (11/11, NO CLASS 11/13)
 
 
 ---
 
 ### Week 12: To be determined (11/18, 11/20)
 
-**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
-**Code Review: 11/25** (Tuesday class - 5 min sessions)
-{: style="color: red"}
 
 ---
 
 ### Week 13: To be determined (11/25)
+**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
+**Code Review: 11/25** (Tuesday class - 5 min sessions)
+{: style="color: red"}
 
 ---
 
