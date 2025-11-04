@@ -210,7 +210,12 @@ Resources:
 
 ---
 
-### Week 10: Answering Questions with Data (11/4, 11/6)
+### Week 10: Datetime Operations (11/4, 11/6)
+- Lab Notebook: [Datetime Operations](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations_solutions.ipynb)
+
+Resources:
+- Pandas Documentation: [Time series / date functionality](https://pandas.pydata.org/docs/user_guide/timeseries.html)
+- Real Python: [Using Python datetime to Work With Dates and Times](https://realpython.com/python-datetime/)
 
 **Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
 {: style="color: red"}
