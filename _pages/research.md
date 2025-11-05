@@ -14,6 +14,11 @@ author_profile: true
 
 
 ## Peer-Reviewed
+- Predicting behavioral health-involved police encounters: A machine learning approach. (Forthcoming: *Journal of Quantitative Criminology*, 2025)
+  - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
+  - **Abstract**: Prevention or de-escalation of dangerous police encounters with community members experiencing behavioral health challenges are central public health and safety challenges. A complementary approach that leverages emergency response data to predict which individuals are at highest risk for these encounters may be an important tool in the implementation of targeted prevention and service interventions. In this study, we use emergency response data to show that behavioral health-indicated encounters with police can be reliably predicted. Both simple and complex modeling approaches are able to identify small populations at extreme risk, though a machine learning approach is more accurate, especially when targeting larger groups. And ML can also identify opportunities for prevention. Fully 28% of individuals identified in our top 1% risk-group had no prior BH-police-involved emergency encounters. Both approaches, when combined with rich administrative data may also aid in tailoring pertinent interventions.
+
+
 - [Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It](https://www.nber.org/papers/w30170) (*Review of Economics and Statistics*, 2024)  
   - [Working Paper Version](https://www.nber.org/papers/w30170)
   - **With**: Sara Heller, Benjamin Jakubowski, and Max Kapustin
@@ -68,21 +73,11 @@ author_profile: true
   - **With**:  Ashna Arora, Xander Beberman, and Ashley Motta
   - **Abstract**: Domestic violence (DV) accounts for 50% of female homicides in the U.S. The criminal justice system -- with which the majority of DV homicide victims initiate contact in the years leading up to their deaths --  may be uniquely suited to intervene and prevent the escalation of this violence. Identifying these victims, however, remains a needle in the haystack problem, as the vast majority of these victims will not go on to be homicide victims. Targeted approaches -- which attempt to identify high-risk victims and intervene effectively -- offer a solution, but have not been rigorously evaluated. We study this approach in Chicago, where DV victims gauged to be at highest risk by prosecutors are selected for additional outreach as well as prosecutorial and advocacy resources. Leveraging variation in prosecutors' tendencies to classify cases as high risk, we show that this approach rapidly and persistently lowers the likelihood of homicide by 71% for those on the margin of inclusion. Additionally, prosecutors are efficient at targeting this resource, consistently outperforming standard machine learning algorithms that predict homicide risk. 
 
-- Contrasting approaches to identify people at-risk of behavioral health  crises involving first-responders
-  - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
-  - **Abstract**: Prevention or de-escalation of dangerous police encounters with community members experiencing behavioral health challenges are central public health and safety challenges. A complementary approach that leverages emergency response data to predict which individuals are at highest risk for these encounters may be an important tool in the implementation of targeted prevention and service interventions. In this study, we use emergency response data to show that behavioral health-indicated encounters with police can be reliably predicted. Both simple and complex modeling approaches are able to identify small populations at extreme risk, though a machine learning approach is more accurate, especially when targeting larger groups. And ML can also identify opportunities for prevention. Fully 28% of individuals identified in our top 1% risk-group had no prior BH-police-involved emergency encounters. Both approaches, when combined with rich administrative data may also aid in tailoring pertinent interventions.
 
 - P-Hacking in Academic Clinical Trials 
   - **With**: Jorge Guzman and Bruce Kogut 
   - **Abstract**: A common belief in the history of science is that institutions matter.  They incentivize individual scientists to commit to the norms of open science, e.g., transparency, rigor, and accountability in return for reputation.  However, historically, the violation of these norms, e.g.,  the reproducibility of research findings, have raised questions about the effectiveness of institutions.  Using both distribution and density tests, we document statistically significant p-hacking in U.S. academic clinical trials but not in the trials registered by commercial laboratories.We analyze the impact of the 2013 SPIRIT statement--a checklist defining the minimal requirements of clinical trial protocols which was adopted by leading journals--as a type of treatment that could potentially diminish the incentives for p-hacking in clinical trial research.  Focusing then on academic trials, we ask whether p-hacking decreased after the introduction of SPIRIT. We show that the dissemination of protocols sharply increased after the introduction of SPIRIT. Clinical trials started after the introduction of SPIRIT show lower levels of p-hacking, with the effects stronger for those trials whose plan more closely resembles the textual language of the SPIRIT guidance. In contrast, SPIRIT did not reduce p-hacking in trials already underway when introduced. Our analysis emphasizes the significance of institutional innovations to counter the consequences of over-incentivizing academic scientists to promote effort that sometimes favors career concerns over normative goals of open science.
 
-
-## Works in Progress
-- Domain Adaptation for Record Linkage 
-  - **With**: Melissa McNeill and Sarah Tahamont
-
-- Predicting Domestic Violence in New Jersey
-  - **With**: Ashna Arora, Melissa McNeill, and Carolyn Silverman
 
 ## Other
 - [Productivity and selection of human capital with machine learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161029) (*AER P&P*)
