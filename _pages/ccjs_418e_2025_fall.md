@@ -223,7 +223,7 @@ Resources:
 
 ---
 
-### Week 11: Merging (11/11, NO CLASS 11/13)
+### Week 11: Merging (NO CLASS 11/11, 11/13)
 
 
 ---
