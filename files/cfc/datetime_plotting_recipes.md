@@ -302,31 +302,6 @@ pullback_misdemeanor = period_lawcat.iloc[3]
 
 ---
 
-## Quick Troubleshooting Guide
-
-### "I can't plot my grouped data"
-→ Did you use `.reset_index()` after `groupby().size()`?
-
-### "My x-axis shows weird period labels"
-→ Add `.dt.to_timestamp()` after `.dt.to_period('M')`
-
-### "My percentage change is wrong"
-→ Are you comparing periods of different lengths? Calculate daily rates first.
-
-### "All my rows have the same period label"
-→ Check your `.loc[]` conditions - make sure they're actually filtering different rows
-
-### "I get KeyError when using .iloc"
-→ Print your grouped series first to see how many groups you actually have
-
-### "My line plot looks weird/jagged"
-→ Make sure your x-axis variable is properly sorted by time (groupby does this automatically)
-
-### "I want to compare felonies vs misdemeanors over time"
-→ Use Recipe 4 with `groupby(['year_month', 'LAW_CAT_CD'])`
-
----
-
 ## Summary: The Essential Pattern
 
 For 90% of time-based plotting tasks, follow this sequence:
