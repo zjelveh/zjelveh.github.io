@@ -211,7 +211,7 @@ Resources:
 ---
 
 ### Week 10: Datetime Operations (11/4, 11/6)
-- Lab Notebook: [Datetime Operations](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations.ipynb)
+- Lab Notebook: [Datetime Operations](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations_solutions.ipynb)
 
 Resources:
 - Pandas Documentation: [Time series / date functionality](https://pandas.pydata.org/docs/user_guide/timeseries.html)
@@ -224,6 +224,12 @@ Resources:
 ---
 
 ### Week 11: Merging (NO CLASS 11/11, 11/13)
+- Lab Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb)
+
+Resources:
+- Pandas Documentation: [Merge, join, concatenate and compare](https://pandas.pydata.org/docs/user_guide/merging.html)
+- Real Python: [Combining Data in Pandas with merge() and join()](https://realpython.com/pandas-merge-join-and-concat/)
+- Kaggle: [Joining Data with Pandas](https://www.kaggle.com/code/robikscube/working-with-multiple-dataframes-joining)
 
 
 ---
