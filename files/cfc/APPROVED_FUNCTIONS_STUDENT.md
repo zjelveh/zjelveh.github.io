@@ -333,37 +333,6 @@ All matplotlib functions are **optional** for styling and customization:
 
 ---
 
-## Tips for Success
-
-### When Working on Problem Sets:
-1. **Start simple** - Get basic code working before adding complexity
-2. **Use this reference** - Don't memorize everything, look it up as needed
-3. **Test frequently** - Run your code after every few lines
-4. **Use AI tools** - ChatGPT and Claude can help explain errors and suggest approaches
-5. **Break down problems** - Solve one step at a time
-
-### Common Mistakes to Avoid:
-- Forgetting parentheses when combining filter conditions: `&` and `|`
-- Using single brackets for multiple columns: use `df[['col1', 'col2']]` not `df['col1', 'col2']`
-- Forgetting `.dt` accessor when working with datetime columns
-- Not checking data types before doing operations (`df.dtypes`)
-
-### For Code Review Sessions:
-Be prepared to:
-- Explain what each line of your code does
-- Describe why you chose a specific function or approach
-- Modify your code based on questions (e.g., "what if we wanted to filter by a different year?")
-- Talk through how you debugged errors
-
-### Getting Help:
-When asking AI tools or the instructor for help, always include:
-1. What you're trying to accomplish
-2. The code you've tried
-3. The error message (if any)
-4. Sample of your data (`df.head()`)
-
----
-
 ## Quick Reference: Common Tasks
 
 ### Load and explore data
