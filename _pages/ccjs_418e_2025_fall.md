@@ -201,7 +201,7 @@ Resources:
 ---
 
 ### Week 9: Data Visualization II (10/28, 10/30)
-- Lab Notebook: [Visualization II](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified.ipynb)
+- Lab Notebook: [Visualization II](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified_solutions.ipynb)
 
 **Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
 **Code Review: 10/28** (Tuesday class - 5 min sessions)
