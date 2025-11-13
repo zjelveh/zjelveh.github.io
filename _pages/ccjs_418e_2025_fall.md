@@ -120,6 +120,8 @@ Presentations will be held in the last week of class and projects will be due 12
 
 [**Links to Lecture Videos**](https://umd.instructure.com/courses/1389501/pages/video-links)
 
+[**Python & Pandas Quick Reference Guide**](/files/cfc/APPROVED_FUNCTIONS_STUDENT.md) - Complete reference of all functions and methods covered in this course
+
 ### Week 1: Introduction to Computational Thinking (9/4)
 - Slides: [Introduction](/files/cfc/lecture_1.pptx)
 
@@ -202,6 +204,7 @@ Resources:
 
 ### Week 9: Data Visualization II (10/28, 10/30)
 - Lab Notebook: [Visualization II](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified_solutions.ipynb)
+- Recipe Guide: [Time-Based Plotting Recipes](/files/cfc/datetime_plotting_recipes.md) - Step-by-step patterns for plotting with dates and time periods
 
 **Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
 **Code Review: 10/28** (Tuesday class - 5 min sessions)
