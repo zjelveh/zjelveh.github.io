@@ -227,7 +227,7 @@ Resources:
 ---
 
 ### Week 11: Merging (NO CLASS 11/11, 11/13)
-- Lab Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb)
+- Lab Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging_solutions.ipynb)
 
 Resources:
 - Pandas Documentation: [Merge, join, concatenate and compare](https://pandas.pydata.org/docs/user_guide/merging.html)
