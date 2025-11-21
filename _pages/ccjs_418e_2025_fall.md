@@ -225,11 +225,6 @@ Resources:
 - PowerPoint: [Yankees Noise Analysis Example](/files/cfc/Yankees_Noise_Analysis_Presentation.pptx)
 - Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/class_demo_notebook_complete.ipynb)
 
-Complete final project example demonstrating:
-- Structuring analysis with multiple comparisons
-- Translating Jupyter notebook results into presentation slides
-- Using only functions covered in class
-
 **Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
 **Code Review: 11/25** (Tuesday class - 5 min sessions)
 {: style="color: red"}
