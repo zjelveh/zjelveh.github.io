@@ -389,4 +389,57 @@ recent = df[df['date'] >= pd.to_datetime('2020-01-01')]
 
 ---
 
+## 16. Forbidden Functions/Patterns
+
+These functions and patterns have **NOT** been taught in class. Do **NOT** use them in your assignments:
+
+### DataFrame Methods
+- **`.count()`** - Use `.size()` instead for counting rows in groupby
+  ```python
+  # DON'T USE:
+  df.groupby('category')['column'].count()
+
+  # USE INSTEAD:
+  df.groupby('category').size()
+  ```
+
+### Boolean Indexing
+- **Direct boolean indexing like `series[True]` or `series[False]`** - Use conditional filtering instead
+  ```python
+  # DON'T USE:
+  total_game_days = totals[True]
+  total_non_game = totals[False]
+
+  # USE INSTEAD:
+  totals_df = totals.reset_index()
+  totals_df.columns = ['is_game_day', 'total']
+  total_game_days = totals_df[totals_df['is_game_day'] == True]['total'].values[0]
+  total_non_game = totals_df[totals_df['is_game_day'] == False]['total'].values[0]
+  ```
+
+### Seaborn Visualization
+- **`palette=` parameter** - Keep visualizations simple, don't specify colors
+  ```python
+  # DON'T USE:
+  sns.barplot(data=df, x='category', y='value', palette=['blue', 'red'])
+
+  # USE INSTEAD:
+  sns.barplot(data=df, x='category', y='value')
+  ```
+
+- **`sns.FacetGrid()`** - Use simple barplot with `hue=` parameter instead
+  ```python
+  # DON'T USE:
+  g = sns.FacetGrid(df, col="category")
+  g.map_dataframe(sns.barplot, x="group", y="value")
+
+  # USE INSTEAD:
+  sns.barplot(data=df, x='category', y='value', hue='group')
+  ```
+
+### General
+- **Emojis in code or outputs** - Keep code professional and text-only
+
+---
+
 **Remember**: This course is about learning to think computationally and solve problems with data. Don't worry about memorizing every function - focus on understanding the patterns and knowing where to look things up!
