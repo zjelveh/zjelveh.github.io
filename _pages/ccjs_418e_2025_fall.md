@@ -202,8 +202,8 @@ Resources:
 
 ### Week 9: Pandas - Answering Questions with Data (10/28, 10/30)
 
-**Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
-**Code Review: 10/28** (Tuesday class - 5 min sessions)
+**Problem Set 2 Due: 10/26 11:59am**
+**Code Review: 10/28**
 {: style="color: red"}
 
 ---
@@ -213,11 +213,11 @@ Resources:
 **Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
 {: style="color: red"}
 
-
 ---
 
-### Week 11: To be determined (11/11, NO CLASS 11/13)
+### Week 11: Merging (11/11, NO CLASS 11/13)
 
+- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging_solutions.ipynb)
 
 ---
 
@@ -225,21 +225,25 @@ Resources:
 - PowerPoint: [Yankees Noise Analysis Example](/files/cfc/Yankees_Noise_Analysis_Presentation.pptx)
 - Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/class_demo_notebook_complete.ipynb)
 
-**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
-**Code Review: 11/25** (Tuesday class - 5 min sessions)
+**Problem Set 3 Due: 11/23 11:59am**
+**Code Review: 11/25**
 {: style="color: red"}
 
 ---
 
-### Week 13: To be determined (11/25)
+### Week 13: Code Review (11/25)
 
 ---
 
-### Week 14: To be determined (12/2, 12/4)
+### Week 14: Introduction to Causality (12/2, 12/4)
 
 ---
 
 ### Week 15: **FINAL PRESENTATIONS** (12/9, 12/11)
+
+**Final Project Presentations Due: 12/8 11:59pm**
+**Final Project Due: 12/17 11:59pm**
+{: style="color: red"}
 
 
 ---
