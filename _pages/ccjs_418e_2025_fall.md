@@ -120,8 +120,6 @@ Presentations will be held in the last week of class and projects will be due 12
 
 [**Links to Lecture Videos**](https://umd.instructure.com/courses/1389501/pages/video-links)
 
-[**Python & Pandas Quick Reference Guide**](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/APPROVED_FUNCTIONS_STUDENT.md) - Complete reference of all functions and methods covered in this course
-
 ### Week 1: Introduction to Computational Thinking (9/4)
 - Slides: [Introduction](/files/cfc/lecture_1.pptx)
 
@@ -133,7 +131,7 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- Lab Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
 
 - Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
 
@@ -143,8 +141,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
-- Lab Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
-- Lab Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -166,7 +164,7 @@ Resources:
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
 - Slides: [Intro to Pandas](/files/cfc/Intro_to_Pandas.pptx) 
-- Lab Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture_solutions.ipynb)
+- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture_solutions.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
@@ -174,7 +172,7 @@ Resources:
 ---
 
 ### Week 6: Pandas - Filtering (10/7, 10/9)
-- Lab Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
+- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
@@ -183,7 +181,7 @@ Resources:
 ---
 
 ### Week 7: Pandas - Groupby (10/14, 10/16)
-- Lab Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
@@ -191,8 +189,8 @@ Resources:
 
 ---
 
-### Week 8: Data Visualization I (10/21, 10/23)
-- Lab Notebook: [Visualization I](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
+### Week 8: Data Visualization with Seaborn (10/21, 10/23)
+- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
@@ -202,23 +200,15 @@ Resources:
 
 ---
 
-### Week 9: Data Visualization II (10/28, 10/30)
-- Lab Notebook: [Visualization II](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization_simplified_solutions.ipynb)
-- Recipe Guide: [Time-Based Plotting Recipes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/datetime_plotting_recipes.md) - Step-by-step patterns for plotting with dates and time periods
+### Week 9: Pandas - Answering Questions with Data (10/28, 10/30)
 
 **Problem Set 2 Due: 10/26 11:59am** (covers Weeks 5-8)
 **Code Review: 10/28** (Tuesday class - 5 min sessions)
 {: style="color: red"}
 
-
 ---
 
-### Week 10: Datetime Operations (11/4, 11/6)
-- Lab Notebook: [Datetime Operations](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/8_datetime_operations_solutions.ipynb)
-
-Resources:
-- Pandas Documentation: [Time series / date functionality](https://pandas.pydata.org/docs/user_guide/timeseries.html)
-- Real Python: [Using Python datetime to Work With Dates and Times](https://realpython.com/python-datetime/)
+### Week 10: Data Visualization (11/4, 11/6)
 
 **Project Proposal Due: 11/2 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1389501/pages/final-project-proposal-guide))
 {: style="color: red"}
@@ -226,26 +216,27 @@ Resources:
 
 ---
 
-### Week 11: Merging (NO CLASS 11/11, 11/13)
-- Lab Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging_solutions.ipynb)
-
-Resources:
-- Pandas Documentation: [Merge, join, concatenate and compare](https://pandas.pydata.org/docs/user_guide/merging.html)
-- Real Python: [Combining Data in Pandas with merge() and join()](https://realpython.com/pandas-merge-join-and-concat/)
-- Kaggle: [Joining Data with Pandas](https://www.kaggle.com/code/robikscube/working-with-multiple-dataframes-joining)
+### Week 11: To be determined (11/11, NO CLASS 11/13)
 
 
 ---
 
-### Week 12: To be determined (11/18, 11/20)
+### Week 12: Final Project Example & Work Session (11/18, 11/20)
+- PowerPoint: [Yankees Noise Analysis Example](/files/cfc/Yankees_Noise_Analysis_Presentation.pptx)
+- Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/class_demo_notebook_complete.ipynb)
 
+This week we'll walk through a complete final project example showing how to:
+- Structure your analysis with multiple comparisons
+- Translate Jupyter notebook results into presentation slides
+- Use only the functions we've learned in class
+
+**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
+**Code Review: 11/25** (Tuesday class - 5 min sessions)
+{: style="color: red"}
 
 ---
 
 ### Week 13: To be determined (11/25)
-**Problem Set 3 Due: 11/23 11:59am** (covers Weeks 8-12)
-**Code Review: 11/25** (Tuesday class - 5 min sessions)
-{: style="color: red"}
 
 ---
 
