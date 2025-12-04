@@ -237,6 +237,7 @@ Resources:
 
 ### Week 14: Introduction to Causality (12/2, 12/4)
 - Slides: [Anatomy of a Comparison](/files/cfc/10_causal_inference.pptx)
+- Slides: [What If? From Code to Causality to LLMs](/files/cfc/11_what_if_lecture.pptx)
 - Jupyter Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/cfc/10_causal_inference.ipynb)
 
 ---
