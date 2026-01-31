@@ -89,7 +89,7 @@ Four homework assignments throughout the semester that build on lecture and lab 
 
 <details>
 <summary class="section-heading">Midterm Exam (25%)</summary>
-Covers material from Weeks 1-8 (probability through random forests).
+Covers material from Weeks 1-8 (probability through random forests). Scheduled for Week 9 (4/3).
 </details>
 
 <details>
@@ -99,85 +99,89 @@ Details to come.
 
 ## Weekly Schedule
 
-### Week 1: Data Science Background
+### Week 1 (1/30): Data Science Background
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_1.pptx)
-- Lab: [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](/files/inst414_spring2026/labs/Lab_1.ipynb)
+- Lab: [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb)
 
 ---
 
-### Week 2: Probability
+### Week 2 (2/6): Probability
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_2.pptx)
-- Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](/files/inst414_spring2026/labs/Lab_2.ipynb)
+- Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
 
 ---
 
-### Week 3: Conditional Probability
+### Week 3 (2/13): Conditional Probability
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_3.pptx)
-- Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](/files/inst414_spring2026/labs/Lab_3.ipynb)
+- Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_3.ipynb)
 
 **Problem Set 1 Out**
 {: style="color: red"}
 
 ---
 
-### Week 4: Bayes Theorem / Making Predictions
+### Week 4 (2/20): Bayes Theorem / Making Predictions
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_4.pptx)
-- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](/files/inst414_spring2026/labs/Lab_4.ipynb)
+- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb)
 
 ---
 
-### Week 5: Performance Metrics / Naive Bayes
+### Week 5 (2/27): Performance Metrics / Naive Bayes
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_5.pptx)
-- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](/files/inst414_spring2026/labs/Lab_5.ipynb)
+- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
 
 **Problem Set 1 Due**
 {: style="color: red"}
 
 ---
 
-### Week 6: Linear and Logistic Regression
+### Week 6 (3/6): Linear and Logistic Regression
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_6.pptx)
-- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](/files/inst414_spring2026/labs/Lab_6.ipynb)
+- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_6.ipynb)
 
 **Problem Set 2 Out**
 {: style="color: red"}
 
 ---
 
-### Week 7: Overfitting / Decision Trees
+### Week 7 (3/13): Overfitting / Decision Trees
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_7.pptx)
-- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](/files/inst414_spring2026/labs/Lab_7.ipynb)
+- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb)
 
 ---
 
-### Week 8: Random Forest / Gradient Boosting
+### Spring Break (3/20): No Class
+
+---
+
+### Week 8 (3/27): Random Forest / Gradient Boosting
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_8.pptx)
-- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](/files/inst414_spring2026/labs/Lab_8.ipynb)
+- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb)
 
 **Problem Set 2 Due**
 {: style="color: red"}
 
 ---
 
-### Week 9: Midterm (No Lab)
+### Week 9 (4/3): Midterm (No Lab)
 
 ---
 
-### Week 10: Fairness
+### Week 10 (4/10): Fairness
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_10.pptx)
-- Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](/files/inst414_spring2026/labs/Lab_9.ipynb)
+- Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb)
 
 **Problem Set 3 Out**
 {: style="color: red"}
 
 ---
 
-### Week 11: Sources of Bias, Part I
+### Week 11 (4/17): Sources of Bias, Part I
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
 
 ---
 
-### Week 12: Sources of Bias, Part II
+### Week 12 (4/24): Sources of Bias, Part II
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_12.pptx)
 
 **Problem Set 3 Due**
@@ -185,7 +189,7 @@ Details to come.
 
 ---
 
-### Week 13: Text Mining
+### Week 13 (5/1): Text Mining
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_13.pptx)
 
 **Problem Set 4 Out**
@@ -193,11 +197,7 @@ Details to come.
 
 ---
 
-### Week 14: No Class (Spring Break / Holiday)
-
----
-
-### Week 15: Text Mining / Generative AI
+### Week 14 (5/8): Text Mining / Generative AI
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_14.pptx)
 
 **Problem Set 4 Due**
