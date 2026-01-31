@@ -1,31 +1,75 @@
-# Ignore the contents of the _site directory and other cache directories
+# ============================================
+# Build artifacts & caches
+# ============================================
 _site/
 .sass-cache/
-
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
-Gemfile.lock
-
-# Ingore files created by npm
-node_modules
+node_modules/
 package-lock.json
+Gemfile.lock
+local/
+__pycache__/
+*.pyc
 
-# Ignore course planning documentation
-files/cfc/docs/
+# ============================================
+# OS / editor junk
+# ============================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
 
-# Ignore development and testing files
+# ============================================
+# Claude Code / anti-compaction system
+# ============================================
 .claude/
 **/.claude/
+CLAUDE.md
+CURRENT_STATE.md
+DECISIONS.md
+
+# ============================================
+# Solution files (NEVER publish to GitHub)
+# ============================================
+**/*solution*
+**/*answer_key*
+**/*_key.*
+
+# ============================================
+# Course internal docs (not for students)
+# ============================================
+files/cfc/docs/
 **/test_*.txt
 **/*_REVISED.md
 
-# Ignore old/replaced course files
+# ============================================
+# Old/replaced course files
+# ============================================
 files/cfc/lecture*.py
 files/cfc/lecture*.md
 files/cfc/*_viz.md
 files/cfc/class_demo_notebook.ipynb
 
-# Ignore tenure review materials
+# ============================================
+# Tenure review materials
+# ============================================
 tenure_review/
+
+# ============================================
+# Data files that shouldn't be in git
+# ============================================
+*.feather
+
+# ============================================
+# Secrets / credentials (safety net)
+# ============================================
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets*.json
+*_SECRET*
+*_TOKEN*
