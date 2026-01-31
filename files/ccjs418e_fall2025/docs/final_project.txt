@@ -1,0 +1,406 @@
+Final Project Proposal Guide
+Due Date: November 2nd, 11:59 PM
+Length: 2-3 pages
+Weight: 10% of final grade
+
+Purpose of the Proposal
+Your proposal is a roadmap for your final project. It ensures you've chosen a feasible topic, found accessible data, and thought through your analytical approach before diving into the coding. Think of it as a contract with yourself about what you'll accomplish by the end of the semester.
+
+What Makes a Good Project?
+The best projects have three characteristics:
+
+A clear, focused question - Not "everything about Chicago crime" but "Do domestic violence calls increase during major holidays in Chicago?"
+Available, accessible data - Data you can actually download and work with using the skills from class
+Appropriate scope - Analysis you can complete with the data operations we'll learn (primarily counting things, calculating averages, and comparing groups)
+Required Sections (5 sections total)
+1. Research Question (½ page)
+Start with your main question, then explain why it matters.
+
+Your main question should be:
+
+Specific enough to answer with data
+Broad enough to explore from multiple angles
+Interesting to you personally
+Example structure:
+
+"My main research question is: [your question here]. This question matters because [real-world relevance]. Understanding this pattern could help [who benefits and how]."
+
+Include 2-3 sub-questions that support your main question:
+
+"What is the overall trend in..."
+"How does X vary by Y..."
+"Is there a relationship between..."
+2. Dataset Description (½ - 1 page)
+Describe your data source in detail.
+
+IMPORTANT: You must have already downloaded and opened your dataset before writing this section!
+
+Required information:
+
+Source: Where does the data come from? (police department, FBI, research organization)
+Time period (if time based analysis): What years does it cover?
+Size: Approximately how many rows? (thousands, millions)
+Key variables: List 5-10 important columns you'll use (use the EXACT column names from your dataset)
+Access: Include the actual URL where you downloaded the data
+3. Analysis Plan (1 page)
+This is where you get specific about exactly what you'll do with your data. Be as concrete as possible.
+
+A. Which specific columns will you use? List the exact column names from your dataset and what you'll do with each:
+
+Date or incident_date - to look at trends over time
+Crime_Type or offense_description - to compare different crimes
+Location or district - to compare different areas
+Time or hour - to see when crimes happen
+[List your actual column names here]
+B. What exactly will you calculate? Be very specific. Not "analyze crime patterns" but exactly what numbers you'll compute:
+
+Counts (How many?):
+
+Total number of [specific crime type] in [specific year]
+Number of crimes per [month/week/day]
+Number of crimes in each [neighborhood/district]
+Averages (What's typical?):
+
+Average number of [specific crime] per day
+Average crimes per month in [specific area]
+Average [response time/case duration] for [specific crime type]
+Percentages (What proportion?):
+
+Percent of all crimes that are [violent/property/drug-related]
+Percent of [specific crime] that happen on weekends
+Percent of crimes in [downtown vs. residential areas]
+C. What groups will you compare? List the specific comparisons you'll make:
+
+Weekday crimes vs. Weekend crimes
+Crime in [Neighborhood A] vs. [Neighborhood B]
+[Crime Type 1] vs. [Crime Type 2]
+[Year 1] vs. [Year 2]
+Morning (6am-noon) vs. Evening (6pm-midnight)
+D. Step-by-Step Plan Write out exactly what you'll do, using this template:
+
+Step 1: Load my [name of dataset] data
+Step 2: Focus on just [specific years/months]
+Step 3: Focus on just [specific crime types or areas]
+Step 4: Count how many [specific crime] happened each [time period]
+Step 5: Calculate the average number of [what] per [time unit]
+Step 6: Compare [Group A] to [Group B] by calculating [specific metric]
+Step 7: Look for patterns: Is there a difference? How big?
+Real Example (Domestic Violence on Holidays):
+
+Step 1: Load Chicago crime data
+Step 2: Filter to just 2019-2023
+Step 3: Filter to just domestic violence incidents  
+Step 4: Count incidents on major holidays (list specific dates)
+Step 5: Count incidents on regular days
+Step 6: Calculate average DV incidents on holidays vs. non-holidays
+Step 7: Calculate percent increase/decrease on holidays
+4. Expected Outcomes (½ page)
+Describe what you expect to find and how you might show it.
+
+What do you expect to discover?
+
+I expect to find that [specific pattern]
+I hypothesize that [Group A] will have more/less [metric] than [Group B]
+I think [specific time period] will show [what pattern]
+It would surprise me if [unexpected finding]
+How might you show your findings? (preliminary ideas - you'll learn visualization later) Think about what types of charts might work (we'll teach you how to make these):
+
+A line graph showing [what] over time
+A bar chart comparing [what] across [which groups]
+A table showing top 10 [what]
+Don't worry about the technical details - just think about the story you want to tell with your data.
+
+5. AI Tool Usage (¼ page)
+Describe how you used AI tools (TerpAI, ChatGPT, Claude, etc.) to help develop this proposal and/or how you plan to use it to help you with final project.
+
+Be specific about what you asked AI and how it helped:
+
+Understanding your dataset
+Refining your research question
+Identifying what analyses are possible
+Learning about the topic area
+Checking your math/calculations
+Improving your writing
+Good examples of AI use:
+
+"I asked Claude to help me narrow down my research question from 'crime in Chicago' to something more specific"
+"I used ChatGPT to understand what 'clearance rate' means in police data"
+"I asked AI to verify my calculation: 'If there are 52 Saturdays and 52 Sundays in a year, and I have 1,248 weekend crimes, is the average 12 crimes per weekend day?'"
+"I asked Claude what factors might influence crime patterns on holidays"
+Remember: AI is your assistant, not your ghostwriter. Use it to understand and improve, not to replace your thinking.
+
+Proposal Checklist
+Before submitting, ensure you have:
+
+✓ A focused research question that can be answered with data
+✓ An actual dataset you've located and can access
+✓ Specific column names from your dataset listed
+✓ Exact calculations you'll perform (counts, averages, percentages)
+✓ Specific groups you'll compare
+✓ A numbered, step-by-step plan for your analysis
+✓ Hypotheses about what you expect to find
+✓ Description of how you used AI to develop your proposal
+✓ Proper formatting: 2-3 pages, double-spaced, clear sections
+
+Example Analysis Plan (What We're Looking For)
+❌ Too Vague:
+"I will analyze crime patterns in Chicago and see how they vary across different dimensions."
+
+✅ Good - Specific and Actionable:
+"I will compare violent crime rates on weekends vs. weekdays in Chicago's South Side districts."
+
+Here's a complete example of the analysis plan section for the weekend vs. weekday project:
+
+A. Columns I'll Use:
+
+Date - to identify weekends vs. weekdays
+Primary Type - to separate violent crimes from property crimes
+District - to compare different police districts
+Arrest - to see if arrest rates differ
+B. What I'll Calculate:
+
+Counts:
+Total violent crimes on weekdays (Mon-Fri)
+Total violent crimes on weekends (Sat-Sun)
+Total crimes in each district
+Averages:
+Average daily crimes on weekdays (total weekday crimes ÷ number of weekdays)
+Average daily crimes on weekends (total weekend crimes ÷ number of weekend days)
+Percentages:
+Percent of weekend crimes that are violent: (violent weekend crimes ÷ total weekend crimes) × 100
+Percent increase on weekends: ((weekend avg - weekday avg) ÷ weekday avg) × 100
+C. Groups I'll Compare:
+
+Monday-Friday vs. Saturday-Sunday
+Violent crimes (ASSAULT, BATTERY, HOMICIDE) vs. Property crimes (THEFT, BURGLARY, MOTOR VEHICLE THEFT)
+District 1 vs. District 2 vs. District 3
+D. My Step-by-Step Plan:
+
+Step 1: Load Chicago crime data from 2023
+Step 2: Filter to just violent crimes (ASSAULT, BATTERY, HOMICIDE)
+Step 3: Create new column marking weekend (Sat/Sun) vs. weekday (Mon-Fri)
+Step 4: Count total crimes for weekends vs. weekdays
+Step 5: Calculate average crimes per day (weekend total ÷ 104 days, weekday total ÷ 261 days)
+Step 6: Calculate percent increase on weekends: (weekend avg - weekday avg) / weekday avg
+Step 7: Repeat steps 2-6 for property crimes (THEFT, BURGLARY, MOTOR VEHICLE THEFT)
+Step 8: Compare the weekend increase for violent vs. property crimes
+What I Expect to Find: I expect violent crimes to increase on weekends compared to weekdays, while property crimes might stay more constant. This would suggest that weekend social activities (bars, gatherings) lead to more interpersonal conflicts.
+
+How I Used AI: I used ChatGPT in three specific ways for this proposal. First, I pasted the column names from my dataset and asked it to explain what "Primary Type" vs "Description" meant in Chicago's crime coding system. Second, I asked it to check my math: "If there are 365 days in 2023, how many weekdays and weekend days are there?" which helped me realize I need to calculate averages, not just totals. Third, I asked what factors might explain weekend crime increases, which helped me think about bar closing times and event schedules as potential explanations.
+
+This level of detail shows you've thought through your analysis!
+
+Common Pitfalls to Avoid
+❌ Too ambitious: "I will predict crime using machine learning"
+✅ Right-sized: "I will identify patterns in crime across neighborhoods"
+
+❌ Vague question: "I will explore police data"
+✅ Specific question: "Do arrest rates for drug crimes vary by neighborhood income level?"
+
+❌ Missing data: "I hope to find data on..."
+✅ Data in hand: "I have downloaded Chicago's crime dataset from [URL]"
+
+❌ No clear plan: "I will analyze the data and see what I find"
+✅ Structured approach: "First I will filter for violent crimes, then group by..."
+
+❌ Complex statistics: "I will run regression models and predict future crime"
+✅ Appropriate methods: "I will count crimes by type and calculate monthly averages"
+
+Using AI Tools for Your Proposal
+Good AI Prompts for Proposal Development
+For understanding your dataset:
+
+I have a crime dataset with these columns: [list columns]
+Can you explain what each column likely contains and what analyses I could do with them?
+For narrowing your research question:
+
+I have access to Chicago crime data with dates, crime types, and locations. 
+I'm interested in [broad topic]. 
+Can you suggest 3-4 specific, focused research questions I could answer by counting and averaging this data?
+For checking your analysis plan:
+
+My research question is: [your question]
+I have these columns: [list columns]
+My plan is to: [list your steps]
+Does this plan make sense? What am I missing?
+For understanding crime terminology:
+
+In crime data, what's the difference between "assault" and "battery"?
+What does "clearance rate" mean in policing?
+Final Thoughts
+Your proposal doesn't lock you into every detail. As you work with the data, you might discover new questions or need to adjust your approach. That's normal! The proposal ensures you start with a solid foundation.
+
+Final Project: Crime Data Analysis Ideas
+Introduction
+This page presents a list of common analyses and research questions that data analysts, journalists, and researchers explore using criminal justice data. These represent the kinds of stories that appear in news outlets, academic journals, and policy reports—and by the end of this course, you'll have the skills to tackle most of them yourself.
+
+Note: 
+
+The purpose of this list is to inspire potential topics for your final project. As you read through these ideas, think about what questions interest you most. 
+
+All of these analyses can be completed using the Python skills we're learning in class—primarily pandas operations like filtering, grouping, counting, and calculating statistics. You'll be able to load data, clean it, analyze patterns, and create compelling visualizations to tell your story. The only exception might be geographic "hot spot" analyses that require mapping capabilities, though even these can often be approximated using tables and charts showing crime by neighborhood or zip code.
+
+Remember: good data analysis doesn't require complex statistics or machine learning. Often the most impactful findings come from simple questions answered clearly with basic calculations. The analyses below typically need just one to three data tables, making them perfectly sized for a semester project.
+
+As you explore these topics, consider what data is available (check our resources page), what story hasn't been told yet, and what findings might actually influence policy or public understanding. The best projects combine technical skill with genuine curiosity about the criminal justice system.
+
+At the bottom you will also see a series of suggested analyses. These questions demonstrate that even with basic coding skills, you can uncover important patterns and challenge assumptions about crime and justice. 
+
+Note: You'll notice that many of these analysis topics focus on street crime (violence, property crime, drug offenses) rather than white collar crime (fraud, embezzlement, insider trading, environmental crimes). This isn't because white collar crime is less important or less harmful—in fact, white collar crime causes far greater financial losses than all street crime combined.
+
+The reason for this imbalance is primarily about data availability. Street crime data is systematically collected through standardized reporting systems like NIBRS and local police departments, creating comprehensive datasets with consistent fields across jurisdictions. Every arrest, incident report, and court case generates structured data that's often publicly available.
+
+White collar crime, by contrast, lacks comparable data infrastructure. These crimes are investigated by dozens of different agencies (SEC, FBI, EPA, state attorneys general) with no unified reporting system. Many cases are handled through civil or regulatory proceedings rather than criminal courts, creating scattered records. Corporate crime often goes undetected for years, and when discovered, may be resolved through private settlements with sealed records. The complexity of financial crimes also means that even when data exists, it's often in unstructured formats like court documents and press releases rather than clean CSV files.
+Classic Criminological Patterns
+Age-Crime Curve
+Tables needed: Arrests/incidents by age and crime type
+Analysis: Create age distribution charts, find peak offending ages by crime
+Key finding: Property crime peaks around 16-18, violent crime around 18-25
+Example: https://pinkerton.com/our-insights/blog/age-crime-curve
+Time Patterns (When Crime Happens)
+Tables needed: Incidents with date/time stamps
+Analysis: Hour of day, day of week, monthly patterns
+Stories: "The 2am spike," "Monday morning domestic violence," "Holiday crime surges"
+Clearance Rate Analysis
+Tables needed: Cases with solved/unsolved status, crime type
+Analysis: Calculate solve rates by crime type, compare across jurisdictions
+Key finding: Murder has highest clearance (~60%), property crimes lowest (~15%)
+ExampleLinks to an external site.: https://www.themarshallproject.org/2022/01/12/as-murders-spiked-police-solved-about-half-in-2020
+Repeat Victimization
+Tables needed: Victim IDs with multiple incidents
+Analysis: What % of victims experience multiple crimes?
+Story: "Lightning strikes twice" - prior victimization predicts future risk
+Offender Patterns
+Crime Specialization vs. Versatility
+Tables needed: Individual offender records with multiple arrests
+Analysis: Do criminals stick to one crime type or branch out?
+Finding: Most offenders are generalists, not specialists
+Escalation/De-escalation
+Tables needed: Criminal histories with dates and severity
+Analysis: Do criminals progress from minor to serious crimes?
+Story: Debunking the "gateway crime" myth
+Co-offending Networks
+Tables needed: Incidents with multiple arrestees
+Analysis: How often are crimes solo vs. group? Age patterns in co-offending?
+Finding: Juveniles co-offend more; adults go solo
+Criminal Career Length
+Tables needed: First arrest date, last arrest date, age
+Analysis: How long do criminal "careers" last?
+Story: Most desist by age 30
+Justice System Patterns
+Bail Disparities
+Tables needed: Bail amounts, defendant demographics, charge
+Analysis: Compare bail for same crime across race/income
+Finding: Massive disparities for identical charges
+Plea Bargain Patterns
+Tables needed: Initial charge, final charge, trial vs. plea
+Analysis: What % plead? How much are charges reduced?
+Story: "The Trial Tax" - those who go to trial get harsher sentences
+Pretrial Detention Effects
+Tables needed: Detained vs. released, case outcomes
+Analysis: Do detained defendants get worse outcomes?
+Finding: Detention increases conviction rates and sentence length
+Case Processing Time
+Tables needed: Arrest date, disposition date, case type
+Analysis: How long from arrest to resolution?
+Story: "Justice delayed" - some wait years for trial
+Geographic/Demographic Patterns
+Crime Concentration (Hot Spots)
+Tables needed: Incidents with addresses or block groups
+Analysis: What % of crime occurs in what % of places?
+Classic finding: 50% of crime in 3-5% of addresses
+Victim-Offender Relationships
+Tables needed: Incidents with victim and offender info
+Analysis: Stranger vs. known offender by crime type
+Finding: Most violence is between acquaintances
+Gender Gap in Crime
+Tables needed: Arrests by gender and crime type
+Analysis: Male/female ratios across different crimes
+Story: Why is the gap closing for some crimes?
+Immigration and Crime
+Tables needed: Crime rates by neighborhood, % foreign-born
+Analysis: Correlation between immigration and crime
+Finding: Immigration associated with LOWER crime
+Special Topics
+School Discipline to Arrest Pipeline
+Tables needed: School discipline records, juvenile arrests
+Analysis: Do suspended kids end up arrested?
+Story: How zero tolerance creates criminals
+Domestic Violence Patterns
+Tables needed: DV incidents with victim/offender details
+Analysis: Repeat offenders, escalation patterns
+Finding: Strong predictor of future violence
+Drug-Crime Nexus
+Tables needed: Arrests with drug involvement flag
+Analysis: What % of crimes involve drugs?
+Story: Is it drugs causing crime or crime causing drugs?
+Mental Health and Crime
+Tables needed: Incidents with mental health indicator
+Analysis: What % involve mental health crisis?
+Finding: Over-representation in certain crime types
+Simple But Powerful Analyses
+Before/After Policy Changes
+Tables needed: Crime counts before and after intervention
+Examples: Marijuana legalization, bail reform, body cameras
+Analysis: Simple interrupted time series
+Weekend Effect
+Tables needed: Incidents by day of week
+Analysis: How different is weekend crime?
+Finding: Different crime mix, longer processing times
+Seasonal Patterns
+Tables needed: Monthly crime counts by type
+Analysis: Temperature-crime correlation
+Classic finding: Violent crime peaks in summer
+First-Time vs. Repeat Offenders
+Tables needed: Offender ID, offense count
+Analysis: What % are first-timers?
+Policy question: Different treatment for different groups?
+Questions You Can Answer with 1-2 Tables
+These are perfect starting points for analysis—simple questions that often reveal surprising answers:
+
+"Do most criminals have long rap sheets?" 
+"Is stranger danger real?" 
+"Do harsh sentences deter?" 
+"Are juveniles tried as adults different?"
+"Does crime really peak at night?" 
+"Do police solve most crimes?" 
+"Is crime getting worse?" 
+"Do most arrests lead to conviction?" 
+"Are most criminals young?" 
+"Do criminals live near their crimes?" 
+ 
+
+ Final Project: Example Datasets and Stories
+State-Level Crime Data:
+
+Description: A comprehensive dataset from the FBI's Uniform Crime Reporting Statistics covering crime rates and totals for all U.S. states from 1960-2019. The data is divided into property crimes (burglary, larceny, motor vehicle theft) and violent crimes (assault, murder, rape, robbery), with both raw counts and rates per 100,000 population.Links to an external site.
+Link to data: https://corgis-edu.github.io/corgis/csv/state_crime/Links to an external site.
+Example story: Seasonality of CrimeLinks to an external site. (didn't directly use this dataset)
+Chicago Crime Data:
+
+Description: Chicago's comprehensive crime incident data from 2001 to present, containing detailed records of every reported crime including type, date, time, location, and outcomes. This is one of the most complete municipal crime datasets available, making it ideal for analyzing patterns like seasonal variations, neighborhood differences, and long-term trends in urban crime.
+Link to data: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_dataLinks to an external site.
+Link to data dashboard: https://corgis-edu.github.io/corgis/csv/state_crime/Links to an external site.
+Example story: Summer Safety AnalysisLinks to an external site.
+Crime Trends in U.S. Cities:
+
+Description: The Council on Criminal Justice tracks crime trends across 30+ major U.S. cities, providing quarterly updates on 13 offense types. Their analysis shows percentage changes from pre-pandemic baselines and year-over-year comparisons, offering crucial context for understanding whether crime is actually rising or falling in American cities. Their mid-year reports include both violent offenses (homicide, aggravated assault) and property crimes (larceny, motor vehicle theft).
+Link to Story: https://counciloncj.org/crime-trends-in-u-s-cities-mid-year-2025-update/Links to an external site.
+Invisible Institute: 
+
+Description: A Chicago-based journalism nonprofit that has created the Citizens Police Data Project (CPDP), making nearly a quarter million police misconduct records publicly searchable. Following their landmark 2014 court victory establishing police disciplinary records as public in Illinois, they've expanded to mid-sized Illinois cities. The Chicago database contains over 28,000 complaints against Chicago police officers with details on the accused officer, complainant, misconduct type, and investigation outcomes. Used by over 89,000 Chicagoans annually, including public defenders and journalists. Links to an external site.
+Link to Data + Stories: https://invisible.institute/illinois-police-dataLinks to an external site.
+National Police Index:
+
+Description: A comprehensive tool showing police employment history data from state training and certification boards across the U.S., helping identify "wandering officers" who move between departments after misconduct. Led by the Invisible Institute in partnership with Innocence Project New Orleans and Human Rights Data Analysis Group, it currently includes employment history from 27 states. This resource is crucial for tracking officers who leave one department under problematic circumstances only to be hired elsewhere.
+Link to Data: https://national.cpdp.co/Links to an external site.
+FBI Data:
+
+Description: The FBI's Crime Data Explorer provides the most comprehensive federal crime statistics available, including NIBRS (incident-level data on 46 crime types), hate crime statistics, law enforcement officers killed/assaulted data, and use-of-force statistics. Data can be downloaded in multiple formats and includes both national estimates and agency-level reporting. 
+Link to Datasets: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloadsLinks to an external site.
+Fatal Force:
+
+Description: The Washington Post's database documenting every fatal police shooting since 2015, tracking over 10,000 deaths with details on race, circumstances, mental health status, and whether the person was armed. The Post documented more than twice as many fatal shootings as federal records show, revealing significant underreporting in official statistics.
+Link to Dataset: https://github.com/washingtonpost/data-police-shootingsLinks to an external site.
+Link to Story: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/Links to an external site.
+ 

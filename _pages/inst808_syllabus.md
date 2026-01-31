@@ -146,7 +146,7 @@ The Final Paper will be due on the first day of finals period.
 ## Weekly Schedule
 
 ### Week 1: Introduction to Natural Language Processing
-[Slides](/files/Lecture_1__Intro.pptx) | [Lab Notebook](/files/inst_808__Lab_1__ngram_lm.ipynb) | [Solutions](/files/inst_808__Lab_1__ngram_lm_sol.html)
+[Slides](/files/inst808_spring2025/Lecture_1__Intro.pptx) | [Lab Notebook](/files/inst808_spring2025/inst_808__Lab_1__ngram_lm.ipynb) | [Solutions](/files/inst808_spring2025/inst_808__Lab_1__ngram_lm_sol.html)
 
 
 **Required Reading:**
@@ -192,7 +192,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 4: RNNS and Attention
-[Slides](/files/Lecture_2__NN.pptx) | [Lab Notebook](/files/inst_808__Lab_2__word2vec.ipynb) | [Solutions](/files/inst_808__Lab_2__word2vec_sol.html)
+[Slides](/files/inst808_spring2025/Lecture_2__NN.pptx) | [Lab Notebook](/files/inst808_spring2025/inst_808__Lab_2__word2vec.ipynb) | [Solutions](/files/inst808_spring2025/inst_808__Lab_2__word2vec_sol.html)
 
 
 **Required Reading:**
@@ -216,7 +216,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 5: Transformers and Sentence Embeddings
-[Slides](/files/Lecture_3__Transformers.pptx) | [Lab Notebook](/files/inst_808__Lab_3__sentence_embeddings.ipynb)
+[Slides](/files/inst808_spring2025/Lecture_3__Transformers.pptx) | [Lab Notebook](/files/inst808_spring2025/inst_808__Lab_3__sentence_embeddings.ipynb)
 
 
 **Required Reading:**
@@ -258,7 +258,7 @@ The Final Paper will be due on the first day of finals period.
 ---
 
 ### Week 7: Qualitative Coding with LLMs I 
-[Slides](/files/Lecture_4__QualCoding.pptx) (Includes Final Project guidelines)
+[Slides](/files/inst808_spring2025/Lecture_4__QualCoding.pptx) (Includes Final Project guidelines)
 
 **Required Reading:**
 - Textbook: [Jurafsky & Martin (2025). Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
@@ -278,7 +278,7 @@ Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01
 ---
 
 ### Week 8: Qualitative Coding with LLMs II
-[Lab Notebook - Qualitative Coding with APIs](/files/Lab__qualcode.ipynb) | [Lab Notebook - Analyze Results](/files/Lab__qualcode_analyze.ipynb)
+[Lab Notebook - Qualitative Coding with APIs](/files/inst808_spring2025/Lab__qualcode.ipynb) | [Lab Notebook - Analyze Results](/files/inst808_spring2025/Lab__qualcode_analyze.ipynb)
 
 **Required Reading:**
 - [Dunivin (2024). Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks](http://arxiv.org/abs/2401.15170)
@@ -295,10 +295,10 @@ Platform for Qualitative Data Analysis](https://dl.acm.org/doi/pdf/10.1145/36405
 ---
 ### Week 9: Modern Topic Modeling
 Lab Notebooks:
-  - [Generate Synthetic Abstracts](/files/gt/1_compare_llms.ipynb)
-  - [Analyze Abstracts](/files/gt/2_analyze_abstracts.ipynb)
-  - [Deductive Coding of Abstracts](/files/gt/3_deductive_coding.ipynb)
-  - [Evaluate Deduction](/files/gt/4_evaluate_deduction.ipynb)
+  - [Generate Synthetic Abstracts](/files/inst808_spring2025/gt/1_compare_llms.ipynb)
+  - [Analyze Abstracts](/files/inst808_spring2025/gt/2_analyze_abstracts.ipynb)
+  - [Deductive Coding of Abstracts](/files/inst808_spring2025/gt/3_deductive_coding.ipynb)
+  - [Evaluate Deduction](/files/inst808_spring2025/gt/4_evaluate_deduction.ipynb)
   
 **Required Reading:**
 - [Hoyle et al. (2022). Are Neural Topic Models Broken?](https://arxiv.org/abs/2210.16162)
@@ -312,10 +312,10 @@ Lab Notebooks:
 ---
 ### Week 10: Error Analysis and Validation
 Lab Notebooks:
-  - [Generate Synthetic Abstracts](/files/gt/1_full_pilot.ipynb)
-  - [Analyze Abstracts](/files/gt/2_final_plot_pilot.ipynb)
-  - [Deductive Coding of Abstracts](/files/gt/3_final_pilot_deductive.ipynb)
-  - [Evaluate Deduction](/files/gt/4_final_pilot_evaluate.ipynb)
+  - [Generate Synthetic Abstracts](/files/inst808_spring2025/gt/1_full_pilot.ipynb)
+  - [Analyze Abstracts](/files/inst808_spring2025/gt/2_final_plot_pilot.ipynb)
+  - [Deductive Coding of Abstracts](/files/inst808_spring2025/gt/3_final_pilot_deductive.ipynb)
+  - [Evaluate Deduction](/files/inst808_spring2025/gt/4_final_pilot_evaluate.ipynb)
 
 **Required Reading:**
 - [Pangakis et al. (2023). Automated Annotation with Generative AI Requires Validation](http://arxiv.org/abs/2306.00176)
@@ -332,7 +332,7 @@ Lab Notebooks:
 ---
 
 ### Week 11: Concept Tracing I
-[Slides](/files/Lecturette__Prompt_engineering_and_evaluation.pptx)
+[Slides](/files/inst808_spring2025/Lecturette__Prompt_engineering_and_evaluation.pptx)
 
 **Required Reading:**
 - [Islam & Goldwasser (2024). Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://arxiv.org/html/2404.10259v3)
@@ -347,7 +347,7 @@ Lab Notebooks:
 ---
 
 ### Week 12: Concept Tracing II
-[Slides](/files/Lecture_Concept_Tracing.pptx)
+[Slides](/files/inst808_spring2025/Lecture_Concept_Tracing.pptx)
 
 **Required Reading:**
 - [Ziems et al. (2023). Can Large Language Models Transform Computational Social Science?](https://arxiv.org/pdf/2305.03514)
@@ -357,7 +357,7 @@ Lab Notebooks:
 ---
 
 ### Week 13: What Patterns in Humanity Do LLMs Encode?
-[Slides](/files/Lecture_What_Are_LLMS_Useful_For.pptx)
+[Slides](/files/inst808_spring2025/Lecture_What_Are_LLMS_Useful_For.pptx)
 
 **Required Reading**
 - [Santurkar et al. (2023). Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a/santurkar23a.pdf)

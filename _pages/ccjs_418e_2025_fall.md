@@ -121,7 +121,7 @@ Presentations will be held in the last week of class and projects will be due 12
 [**Links to Lecture Videos**](https://umd.instructure.com/courses/1389501/pages/video-links)
 
 ### Week 1: Introduction to Computational Thinking (9/4)
-- Slides: [Introduction](/files/cfc/lecture_1.pptx)
+- Slides: [Introduction](/files/ccjs418e_fall2025/lecture_1.pptx)
 
 Resources: 
 - [BBC Bitesize: Computational Thinking](https://www.bbc.co.uk/bitesize/topics/z7tp34j)
@@ -131,9 +131,9 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/1_intro_to_jupyter_and_python_solutions.ipynb)
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python_solutions.ipynb)
 
-- Slides: [Intro to Jupyter and Python](/files/cfc/Intro_to_Python_and_Jupyter.pptx)
+- Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2025/Intro_to_Python_and_Jupyter.pptx)
 
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-python)
@@ -141,8 +141,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
-- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/2_loops_solutions.ipynb)
-- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/3_functions_solutions.ipynb)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops_solutions.ipynb)
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions_solutions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -163,8 +163,8 @@ Resources:
 ---
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
-- Slides: [Intro to Pandas](/files/cfc/Intro_to_Pandas.pptx) 
-- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/4_pandas_intro_lecture_solutions.ipynb)
+- Slides: [Intro to Pandas](/files/ccjs418e_fall2025/Intro_to_Pandas.pptx) 
+- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture_solutions.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
@@ -172,7 +172,7 @@ Resources:
 ---
 
 ### Week 6: Pandas - Filtering (10/7, 10/9)
-- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/5_pandas_filtering_lecture_solutions.ipynb)
+- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture_solutions.ipynb)
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
@@ -181,7 +181,7 @@ Resources:
 ---
 
 ### Week 7: Pandas - Groupby (10/14, 10/16)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/6_groupby_solutions.ipynb)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby_solutions.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
@@ -190,7 +190,7 @@ Resources:
 ---
 
 ### Week 8: Data Visualization with Seaborn (10/21, 10/23)
-- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/7_visualization.ipynb)
+- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/7_visualization.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
@@ -217,13 +217,13 @@ Resources:
 
 ### Week 11: Merging (11/11, NO CLASS 11/13)
 
-- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/9_merging_solutions.ipynb)
+- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging_solutions.ipynb)
 
 ---
 
 ### Week 12: Final Project Example & Work Session (11/18, 11/20)
-- PowerPoint: [Yankees Noise Analysis Example](/files/cfc/Yankees_Noise_Analysis_Presentation.pptx)
-- Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/cfc/class_demo_notebook_complete.ipynb)
+- PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2025/Yankees_Noise_Analysis_Presentation.pptx)
+- Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/class_demo_notebook_complete.ipynb)
 
 **Problem Set 3 Due: 11/23 11:59am**
 **Code Review: 11/25**
@@ -236,9 +236,9 @@ Resources:
 ---
 
 ### Week 14: Introduction to Causality (12/2, 12/4)
-- Slides: [Anatomy of a Comparison](/files/cfc/10_causal_inference.pptx)
-- Slides: [What If? From Code to Causality to LLMs](/files/cfc/11_what_if_lecture.pptx)
-- Jupyter Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/cfc/10_causal_inference.ipynb)
+- Slides: [Anatomy of a Comparison](/files/ccjs418e_fall2025/10_causal_inference.pptx)
+- Slides: [What If? From Code to Causality to LLMs](/files/ccjs418e_fall2025/11_what_if_lecture.pptx)
+- Jupyter Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/10_causal_inference.ipynb)
 
 ---
 
