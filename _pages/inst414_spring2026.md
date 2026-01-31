@@ -188,16 +188,13 @@ Details to come.
 ### Week 12 (4/24): Sources of Bias, Part II
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_12.pptx)
 
-**Problem Set 3 Due**
+**Problem Set 3 Due / Problem Set 4 Out**
 {: style="color: red"}
 
 ---
 
 ### Week 13 (5/1): Text Mining
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_13.pptx)
-
-**Problem Set 4 Out**
-{: style="color: red"}
 
 ---
 
