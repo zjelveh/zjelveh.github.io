@@ -73,8 +73,12 @@ Minimum grade of C- in MATH115 and STAT100; minimum C- in INST126 or GEOG276; mi
 
 ## Technical Requirements
 - A laptop capable of running Python (bring to Friday labs)
+- A Google account for Google Colab (used for lab notebooks)
 - No software purchases required — we use free, open-source tools
 - Access to ELMS for async lecture videos, assignments, and announcements
+
+## Working with Lab Notebooks
+Lab notebooks open in Google Colab directly from the links below. **Important:** When you open a lab notebook, immediately click **File → Save a copy in Drive**. This creates your own version in your Google Drive that you can edit and save. If you skip this step, your work will not be saved.
 
 ## Assessment
 <details>
