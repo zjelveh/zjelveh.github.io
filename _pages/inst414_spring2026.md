@@ -222,6 +222,9 @@ The University of Maryland is committed to creating and maintaining a welcoming 
 
 More information: [https://www.counseling.umd.edu/ads/](https://www.counseling.umd.edu/ads/)
 
+### LLM Policy
+While you are allowed and encouraged to use LLMs (ChatGPT, Copilot, etc.) to help you learn the material — for example, to explain concepts, debug error messages, or explore topics in more depth — do not use them to complete assignments. If it is clear that an LLM has been used on an assignment, you will receive an automatic zero.
+
 ### UMD Policies
 It is our shared responsibility to know and abide by the University of Maryland's policies that relate to all courses, which include topics like academic integrity, student and instructor conduct, accessibility and accommodations, attendance and excused absences, grades and appeals, and copyright and intellectual property.
 
