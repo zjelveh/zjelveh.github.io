@@ -83,6 +83,8 @@ Lab notebooks open in Google Colab directly from the links below.
 
 If you skip this step, your work will not be saved.
 
+**Turn off AI assistance:** Go to **Settings → AI Assistance** and uncheck everything. AI-generated code is not allowed on assignments in this course.
+
 ## Assessment
 <details>
 <summary class="section-heading">Homework Assignments (30%)</summary>
