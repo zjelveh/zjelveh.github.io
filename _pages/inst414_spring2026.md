@@ -105,13 +105,15 @@ Details to come.
 
 ### Week 1 (1/30): Data Science Background
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_1.pptx)
-- Lab: [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb)
+- Lab: Introduction to Pandas — [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb)
+- Resource: [Resources for Learning Pandas](https://umd.instructure.com/courses/1401087/pages/resources-for-learning-pandas)
 
 ---
 
 ### Week 2 (2/6): Probability
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_2.pptx)
 - Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
+- Resource: [Web Resources for Probability](https://umd.instructure.com/courses/1401087/pages/web-resources-for-probability?wrap=1)
 
 ---
 
