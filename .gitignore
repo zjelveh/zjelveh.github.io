@@ -45,6 +45,11 @@ files/cfc/docs/
 **/*_REVISED.md
 
 # ============================================
+# Lecture video/audio production files
+# ============================================
+files/inst414_spring2026/lectures/lecture_*/
+
+# ============================================
 # Old/replaced course files
 # ============================================
 files/cfc/lecture*.py

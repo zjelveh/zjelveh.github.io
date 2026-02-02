@@ -109,7 +109,7 @@ Details to come.
 ## Weekly Schedule
 
 ### Week 1 (1/30): Data Science Background
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_1.pptx)
+- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_1.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - Lab: Introduction to Pandas — [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb)
 - Resource: [Resources for Learning Pandas](https://umd.instructure.com/courses/1401087/pages/resources-for-learning-pandas)
 
