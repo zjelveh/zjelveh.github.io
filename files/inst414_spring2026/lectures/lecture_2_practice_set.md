@@ -39,7 +39,7 @@
    - $$Value$$ can be   \{Ace,2,...,10,Jack,Queen,King\}
 
    4.1. How many outcomes are in the event space (Color, Value)?  
-   4.2. How many outcomes are in the event space (Color) if Value is **included**?
+   4.2. How many outcomes are in the event space (Color)?
 
 ---
 
