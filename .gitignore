@@ -45,9 +45,19 @@ files/cfc/docs/
 **/*_REVISED.md
 
 # ============================================
+# Slide conversion pipeline output
+# ============================================
+slides_md/
+scripts/
+
+# ============================================
 # Lecture video/audio production files
 # ============================================
 files/inst414_spring2026/lectures/lecture_*/
+*.mp4
+*.mp3
+files/inst414_spring2026/lectures/lecture_2_part_1.pptx
+files/inst414_spring2026/lectures/lecture_2_practice.*
 
 # ============================================
 # Old/replaced course files

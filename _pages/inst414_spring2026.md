@@ -116,7 +116,7 @@ Details to come.
 ---
 
 ### Week 2 (2/6): Probability
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_2.pptx)
+- Video Lecture: [Slides (Part 1)](/files/inst414_spring2026/lectures/lecture_2_p1.pptx) &#124; [Slides (Part 2)](/files/inst414_spring2026/lectures/lecture_2_p2.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
 - Resource: [Web Resources for Probability](https://umd.instructure.com/courses/1401087/pages/web-resources-for-probability?wrap=1)
 
