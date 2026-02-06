@@ -110,22 +110,21 @@ Details to come.
 
 ### Week 1 (1/30): Data Science Background
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_1.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
-- Lab: Introduction to Pandas — [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%201%20Notes.md)
-- Resource: [Resources for Learning Pandas](https://umd.instructure.com/courses/1401087/pages/resources-for-learning-pandas)
 
 ---
 
 ### Week 2 (2/6): Probability
 - Video Lecture: [Slides (Part 1: Probability Basics)](/files/inst414_spring2026/lectures/lecture_2_p1.pptx) &#124; [Slides (Part 2: Joint and Marginal Distributions)](/files/inst414_spring2026/lectures/lecture_2_p2.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_2_practice_set.md)
-- Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
+- Lab: Introduction to Pandas — [Lab 1 Slides](/files/inst414_spring2026/labs/Lab_1.pptx) &#124; [Lab 1 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_1.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%201%20Notes.md)
+- Resource: [Resources for Learning Pandas](https://umd.instructure.com/courses/1401087/pages/resources-for-learning-pandas)
 - Resource: [Web Resources for Probability](https://umd.instructure.com/courses/1401087/pages/web-resources-for-probability?wrap=1)
 
 ---
 
 ### Week 3 (2/13): Conditional Probability
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_3.pptx)
-- Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_3.ipynb)
+- Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
 
 **Problem Set 1 Out**
 {: style="color: red"}
@@ -134,13 +133,13 @@ Details to come.
 
 ### Week 4 (2/20): Bayes Theorem / Making Predictions
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_4.pptx)
-- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb)
+- Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_3.ipynb)
 
 ---
 
 ### Week 5 (2/27): Performance Metrics / Naive Bayes
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_5.pptx)
-- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
+- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb)
 
 **Problem Set 1 Due**
 {: style="color: red"}
@@ -149,7 +148,7 @@ Details to come.
 
 ### Week 6 (3/6): Linear and Logistic Regression
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_6.pptx)
-- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_6.ipynb)
+- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
 
 **Problem Set 2 Out**
 {: style="color: red"}
@@ -158,7 +157,7 @@ Details to come.
 
 ### Week 7 (3/13): Overfitting / Decision Trees
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_7.pptx)
-- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb)
+- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_6.ipynb)
 
 ---
 
@@ -168,7 +167,7 @@ Details to come.
 
 ### Week 8 (3/27): Random Forest / Gradient Boosting
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_8.pptx)
-- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb)
+- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb)
 
 **Problem Set 2 Due**
 {: style="color: red"}
@@ -181,7 +180,7 @@ Details to come.
 
 ### Week 10 (4/10): Fairness
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_10.pptx)
-- Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb)
+- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb)
 
 **Problem Set 3 Out**
 {: style="color: red"}
@@ -190,6 +189,7 @@ Details to come.
 
 ### Week 11 (4/17): Sources of Bias, Part I
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
+- Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb)
 
 ---
 
