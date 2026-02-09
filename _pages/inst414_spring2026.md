@@ -123,7 +123,8 @@ Details to come.
 ---
 
 ### Week 3 (2/13): Conditional Probability
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_3.pptx)
+- Video Lecture: [Slides (Recap)](/files/inst414_spring2026/lectures/lecture_3a_recap.pptx) &#124; [Slides (Conditional Probability)](/files/inst414_spring2026/lectures/lecture_3b_condprob.pptx) &#124; [Slides (Chain Rule / Practice)](/files/inst414_spring2026/lectures/lecture_3c_practice.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
+- [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_3_practice_set.md)
 - Lab: [Lab 2 Slides](/files/inst414_spring2026/labs/Lab_2.pptx) &#124; [Lab 2 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_2.ipynb)
 
 **Problem Set 1 Out**
