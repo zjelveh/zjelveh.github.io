@@ -102,7 +102,6 @@ Compute:
 Compute:
 1. P(C  $$\mid$$ T)
 2. P(T  $$\mid$$ C)
-3. P(C  $$\mid$$ T^c)
 
 ### C3.
 Which probability is each sentence asking for? (Just write the expression.)
@@ -125,7 +124,7 @@ Roll two dice in order: X_1 then X_2.
 Compute P(X_1+X_2 > 8  $$\mid$$ X_1=5).
 
 ### D2.
-Compute P(X_1+X_2 ge 10  $$\mid$$ X_1=6).
+Compute P(X_1+X_2 $$\ge$$ 10  $$\mid$$ X_1=6).
 
 ### D3.
 Compute P(X_1+X_2  is even  $$\mid$$ X_1=3).
@@ -244,11 +243,11 @@ Check: all four joint cells sum to **1.00**.
 - P(Low)=104/200=0.52, P(High)=96/200=0.48
 
 **B3.**
-1. P(High $$\mid$$ Male)=76/156approx 0.487
-2. P(Low $$\mid$$ Male)=80/156approx 0.513
-3. P(High $$\mid$$ Female)=20/44approx 0.455
-4. P(Male $$\mid$$ High)=76/96approx 0.792
-5. P(Female $$\mid$$ Low)=24/104approx 0.231
+1. P(High $$\mid$$ Male)=76/156 $$\approx$$ 0.487
+2. P(Low $$\mid$$ Male)=80/156 $$\approx$$ 0.513
+3. P(High $$\mid$$ Female)=20/44 $$\approx$$ 0.455
+4. P(Male $$\mid$$ High)=76/96 $$\approx$$ 0.792
+5. P(Female $$\mid$$ Low)=24/104 $$\approx$$ 0.231
 
 **B4.**
 1. Among males, about 48.7% are high risk.
@@ -259,7 +258,7 @@ Check: all four joint cells sum to **1.00**.
 2. P(Highcup Male)=0.48+0.78-0.38=0.88
 
 **B6.**
-P(High)=0.48 and P(High $$\mid$$ Male)approx 0.487.
+P(High)=0.48 and P(High $$\mid$$ Male) $$\approx$$ 0.487.
 So P(High $$\mid$$ Male) is slightly larger.
 
 **B7.**
@@ -276,9 +275,9 @@ So P(High $$\mid$$ Male) is slightly larger.
 3. P(C,T)=36/200=0.18
 
 **C2.**
-1. P(C $$\mid$$ T)=36/68approx 0.529
+1. P(C $$\mid$$ T)=36/68 $$\approx$$ 0.529
 2. P(T $$\mid$$ C)=36/40=0.90
-3. P(C $$\mid$$ T^c)=4/132approx 0.030
+
 
 **C3.**
 1. P(C $$\mid$$ T)
@@ -330,15 +329,18 @@ P(X=1)=P(X=1 $$\mid$$ Y=1)P(Y=1)+P(X=1 $$\mid$$ Y=0)P(Y=0)
 =0.80(0.30)+0.20(0.70)=0.24+0.14=0.38.
 
 **F2.**
-1. P(X=0)=1-0.38=0.62
-2. P(X=0)=P(X=0 $$\mid$$ Y=1)P(Y=1)+P(X=0 $$\mid$$ Y=0)P(Y=0)
-   where P(X=0 $$\mid$$ Y=1)=0.20, P(X=0 $$\mid$$ Y=0)=0.80.
-   So 0.20(0.30)+0.80(0.70)=0.06+0.56=0.62.
+1. P(X=0) = 1 - 0.38 = 0.62
+2. P(X=0) = P(X=0 $$\mid$$ Y=1) P(Y=1) + P(X=0 $$\mid$$ Y=0) P(Y=0)
+   
+   where 
+     - P(X=0 $$\mid$$ Y=1)=0.20, 
+     - P(X=0 $$\mid$$ Y=0)=0.80.
+   
+   So: 0.20 (0.30) + 0.80 (0.70) = 0.06 + 0.56 = 0.62.
 
 **F3.**
 
-P(Y=1 $$\mid$$ X=1)=(P(X=1 $$\mid$$ Y=1)P(Y=1))/(P(X=1))
-=(0.80(0.30))/(0.38)=(0.24)/(0.38)approx 0.632.
+P(Y=1 $$\mid$$ X=1) = $$\frac{ P(X=1 \mid Y=1) P(Y=1)}{P(X=1)}$$ = $$\frac{0.80(0.30)}{0.38}$$ = $$\frac{0.24}{0.38}$$ $$\approx$$ 0.632.
 
 **F4.** Not necessarily. Here it ends up being about 0.632 (which *is* fairly big), but in general P(Y=1 $$\mid$$ X=1) also depends on how common Y=1 is overall.
 
@@ -348,9 +350,9 @@ P(Y=1 $$\mid$$ X=1)=(P(X=1 $$\mid$$ Y=1)P(Y=1))/(P(X=1))
 
 **G1.**
 Because H is binary (R or D), the event (S=D, P=D) can occur only with H=R or H=D. So:
-P(S=D, P=D)=0.40+0.05=0.45
+P(S=D, P=D) = 0.40 + 0.05 = 0.45
 
 **G2.**
-P(H=R $$\mid$$ S=D,P=D)=0.05/0.45approx 0.111 (about 11.1%)
+P(H=R $$\mid$$ S=D,P=D)=0.05/0.45 $$\approx$$ 0.111 (about 11.1%)
 
 **G3.** Among cases where S=D and P=D, about 11% have H=R.
