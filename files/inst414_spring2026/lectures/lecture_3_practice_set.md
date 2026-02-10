@@ -29,15 +29,8 @@ Using the table in A1, compute:
 2. P(X=1  or  Y=0)
 
 ### A3.
-A student says: “P(Y=1) is the *same thing* as P(Y=1mid X=1).”
+A student says: “P(Y=1) is the *same thing* as P(Y=1 $$\mid$$ X=1).”
 Is this always true? If not, give a one-sentence explanation of what’s different.
-
-### A4.
-You are told P(A)=0.3, P(B)=0.5, and P(A,B)=0.2.
-Compute:
-1. P(Amid B)
-2. P(Bmid A)
-3. P(Acup B)
 
 ---
 
@@ -61,16 +54,16 @@ Compute the marginals:
 
 ### B3.
 Compute each conditional probability:
-1. P(High mid Male)
-2. P(Low mid Male)
-3. P(High mid Female)
-4. P(Male mid High)
-5. P(Female mid Low)
+1. P(High  $$\mid$$ Male)
+2. P(Low  $$\mid$$ Male)
+3. P(High  $$\mid$$ Female)
+4. P(Male  $$\mid$$ High)
+5. P(Female  $$\mid$$ Low)
 
 ### B4.
 Interpret in a sentence (plain English):
-1. P(High mid Male)
-2. P(Male mid High)
+1. P(High  $$\mid$$ Male)
+2. P(Male  $$\mid$$ High)
 
 ### B5.
 Compute:
@@ -107,9 +100,9 @@ Compute:
 
 ### C2.
 Compute:
-1. P(C mid T)
-2. P(T mid C)
-3. P(C mid T^c)
+1. P(C  $$\mid$$ T)
+2. P(T  $$\mid$$ C)
+3. P(C  $$\mid$$ T^c)
 
 ### C3.
 Which probability is each sentence asking for? (Just write the expression.)
@@ -119,7 +112,7 @@ Which probability is each sentence asking for? (Just write the expression.)
 4. “Among people with COVID, what fraction test positive?”
 
 ### C4.
-In one sentence: why is P(Cmid T) usually *very different* from P(Tmid C)?
+In one sentence: why is P(C $$\mid$$ T) usually *very different* from P(T $$\mid$$ C)?
 
 ---
 
@@ -129,21 +122,21 @@ Assume fair six-sided dice.
 
 ### D1.
 Roll two dice in order: X_1 then X_2.
-Compute P(X_1+X_2 > 8 mid X_1=5).
+Compute P(X_1+X_2 > 8  $$\mid$$ X_1=5).
 
 ### D2.
-Compute P(X_1+X_2 ge 10 mid X_1=6).
+Compute P(X_1+X_2 ge 10  $$\mid$$ X_1=6).
 
 ### D3.
-Compute P(X_1+X_2  is even mid X_1=3).
+Compute P(X_1+X_2  is even  $$\mid$$ X_1=3).
 
 ### D4.
 Let A be the event “sum is at least 9” and B be the event “first roll is 4.”
-Write P(Amid B) as a probability statement involving only X_2, then compute it.
+Write P(A $$\mid$$ B) as a probability statement involving only X_2, then compute it.
 
 ### D5. (Quick check)
 True or false (and give a short reason):
-P(X_2=6 mid X_1=2)=P(X_2=6).
+P(X_2=6  $$\mid$$ X_1=2)=P(X_2=6).
 
 ---
 
@@ -151,24 +144,24 @@ P(X_2=6 mid X_1=2)=P(X_2=6).
 
 ### E1.
 Fill in the blanks:
-1. P(Amid B)=dfrac{P(underline{hspace{2cm}})}{P(underline{hspace{2cm}})}
-2. P(A,B)=P(Amid B)\,P(underline{hspace{2cm}})
-3. P(A,B)=P(Bmid A)\,P(underline{hspace{2cm}})
+1. P(A $$\mid$$ B)=dfrac{P(underline{hspace{2cm}})}{P(underline{hspace{2cm}})}
+2. P(A,B)=P(A $$\mid$$ B)\,P(underline{hspace{2cm}})
+3. P(A,B)=P(B $$\mid$$ A)\,P(underline{hspace{2cm}})
 
 ### E2.
-You are told P(A)=0.25 and P(Bmid A)=0.60.
+You are told P(A)=0.25 and P(B $$\mid$$ A)=0.60.
 Compute P(A,B).
 
 ### E3.
-You are told P(B)=0.40 and P(Amid B)=0.15.
+You are told P(B)=0.40 and P(A $$\mid$$ B)=0.15.
 Compute P(A,B).
 
 ### E4.
 You are told P(A,B)=0.06 and P(A)=0.20.
-Compute P(Bmid A).
+Compute P(B $$\mid$$ A).
 
 ### E5. (Chain rule in words)
-In one sentence: what does the identity P(A,B)=P(Bmid A)P(A) mean?
+In one sentence: what does the identity P(A,B)=P(B $$\mid$$ A)P(A) mean?
 
 ---
 
@@ -177,8 +170,8 @@ In one sentence: what does the identity P(A,B)=P(Bmid A)P(A) mean?
 Let Yin{0,1} with P(Y=1)=0.30 (so P(Y=0)=0.70).
 You are also told:
 
-- P(X=1mid Y=1)=0.80
-- P(X=1mid Y=0)=0.20
+- P(X=1 $$\mid$$ Y=1)=0.80
+- P(X=1 $$\mid$$ Y=0)=0.20
 
 ### F1.
 Compute P(X=1) using marginalizing with conditional probabilities.
@@ -189,11 +182,11 @@ Compute P(X=0) two ways:
 2. by marginalizing directly (write and compute the sum)
 
 ### F3.
-Now compute P(Y=1mid X=1).
+Now compute P(Y=1 $$\mid$$ X=1).
 *(Hint: you will need Bayes’ rule, i.e., the conditional/joint relationship.)*
 
 ### F4.
-A student says: “Because P(X=1mid Y=1) is big, P(Y=1mid X=1) must also be big.”
+A student says: “Because P(X=1 $$\mid$$ Y=1) is big, P(Y=1 $$\mid$$ X=1) must also be big.”
 Is that necessarily true? Use your answer from F3 to support your explanation.
 
 ---
@@ -210,10 +203,10 @@ You are told:
 Compute P(S=D, P=D).
 
 ### G2.
-Compute P(H=R mid S=D, P=D).
+Compute P(H=R  $$\mid$$ S=D, P=D).
 
 ### G3.
-Interpret P(H=R mid S=D, P=D) in one sentence.
+Interpret P(H=R  $$\mid$$ S=D, P=D) in one sentence.
 
 ---
 
@@ -230,12 +223,7 @@ Interpret P(H=R mid S=D, P=D) in one sentence.
 1. P(X=1,Y=0)=0.20
 2. P(X=1 cup Y=0)=P(X=1)+P(Y=0)-P(X=1,Y=0)=0.50+0.30-0.20=0.60
 
-**A3.** Not always true. P(Y=1) is overall; P(Y=1mid X=1) is restricted to cases where X=1 and then renormalized.
-
-**A4.**
-1. P(Amid B)=(0.2)/(0.5)=0.4
-2. P(Bmid A)=(0.2)/(0.3)=0.666...
-3. P(Acup B)=0.3+0.5-0.2=0.6
+**A3.** Not always true. P(Y=1) is overall; P(Y=1 $$\mid$$ X=1) is restricted to cases where X=1 and then renormalized.
 
 ---
 
@@ -256,11 +244,11 @@ Check: all four joint cells sum to **1.00**.
 - P(Low)=104/200=0.52, P(High)=96/200=0.48
 
 **B3.**
-1. P(Highmid Male)=76/156approx 0.487
-2. P(Lowmid Male)=80/156approx 0.513
-3. P(Highmid Female)=20/44approx 0.455
-4. P(Malemid High)=76/96approx 0.792
-5. P(Femalemid Low)=24/104approx 0.231
+1. P(High $$\mid$$ Male)=76/156approx 0.487
+2. P(Low $$\mid$$ Male)=80/156approx 0.513
+3. P(High $$\mid$$ Female)=20/44approx 0.455
+4. P(Male $$\mid$$ High)=76/96approx 0.792
+5. P(Female $$\mid$$ Low)=24/104approx 0.231
 
 **B4.**
 1. Among males, about 48.7% are high risk.
@@ -271,11 +259,11 @@ Check: all four joint cells sum to **1.00**.
 2. P(Highcup Male)=0.48+0.78-0.38=0.88
 
 **B6.**
-P(High)=0.48 and P(Highmid Male)approx 0.487.
-So P(Highmid Male) is slightly larger.
+P(High)=0.48 and P(High $$\mid$$ Male)approx 0.487.
+So P(High $$\mid$$ Male) is slightly larger.
 
 **B7.**
-1. Independence condition: for example, P(Highcap Male)=P(High)P(Male) (equivalently P(Highmid Male)=P(High)).
+1. Independence condition: for example, P(Highcap Male)=P(High)P(Male) (equivalently P(High $$\mid$$ Male)=P(High)).
 2. Test: P(Highcap Male)=0.38 but P(High)P(Male)=0.48times 0.78=0.3744. Since these differ, the variables are **not independent** in this sample.
 
 ---
@@ -288,17 +276,17 @@ So P(Highmid Male) is slightly larger.
 3. P(C,T)=36/200=0.18
 
 **C2.**
-1. P(Cmid T)=36/68approx 0.529
-2. P(Tmid C)=36/40=0.90
-3. P(Cmid T^c)=4/132approx 0.030
+1. P(C $$\mid$$ T)=36/68approx 0.529
+2. P(T $$\mid$$ C)=36/40=0.90
+3. P(C $$\mid$$ T^c)=4/132approx 0.030
 
 **C3.**
-1. P(Cmid T)
+1. P(C $$\mid$$ T)
 2. P(T)
 3. P(C,T)
-4. P(Tmid C)
+4. P(T $$\mid$$ C)
 
-**C4.** They condition on different things: P(Cmid T) restricts to test-positives, while P(Tmid C) restricts to COVID-positives.
+**C4.** They condition on different things: P(C $$\mid$$ T) restricts to test-positives, while P(T $$\mid$$ C) restricts to COVID-positives.
 
 ---
 
@@ -311,7 +299,7 @@ So P(Highmid Male) is slightly larger.
 **D3.** Given X_1=3 (odd), sum is even iff X_2 is odd: 3/6=0.5
 
 **D4.** If X_1=4, “sum at least 9” means X_2ge 5.
-So P(Amid B)=P(X_2ge 5)=2/6=1/3.
+So P(A $$\mid$$ B)=P(X_2ge 5)=2/6=1/3.
 
 **D5.** True. The dice are independent, so knowing X_1 doesn’t change the distribution of X_2.
 
@@ -320,15 +308,15 @@ So P(Amid B)=P(X_2ge 5)=2/6=1/3.
 ## E. Relationships
 
 **E1.**
-1. P(Amid B)=(P(A,B))/(P(B))
-2. P(A,B)=P(Amid B)P(B)
-3. P(A,B)=P(Bmid A)P(A)
+1. P(A $$\mid$$ B)=(P(A,B))/(P(B))
+2. P(A,B)=P(A $$\mid$$ B)P(B)
+3. P(A,B)=P(B $$\mid$$ A)P(A)
 
 **E2.** P(A,B)=0.60times 0.25=0.15
 
 **E3.** P(A,B)=0.15times 0.40=0.06
 
-**E4.** P(Bmid A)=0.06/0.20=0.30
+**E4.** P(B $$\mid$$ A)=0.06/0.20=0.30
 
 **E5.** “The probability that both A and B happen equals the probability A happens, times the probability B happens given that A happened.”
 
@@ -338,21 +326,21 @@ So P(Amid B)=P(X_2ge 5)=2/6=1/3.
 
 **F1.**
 
-P(X=1)=P(X=1mid Y=1)P(Y=1)+P(X=1mid Y=0)P(Y=0)
+P(X=1)=P(X=1 $$\mid$$ Y=1)P(Y=1)+P(X=1 $$\mid$$ Y=0)P(Y=0)
 =0.80(0.30)+0.20(0.70)=0.24+0.14=0.38.
 
 **F2.**
 1. P(X=0)=1-0.38=0.62
-2. P(X=0)=P(X=0mid Y=1)P(Y=1)+P(X=0mid Y=0)P(Y=0)
-   where P(X=0mid Y=1)=0.20, P(X=0mid Y=0)=0.80.
+2. P(X=0)=P(X=0 $$\mid$$ Y=1)P(Y=1)+P(X=0 $$\mid$$ Y=0)P(Y=0)
+   where P(X=0 $$\mid$$ Y=1)=0.20, P(X=0 $$\mid$$ Y=0)=0.80.
    So 0.20(0.30)+0.80(0.70)=0.06+0.56=0.62.
 
 **F3.**
 
-P(Y=1mid X=1)=(P(X=1mid Y=1)P(Y=1))/(P(X=1))
+P(Y=1 $$\mid$$ X=1)=(P(X=1 $$\mid$$ Y=1)P(Y=1))/(P(X=1))
 =(0.80(0.30))/(0.38)=(0.24)/(0.38)approx 0.632.
 
-**F4.** Not necessarily. Here it ends up being about 0.632 (which *is* fairly big), but in general P(Y=1mid X=1) also depends on how common Y=1 is overall.
+**F4.** Not necessarily. Here it ends up being about 0.632 (which *is* fairly big), but in general P(Y=1 $$\mid$$ X=1) also depends on how common Y=1 is overall.
 
 ---
 
@@ -363,6 +351,6 @@ Because H is binary (R or D), the event (S=D, P=D) can occur only with H=R or H=
 P(S=D, P=D)=0.40+0.05=0.45
 
 **G2.**
-P(H=Rmid S=D,P=D)=0.05/0.45approx 0.111 (about 11.1%)
+P(H=R $$\mid$$ S=D,P=D)=0.05/0.45approx 0.111 (about 11.1%)
 
 **G3.** Among cases where S=D and P=D, about 11% have H=R.
