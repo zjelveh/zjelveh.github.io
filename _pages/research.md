@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## Peer-Reviewed
-- Predicting behavioral health-involved police encounters: A machine learning approach. (Forthcoming: *Journal of Quantitative Criminology*, 2025)
+- Predicting behavioral health-involved police encounters: A machine learning approach. (Conditional Accept: *Journal of Quantitative Criminology*, 2025)
   - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
   - **Abstract**: Prevention or de-escalation of dangerous police encounters with community members experiencing behavioral health challenges are central public health and safety challenges. A complementary approach that leverages emergency response data to predict which individuals are at highest risk for these encounters may be an important tool in the implementation of targeted prevention and service interventions. In this study, we use emergency response data to show that behavioral health-indicated encounters with police can be reliably predicted. Both simple and complex modeling approaches are able to identify small populations at extreme risk, though a machine learning approach is more accurate, especially when targeting larger groups. And ML can also identify opportunities for prevention. Fully 28% of individuals identified in our top 1% risk-group had no prior BH-police-involved emergency encounters. Both approaches, when combined with rich administrative data may also aid in tailoring pertinent interventions.
 
