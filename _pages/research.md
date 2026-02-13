@@ -14,6 +14,7 @@ author_profile: true
 
 
 ## Peer-Reviewed
+
 - Predicting behavioral health-involved police encounters: A machine learning approach. (Conditional Accept: *Journal of Quantitative Criminology*, 2025)
   - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
   <details><summary>Abstract</summary>
@@ -75,6 +76,7 @@ author_profile: true
 
 
 ## Working Papers
+
 - Crime and the City: Computational Approaches and the Future of Urban Crime Research (Revise and Resubmit at *Nature*)
   - **With**: Gian Maria Campedelli, Bruno Lepri, Patrick Sharkey, Aaron Chalfin, Eric Piza, Ariadna Albors Zumel, and Daniel Semenza
   <details><summary>Abstract</summary>
@@ -118,8 +120,10 @@ author_profile: true
 
 
 ## Other
+
 - [Productivity and selection of human capital with machine learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161029) (*AER P&P*)
   - **With**: Aaron Chalfin, Oren Danieli, Andrew Hillis, Michael Luca, Jens Ludwig, Sendhil Mullainthan)
+
 
 - Towards Diagnosing Accuracy Loss in Discrimination-Aware Classification: An Application to Predictive Policing (*FATML*)
   - **With**: Michael Luca
