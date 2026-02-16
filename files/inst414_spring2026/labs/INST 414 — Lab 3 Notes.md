@@ -27,7 +27,30 @@ By the end, you should be able to:
 
 ---
 
+## Before you start: What is `groupby`, and why do data scientists use it?
+
+In real data work, we constantly ask questions like:
+- “What’s the average outcome **within each group**?”
+- “How do patterns differ **across subpopulations**?”
+
+`groupby` is Pandas’ way of answering “for each group, compute the same summary.”
+
+Examples on Titanic:
+- average `fare` by `sex`
+- survival rate by `pclass`
+- survival rate by `(sex, pclass)` combinations
+
+You’ll use `groupby` for:
+- **Exploration:** quick summaries to understand a dataset
+- **Comparison:** checking differences across groups
+- **Feature engineering:** creating grouped summaries you might use in a model
+- **Debugging:** verifying you used the right denominator when computing probabilities
+
+---
+
 ## 1) The mental model: “split → apply → combine”
+
+This is the one mental model to keep in your head any time you see `groupby`.
 
 When you write:
 
@@ -46,6 +69,8 @@ This is one of the most common patterns in data science.
 ---
 
 ## 2) Why “mean of a boolean” is a probability
+
+This trick is what makes a lot of probability computations in Pandas feel simple.
 
 If you create an indicator like:
 
@@ -74,6 +99,8 @@ That’s exactly a probability estimated from data.
 
 ## 3) Conditional probability as a grouped mean
 
+Once you combine `groupby` with the “mean of an indicator” idea, conditional probabilities become one line of code.
+
 The question:
 
 > Among passengers in each class, what fraction survived?
@@ -95,31 +122,47 @@ Interpretation:
 
 ---
 
-## 4) Three equivalent ways to compute `P(A | B)`
+## 4) Three equivalent ways to compute `P(event | given)`
 
-In the notebook, you’ll compute conditional probabilities using three equivalent “methods.” Pick the one you can explain clearly.
+In the notebook, you’ll compute conditional probabilities using three equivalent patterns. Pick the one you can explain clearly.
+
+The key is to name:
+- the **event** you care about (what’s in the numerator), and
+- what you’re **conditioning on** (what defines the denominator).
+
+Example:
+- event: `survived == 1`
+- given: `pclass == 1`
 
 ### Method A: numerator / denominator (probabilities)
 
 ```py
-numerator = ((B) & (A)).mean()   # P(A and B)
-denominator = (B).mean()        # P(B)
-numerator / denominator         # P(A | B)
+event = (titanic["survived"] == 1)
+given = (titanic["pclass"] == 1)
+
+numerator = (event & given).mean()   # P(event AND given)
+denominator = given.mean()           # P(given)
+numerator / denominator              # P(event | given)
 ```
 
 ### Method B: numerator / denominator (counts)
 
 ```py
-numerator_ct = ((B) & (A)).sum()  # count(A and B)
-denominator_ct = (B).sum()        # count(B)
+event = (titanic["survived"] == 1)
+given = (titanic["pclass"] == 1)
+
+numerator_ct = (event & given).sum()   # count(event AND given)
+denominator_ct = given.sum()           # count(given)
 numerator_ct / denominator_ct
 ```
 
 ### Method C: “filter first” (direct)
 
 ```py
-df_B = df[B]
-df_B[A].mean()
+event = (titanic["survived"] == 1)
+given = (titanic["pclass"] == 1)
+
+event[given].mean()
 ```
 
 They are the same idea; Method C is usually the easiest to read.
@@ -127,6 +170,8 @@ They are the same idea; Method C is usually the easiest to read.
 ---
 
 ## 5) Conditioning on more than one variable
+
+Often, we want conditional probabilities broken down by multiple group labels (for example, class *and* sex).
 
 If you want:
 
@@ -143,6 +188,8 @@ This produces one survival rate for each `(sex, pclass)` combination.
 ---
 
 ## 6) Why `apply(lambda grp: ...)` shows up
+
+Use `apply` when the calculation you want to do inside each group is more than a simple column mean.
 
 Sometimes you want an operation that isn’t just “take a column and call `.mean()`”.
 
@@ -165,6 +212,8 @@ Read this left to right:
 ---
 
 ## 7) Common pitfalls 
+
+These are the most common reasons your code “runs” but your answer is wrong.
 
 ### Pitfall 1: Wrong denominator
 
@@ -227,6 +276,8 @@ For counts of rows satisfying a condition, `.sum()` on a boolean mask is usually
 ---
 
 ## 8) A handy “conditional joint distribution” pattern
+
+Sometimes you want a whole *distribution* within each group, not just one probability.
 
 Sometimes you want something like:
 
