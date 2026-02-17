@@ -45,7 +45,7 @@ h3 + p {
 
 **Instructor:** Zubin Jelveh (zjelveh@umd.edu)
 
-**Office Hours:** TBD
+**Office Hours:** Thursday 1:00-2:00pm
 
 </div>
 
