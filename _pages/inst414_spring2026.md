@@ -135,6 +135,7 @@ Details to come.
 ### Week 4 (2/20): Independence + Bayes Theorem / Making Predictions
 - Video Lecture: [Slides (Part 1: Independence)](/files/inst414_spring2026/lectures/lecture_4a_independence.pptx) &#124; [Slides (Part 2: Bayes Theorem)](/files/inst414_spring2026/lectures/lecture_4b_bayes_theorem.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_4_practice_set.md)
+- Resource: [3Blue1Brown: Bayes theorem (YouTube)](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 - Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_3.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%203%20Notes.md)
 
 ---
