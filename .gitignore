@@ -39,6 +39,8 @@ DECISIONS.md
 
 # ============================================
 # Course internal docs (not for students)
+docs/plans/
+files/inst414_spring2026/labs/Lab_1_old.ipynb
 # ============================================
 files/cfc/docs/
 **/test_*.txt
