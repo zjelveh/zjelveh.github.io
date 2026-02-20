@@ -137,7 +137,7 @@ Details to come.
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_4_practice_set.md)
 - Resource: [3Blue1Brown: Bayes theorem (YouTube)](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 - Lab: [Lab 3 Slides](/files/inst414_spring2026/labs/Lab_3_Groupby.pptx) &#124; [Lab 3 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_3.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%203%20Notes.md)
-- Additional Lab Tasks: [Genetic Screening + Bayes Theorem](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Additional_Lab_Tasks_Week_4.md)
+- Additional Lab Tasks: [Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Additional_Lab_Tasks_Week_4.ipynb)
 
 ---
 
