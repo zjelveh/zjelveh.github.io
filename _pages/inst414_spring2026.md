@@ -143,6 +143,7 @@ Details to come.
 
 ### Week 5 (2/27): Performance Metrics / Naive Bayes
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_5.pptx)
+- [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_5_practice_set.md)
 - Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb)
 
 **Problem Set 1 Due**
