@@ -19,22 +19,22 @@ Let $$Y$$ be the topic, where:
 - $$Y = 1$$ means sports
 - $$Y = 0$$ means pets
 
-Let $$X_1$$ be whether the word “stadium” appears in the caption, and $$X_2$$ be whether the word “fetch” appears in the caption. Each feature is either 0 or 1.
+Let $$X_1$$ be whether the word “Lions” appears in the caption, and $$X_2$$ be whether the word “Tigers” appears in the caption. Each feature is either 0 or 1.
 
 For each sentence, write the probability expression:
 
-1. “Among sports videos, what fraction contain the word stadium?”  
-2. “Among videos that contain stadium and fetch, what is the probability the video is sports?”  
+1. “Among sports videos, what fraction contain the word Lions?”  
+2. “Among videos that contain Lions and Tigers, what is the probability the video is sports?”  
 3. “What fraction of all videos are sports?”  
-4. “Among pet videos, what fraction contain fetch?”
+4. “Among pet videos, what fraction contain Tigers?”
 
 ---
 
 ### A2. Compute conditional probabilities from counts
 You look at a labeled training set of 400 videos:
 - 60 are sports and 340 are pets.
-- Among the 60 sports videos, 18 contain “stadium”.
-- Among the 340 pet videos, 34 contain “stadium”.
+- Among the 60 sports videos, 18 contain “Lions”.
+- Among the 340 pet videos, 34 contain “Lions”.
 
 1. Compute $$P ( Y = 1 )$$ and $$P ( Y = 0 )$$.  
 2. Compute $$P ( X_1 = 1 \\mid Y = 1 )$$.  
@@ -75,7 +75,7 @@ Interpret this probability in one sentence.
 ---
 
 ### A5. When conditional independence is wrong (transfer)
-Suppose that for sports videos, the two words “stadium” and “fetch” are **not** conditionally independent.
+Suppose that for sports videos, the two words “Lions” and “Tigers” are **not** conditionally independent.
 
 You are told:
 - $$P ( Y = 1 ) = 0.08$$  
@@ -251,4 +251,3 @@ Threshold 0.50:
 1. Recall (TPR), because you want to catch as many truly at-risk students as possible.  
 2. Precision (PPV), because among the videos you show, you want a high fraction to be ones the user will actually like.  
 3. Precision (PPV), because it is exactly $$P ( y = 1 \\mid \\hat{y} = 1 )$$.
-
