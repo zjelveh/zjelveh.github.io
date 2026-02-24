@@ -2,7 +2,7 @@
 
 ## Performance metrics, thresholds, and Naive Bayes (as probabilities)
 
-These notes are meant to be read alongside **Lab 4** (the notebook). The goal is to help you build intuition for:
+These notes are meant to be read alongside **Lab 4** (the notebook). Most students will complete the pre-lab sections at home, then use the Lab Tasks in class. The goal is to help you build intuition for:
 
 - how a model’s predicted probabilities become **predicted labels** using a **threshold**,
 - why performance metrics are just **conditional probabilities**,
