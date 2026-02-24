@@ -21,8 +21,8 @@ But to make a yes/no decision, we need a rule to turn that probability into a la
 
 - Choose a threshold `t`
 - Predict:
-  - $$\\hat{y} = 1$$ if `prediction ≥ t`
-  - $$\\hat{y} = 0$$ if `prediction < t`
+  - $\\hat{y} = 1$ if `prediction ≥ t`
+  - $\\hat{y} = 0$ if `prediction < t`
 
 Changing `t` changes what counts as “high risk”, which changes the errors you make.
 
@@ -30,12 +30,12 @@ Changing `t` changes what counts as “high risk”, which changes the errors yo
 
 ## 2) The confusion matrix is a joint distribution
 
-Once you have `y` (the true outcome) and $$\\hat{y}$$ (the predicted label), every case falls into one of four cells:
+Once you have `y` (the true outcome) and $\\hat{y}$ (the predicted label), every case falls into one of four cells:
 
-- **TP**: $$y = 1$$ and $$\\hat{y} = 1$$
-- **FP**: $$y = 0$$ and $$\\hat{y} = 1$$
-- **TN**: $$y = 0$$ and $$\\hat{y} = 0$$
-- **FN**: $$y = 1$$ and $$\\hat{y} = 0$$
+- **TP**: $y = 1$ and $\\hat{y} = 1$
+- **FP**: $y = 0$ and $\\hat{y} = 1$
+- **TN**: $y = 0$ and $\\hat{y} = 0$
+- **FN**: $y = 1$ and $\\hat{y} = 0$
 
 In Pandas, a quick way to compute the table of counts is:
 
@@ -49,7 +49,7 @@ If you use `normalize=True`, you get probabilities (shares) instead of counts:
 df[['y', 'yhat01']].value_counts(normalize=True)
 ```
 
-That output is estimating the **joint distribution** $$P ( y , \\hat{y} )$$.
+That output is estimating the **joint distribution** $P ( y , \\hat{y} )$.
 
 ---
 
@@ -59,19 +59,19 @@ Two key metrics in this lab are:
 
 ### True Positive Rate (TPR) / Recall
 
-> Among the people who truly have $$y = 1$$, what share did we predict as $$\\hat{y} = 1$$?
+> Among the people who truly have $y = 1$, what share did we predict as $\\hat{y} = 1$?
 
-$$TPR = P ( \\hat{y} = 1 \\mid y = 1 )$$
+$TPR = P ( \\hat{y} = 1 \\mid y = 1 )$
 
 ### Positive Predictive Value (PPV) / Precision
 
-> Among the people we predicted as $$\\hat{y} = 1$$, what share truly have $$y = 1$$?
+> Among the people we predicted as $\\hat{y} = 1$, what share truly have $y = 1$?
 
-$$PPV = P ( y = 1 \\mid \\hat{y} = 1 )$$
+$PPV = P ( y = 1 \\mid \\hat{y} = 1 )$
 
 **Denominators matter:**
-- TPR’s denominator is “all actual positives” ($$y = 1$$).
-- PPV’s denominator is “all predicted positives” ($$\\hat{y} = 1$$).
+- TPR’s denominator is “all actual positives” ($y = 1$).
+- PPV’s denominator is “all predicted positives” ($\\hat{y} = 1$).
 
 ---
 
@@ -79,9 +79,9 @@ $$PPV = P ( y = 1 \\mid \\hat{y} = 1 )$$
 
 The **base rate** is the overall rate of the outcome:
 
-$$P ( y = 1 )$$
+$P ( y = 1 )$
 
-When $$P ( y = 1 )$$ is low (the outcome is rare), it becomes easy to generate lots of **false positives** if you set a low threshold.
+When $P ( y = 1 )$ is low (the outcome is rare), it becomes easy to generate lots of **false positives** if you set a low threshold.
 
 That tends to:
 - increase **TPR** (you catch more true positives),
@@ -98,11 +98,11 @@ Another way to “set a threshold” is to choose a fixed number of people to fl
 Example idea:
 - Sort by `prediction` from highest to lowest.
 - Take the top K rows.
-- Treat those as $$\\hat{y} = 1$$.
+- Treat those as $\\hat{y} = 1$.
 
 Then “PPV among the top K” is:
 
-> $$P ( y = 1 \\mid \\text{rank} \\le K )$$
+> $P ( y = 1 \\mid \\text{rank} \\le K )$
 
 This is useful when you have capacity limits (for example, only enough resources to intervene on K people).
 
@@ -110,15 +110,15 @@ This is useful when you have capacity limits (for example, only enough resources
 
 ## 6) Naive Bayes: what the multiplication is assuming
 
-In the Naive Bayes section, you compute two scores (one for $$y = 1$$ and one for $$y = 0$$) and pick whichever is bigger.
+In the Naive Bayes section, you compute two scores (one for $y = 1$ and one for $y = 0$) and pick whichever is bigger.
 
 The key assumption is **conditional independence** of the features given the class:
 
-> Given $$y$$, the features don’t give extra information about each other.
+> Given $y$, the features don’t give extra information about each other.
 
 That’s why Naive Bayes multiplies terms like:
 
-$$P ( X_1 = 1 \\mid y ) \\times P ( X_2 = 1 \\mid y )$$
+$P ( X_1 = 1 \\mid y ) \\times P ( X_2 = 1 \\mid y )$
 
 Even if that assumption is not exactly true, Naive Bayes can still be a useful baseline classifier because it is simple and fast.
 
