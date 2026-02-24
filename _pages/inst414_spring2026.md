@@ -142,9 +142,9 @@ Details to come.
 ---
 
 ### Week 5 (2/27): Performance Metrics / Naive Bayes
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_5.pptx)
+- Video Lecture: [Slides (Part 1: Naive Bayes)](/files/inst414_spring2026/lectures/lecture_5a_naive_bayes.pptx) &#124; [Slides (Part 2: Conditional Independence)](/files/inst414_spring2026/lectures/lecture_5b_conditional_independence.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_5_practice_set.md)
-- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb)
+- Lab: [Lab 4 Slides](/files/inst414_spring2026/labs/Lab_4.pptx) &#124; [Lab 4 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_4.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%204%20Notes.md)
 
 **Problem Set 1 Due**
 {: style="color: red"}
