@@ -119,7 +119,9 @@ Compute:
 2. Precision (PPV)  
 3. Recall (TPR)  
 4. Specificity (TNR)  
-5. False discovery rate (FDR)
+5. False discovery rate (FDR)  
+6. False positive rate (FPR)  
+7. False negative rate (FNR)
 
 Round each to 3 decimals.
 
@@ -221,7 +223,9 @@ Let $$N = TP + FP + TN + FN = 1{,}000$$.
 2. Precision $$= TP / ( TP + FP ) = 45 / 60 = 0.750$$.  
 3. Recall $$= TP / ( TP + FN ) = 45 / 65 = 0.692$$.  
 4. Specificity $$= TN / ( TN + FP ) = 920 / 935 = 0.984$$.  
-5. FDR $$= FP / ( TP + FP ) = 15 / 60 = 0.250$$.
+5. FDR $$= FP / ( TP + FP ) = 15 / 60 = 0.250$$.  
+6. FPR $$= FP / ( TN + FP ) = 15 / 935 = 0.016$$.  
+7. FNR $$= FN / ( TP + FN ) = 20 / 65 = 0.308$$.
 
 ### B3.
 1. Classifier A accuracy: $$( 10 + 170 ) / 200 = 0.900$$.  
