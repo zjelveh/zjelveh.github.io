@@ -3,10 +3,9 @@
 > **How to use this:** Try these before the quiz. If you get stuck, write down what part is confusing:
 > (1) defining variables/events, (2) setting up the right probability expression, or (3) arithmetic.
 
-> **Notation + rounding reminders:**
+> **Notation reminders:**
 > - Throughout, $$P ( A , B )$$ means the joint probability $$P ( A \cap B )$$.
 > - Use “given” to read conditionals: $$P ( A \mid B )$$.
-> - Unless otherwise stated, round final probabilities to **3 decimals**.
 
 ---
 
@@ -38,8 +37,6 @@ You observe the following **counts** in a labeled dataset.
 
 1. Compute the count of observations with $$X_1 = 1 , X_2 = 0$$.
 2. Compute $$P ( Y = 1 \mid X_1 = 1 , X_2 = 0 )$$ as a fraction of counts.
-3. Round to 3 decimals.
-
 ---
 
 ### A2. Compute the same probability using Bayes rule (still using the same counts)

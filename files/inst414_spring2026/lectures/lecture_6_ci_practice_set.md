@@ -3,10 +3,9 @@
 > **How to use this:** Do these *before* looking at the answers. If you get stuck, write down what part is confusing:
 > (1) defining events/variables, (2) picking the right numerator/denominator, or (3) arithmetic.
 
-> **Notation + rounding reminders:**
+> **Notation reminders:**
 > - Throughout, $$P ( A , B )$$ means the joint probability $$P ( A \cap B )$$.
 > - Use “given” to read conditionals: $$P ( A \mid B )$$.
-> - Unless otherwise stated, round final probabilities to **3 decimals**.
 
 ---
 
