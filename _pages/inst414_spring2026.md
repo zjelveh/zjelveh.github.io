@@ -153,6 +153,8 @@ Details to come.
 
 ### Week 6 (3/6): Linear and Logistic Regression
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_6.pptx)
+- [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_practice_set.md)
+- [Extra Practice (Conditional Independence)](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_ci_practice_set.md)
 - Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
 
 **Problem Set 2 Out**
