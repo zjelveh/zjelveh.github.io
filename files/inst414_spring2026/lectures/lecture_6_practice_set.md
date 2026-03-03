@@ -59,10 +59,10 @@ $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) = P ( X_1 = 1 \mid Y = 1 ) P ( X_2 = 0 \mid
 1. Compute $$P ( Y = 1 )$$.
 2. Compute $$P ( X_1 = 1 \mid Y = 1 )$$ and $$P ( X_2 = 0 \mid Y = 1 )$$.
 3. Use the conditional independence assumption to compute $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 )$$.
-4. Compute $$P ( X_1 = 1 , X_2 = 0 )$$ directly from the overall table (ignore $$Y$$).
-5. Use Bayes rule to compute an *approximation* to the desired probability:
-   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ P ( X_1 = 1 , X_2 = 0 ) }.$$
-6. Compare your approximation to the true answer from A1.
+4. Compute $$P ( X_1 = 1 , X_2 = 0 )$$ directly from the overall table.
+5. Compute the naive Bayes probability:
+   $$P_{NB} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ P ( X_1 = 1 , X_2 = 0 ) }.$$
+6. Compare your naive Bayes probability to the true answer from A1.
 
 ---
 
@@ -132,9 +132,9 @@ First compute some totals:
 3. Conditional independence approximation:
    $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) \approx 0.600 \cdot 0.600 = 0.360.$$
 4. $$P ( X_1 = 1 , X_2 = 0 ) = 20 / 100 = 0.200$$.
-5. Bayes rule approximation:
-   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) \approx \frac{ 0.360 \cdot 0.400 }{ 0.200 } = 0.720.$$
-6. Comparison: the true probability is $$0.700$$ (A1) and the conditional-independence-based approximation gives $$0.720$$.
+5. Naive Bayes probability:
+   $$P_{NB} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) \approx \frac{ 0.360 \cdot 0.400 }{ 0.200 } = 0.720.$$
+6. Comparison: the true probability is $$0.700$$ (A1) and the naive Bayes probability gives $$0.720$$.
 
 ---
 
