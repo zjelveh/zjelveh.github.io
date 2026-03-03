@@ -54,15 +54,14 @@ $$P ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 )
 ### A3. Bayes rule with a conditional independence approximation
 
 Assume $$X_1$$ and $$X_2$$ are conditionally independent given $$Y$$:
-$$P ( X_1 = 1 , X_2 = 0 \mid Y = y ) = P ( X_1 = 1 \mid Y = y ) P ( X_2 = 0 \mid Y = y ).$$
+$$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) = P ( X_1 = 1 \mid Y = 1 ) P ( X_2 = 0 \mid Y = 1 ).$$
 
-1. Compute $$P ( Y = 1 )$$ and $$P ( Y = 0 )$$.
+1. Compute $$P ( Y = 1 )$$.
 2. Compute $$P ( X_1 = 1 \mid Y = 1 )$$ and $$P ( X_2 = 0 \mid Y = 1 )$$.
-3. Compute $$P ( X_1 = 1 \mid Y = 0 )$$ and $$P ( X_2 = 0 \mid Y = 0 )$$.
-4. Use conditional independence to approximate the joint term for each class:
-   $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = y ) = P ( X_1 = 1 \mid Y = y ) P ( X_2 = 0 \mid Y = y ).$$
-5. Plug these approximations into Bayes rule:
-   $$\widetilde{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) + \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 0 ) P ( Y = 0 ) }. $$
+3. Use the conditional independence assumption to compute $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 )$$.
+4. Compute $$P ( X_1 = 1 , X_2 = 0 )$$ directly from the overall table (ignore $$Y$$).
+5. Use Bayes rule to compute an *approximation* to the desired probability:
+   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ P ( X_1 = 1 , X_2 = 0 ) }.$$
 6. Compare your approximation to the true answer from A1.
 
 ---
@@ -99,12 +98,9 @@ Mark each statement as **True** or **False**.
 If a classifier is calibrated, then among cases where it predicts probability 0.70, about 70% should actually have $$Y = 1$$.
 
 ### C2.
-High accuracy automatically implies good calibration.
-
-### C3.
 A “calibration plot” (reliability curve) compares predicted probabilities to the actual fraction of $$Y=1$$ within bins of similar predicted probability.
 
-### C4.
+### C3.
 Naive Bayes can be useful for classification even if its predicted probabilities are miscalibrated.
 
 ---
@@ -131,22 +127,14 @@ First compute some totals:
    $$P ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ 0.350 \cdot 0.400 }{ 0.200 } = \frac{ 0.140 }{ 0.200 } = 0.700.$$
 
 ### A3.
-1. $$P ( Y = 1 ) = 0.400$$ and $$P ( Y = 0 ) = 0.600$$.
-2. For $$Y = 1$$:
-   - $$P ( X_1 = 1 \mid Y = 1 ) = (14 + 10) / 40 = 24 / 40 = 0.600$$.
-   - $$P ( X_2 = 0 \mid Y = 1 ) = (10 + 14) / 40 = 24 / 40 = 0.600$$.
-   - Conditional independence approximation:
-     $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) = 0.600 \cdot 0.600 = 0.360.$$
-3. For $$Y = 0$$:
-   - $$P ( X_1 = 1 \mid Y = 0 ) = (6 + 30) / 60 = 36 / 60 = 0.600$$.
-   - $$P ( X_2 = 0 \mid Y = 0 ) = (20 + 6) / 60 = 26 / 60 \approx 0.433$$.
-   - Conditional independence approximation:
-     $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 0 ) = 0.600 \cdot (26/60) = 0.260.$$
-4. Bayes rule with the approximation:
-   $$\widetilde{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) =
-   \frac{ 0.360 \cdot 0.400 }{ 0.360 \cdot 0.400 + 0.260 \cdot 0.600 } =
-   \frac{ 0.144 }{ 0.144 + 0.156 } = 0.480.$$
-5. Comparison: the true probability is $$0.700$$ (A1) but the conditional-independence approximation gives $$0.480$$.
+1. $$P ( Y = 1 ) = 40 / 100 = 0.400$$.
+2. $$P ( X_1 = 1 \mid Y = 1 ) = (14 + 10) / 40 = 24 / 40 = 0.600$$ and $$P ( X_2 = 0 \mid Y = 1 ) = (10 + 14) / 40 = 24 / 40 = 0.600$$.
+3. Conditional independence approximation:
+   $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) \approx 0.600 \cdot 0.600 = 0.360.$$
+4. $$P ( X_1 = 1 , X_2 = 0 ) = 20 / 100 = 0.200$$.
+5. Bayes rule approximation:
+   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) \approx \frac{ 0.360 \cdot 0.400 }{ 0.200 } = 0.720.$$
+6. Comparison: the true probability is $$0.700$$ (A1) and the conditional-independence-based approximation gives $$0.720$$.
 
 ---
 
@@ -178,10 +166,7 @@ Model B fits better because it has the smaller SSE.
 True.
 
 ### C2.
-False.
-
-### C3.
 True.
 
-### C4.
+### C3.
 True.
