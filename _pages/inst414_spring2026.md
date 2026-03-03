@@ -151,7 +151,7 @@ Details to come.
 
 ---
 
-### Week 6 (3/6): Linear and Logistic Regression
+### Week 6 (3/6): Calibration and Regression
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_6.pptx)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_practice_set.md)
 - [Extra Practice (Conditional Independence)](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_ci_practice_set.md)
