@@ -153,6 +153,7 @@ Details to come.
 
 ### Week 6 (3/6): Calibration and Regression
 - Video Lecture: [Slides (Part 1: Calibration / Naive Bayes Limits)](/files/inst414_spring2026/lectures/lecture_6a_limitations_of_nb.pptx) &#124; [Slides (Part 2: Regression)](/files/inst414_spring2026/lectures/lecture_6b_regression.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
+- Recommended reading: [Introduction to Statistical Learning](https://www.statlearning.com/) — Chapter 3 (Linear Regression), Chapter 4 (pp. 135–144: Logistic Regression)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_practice_set.md)
 - [Extra Practice (Conditional Independence)](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_ci_practice_set.md)
 - Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
