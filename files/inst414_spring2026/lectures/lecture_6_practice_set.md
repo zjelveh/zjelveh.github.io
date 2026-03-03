@@ -60,8 +60,7 @@ $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) = P ( X_1 = 1 \mid Y = 1 ) P ( X_2 = 0 \mid
 2. Compute $$P ( X_1 = 1 \mid Y = 1 )$$ and $$P ( X_2 = 0 \mid Y = 1 )$$.
 3. Use the conditional independence assumption to compute $$P ( X_1 = 1 , X_2 = 0 \mid Y = 1 )$$.
 4. Compute $$P ( X_1 = 1 , X_2 = 0 )$$ directly from the overall table.
-5. Compute the naive Bayes probability:
-   $$P_{NB} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ P ( X_1 = 1 , X_2 = 0 ) }.$$
+5. Compute the naive Bayes probability.
 6. Compare your naive Bayes probability to the true answer from A1.
 
 ---
