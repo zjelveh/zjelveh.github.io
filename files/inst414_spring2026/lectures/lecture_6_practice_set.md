@@ -51,20 +51,19 @@ $$P ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ P ( X_1 = 1 , X_2 = 0 \mid Y = 1 )
 
 ---
 
-### A3. Naive Bayes estimate using conditional independence
+### A3. Bayes rule with a conditional independence approximation
 
-Naive Bayes assumes conditional independence given $$Y$$:
+Assume $$X_1$$ and $$X_2$$ are conditionally independent given $$Y$$:
 $$P ( X_1 = 1 , X_2 = 0 \mid Y = y ) = P ( X_1 = 1 \mid Y = y ) P ( X_2 = 0 \mid Y = y ).$$
 
 1. Compute $$P ( Y = 1 )$$ and $$P ( Y = 0 )$$.
 2. Compute $$P ( X_1 = 1 \mid Y = 1 )$$ and $$P ( X_2 = 0 \mid Y = 1 )$$.
 3. Compute $$P ( X_1 = 1 \mid Y = 0 )$$ and $$P ( X_2 = 0 \mid Y = 0 )$$.
-4. Compute the two scores:
-   $$\text{score}_1 = P ( Y = 1 ) P ( X_1 = 1 \mid Y = 1 ) P ( X_2 = 0 \mid Y = 1 )$$
-   $$\text{score}_0 = P ( Y = 0 ) P ( X_1 = 1 \mid Y = 0 ) P ( X_2 = 0 \mid Y = 0 )$$
-5. Convert these scores into a probability estimate:
-   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ \text{score}_1 }{ \text{score}_1 + \text{score}_0 }.$$
-6. Compare your naive Bayes estimate to the true answer from A1.
+4. Use conditional independence to approximate the joint term for each class:
+   $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = y ) = P ( X_1 = 1 \mid Y = y ) P ( X_2 = 0 \mid Y = y ).$$
+5. Plug these approximations into Bayes rule:
+   $$\widetilde{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) }{ \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) P ( Y = 1 ) + \widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 0 ) P ( Y = 0 ) }. $$
+6. Compare your approximation to the true answer from A1.
 
 ---
 
@@ -136,15 +135,18 @@ First compute some totals:
 2. For $$Y = 1$$:
    - $$P ( X_1 = 1 \mid Y = 1 ) = (14 + 10) / 40 = 24 / 40 = 0.600$$.
    - $$P ( X_2 = 0 \mid Y = 1 ) = (10 + 14) / 40 = 24 / 40 = 0.600$$.
+   - Conditional independence approximation:
+     $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 1 ) = 0.600 \cdot 0.600 = 0.360.$$
 3. For $$Y = 0$$:
    - $$P ( X_1 = 1 \mid Y = 0 ) = (6 + 30) / 60 = 36 / 60 = 0.600$$.
    - $$P ( X_2 = 0 \mid Y = 0 ) = (20 + 6) / 60 = 26 / 60 \approx 0.433$$.
-4. Scores:
-   - $$\text{score}_1 = 0.400 \cdot 0.600 \cdot 0.600 = 0.144$$.
-   - $$\text{score}_0 = 0.600 \cdot 0.600 \cdot (26/60) = 0.156$$.
-5. Probability estimate:
-   $$\widehat{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) = \frac{ 0.144 }{ 0.144 + 0.156 } = 0.480.$$
-6. Comparison: the true probability is $$0.700$$ (A1) but naive Bayes estimates $$0.480$$.
+   - Conditional independence approximation:
+     $$\widetilde{P} ( X_1 = 1 , X_2 = 0 \mid Y = 0 ) = 0.600 \cdot (26/60) = 0.260.$$
+4. Bayes rule with the approximation:
+   $$\widetilde{P} ( Y = 1 \mid X_1 = 1 , X_2 = 0 ) =
+   \frac{ 0.360 \cdot 0.400 }{ 0.360 \cdot 0.400 + 0.260 \cdot 0.600 } =
+   \frac{ 0.144 }{ 0.144 + 0.156 } = 0.480.$$
+5. Comparison: the true probability is $$0.700$$ (A1) but the conditional-independence approximation gives $$0.480$$.
 
 ---
 
