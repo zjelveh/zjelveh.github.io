@@ -156,7 +156,7 @@ Details to come.
 - Recommended reading: [Introduction to Statistical Learning](https://www.statlearning.com/) — Chapter 3 (Linear Regression), Chapter 4 (pp. 135–144: Logistic Regression)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_practice_set.md)
 - [Extra Practice (Conditional Independence)](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_6_ci_practice_set.md)
-- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb)
+- Lab: [Lab 5 Slides](/files/inst414_spring2026/labs/Lab_5.pptx) &#124; [Lab 5 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_5.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%205%20Notes.md)
 
 **Problem Set 2 Out**
 {: style="color: red"}
