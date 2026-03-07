@@ -165,7 +165,7 @@ Details to come.
 
 ### Week 7 (3/13): Overfitting / Decision Trees
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_7.pptx)
-- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_6.ipynb)
+- Lab: [Lab 6 Slides](/files/inst414_spring2026/labs/Lab_6.pptx) &#124; [Lab 6 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_6.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%206%20Notes.md)
 
 ---
 
