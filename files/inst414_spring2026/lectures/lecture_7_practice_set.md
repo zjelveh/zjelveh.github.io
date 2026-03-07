@@ -48,7 +48,7 @@ You are comparing models using objective functions.
 Suppose a model has:
 
 - $$\text{SSE} = 100$$
-- coefficients $$\beta = (2,\,-1,\,0.5)$$ (ignore the intercept for the penalty)
+- coefficients $$\beta = (2, -1, 0.5)$$ (ignore the intercept for the penalty)
 - $$\lambda = 10$$
 
 1. Compute the ridge penalty term $$\lambda \sum_j \beta_j^2$$ and the ridge objective value.
@@ -60,8 +60,8 @@ Suppose a model has:
 
 Two models fit the training data equally well:
 
-- Model A: $$\text{SSE} = 100$$, $$\beta = (3,\,0,\,0)$$
-- Model B: $$\text{SSE} = 100$$, $$\beta = (1,\,1,\,1)$$
+- Model A: $$\text{SSE} = 100$$, $$\beta = (3, 0, 0)$$
+- Model B: $$\text{SSE} = 100$$, $$\beta = (1, 1, 1)$$
 
 Let $$\lambda = 10$$.
 
@@ -79,10 +79,10 @@ You repeatedly resample a training set and refit a model, and you record the pre
 ### C1. Compute bias and variance (approximately)
 
 **Model L (low complexity):**
-$$\hat{f}(x_0) \in \{0.10,\,0.12,\,0.11,\,0.09,\,0.13\}$$
+$$\hat{f}(x_0) \in \{0.10, 0.12, 0.11, 0.09, 0.13\}$$
 
 **Model H (high complexity):**
-$$\hat{f}(x_0) \in \{0.00,\,0.65,\,-0.10,\,0.55,\,0.40\}$$
+$$\hat{f}(x_0) \in \{0.00, 0.65, -0.10, 0.55, 0.40\}$$
 
 For each model:
 
@@ -194,4 +194,3 @@ Ridge regularization typically **reduces variance** (predictions become less sen
 - D4: True.
 - D5: False. (Larger `C` means weaker regularization.)
 - D6: True.
-
