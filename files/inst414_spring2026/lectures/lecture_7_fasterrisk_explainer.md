@@ -2,6 +2,10 @@
 
 This is a class-level summary of what **FasterRisk** is doing and why it matters for the kinds of feature engineering + prediction problems we’ve been working on (e.g., “rearrest within 1 year”).
 
+**Links:**
+- Paper (arXiv): https://arxiv.org/abs/2210.05846
+- GitHub repo: https://github.com/interpretml/FasterRisk
+
 The main theme:
 
 > The models we learn in class (especially logistic regression) are *conceptually simple*, but building **high-quality, usable, interpretable** versions of them can be a genuinely hard machine learning / optimization problem.
