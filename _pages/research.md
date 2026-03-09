@@ -15,6 +15,13 @@ author_profile: true
 
 ## Peer-Reviewed
 
+- Computational Approaches and the Future of Urban Crime Research (Forthcoming *Nature*, 2026)
+  - **With**: Gian Maria Campedelli, Aaron Chalfin, Daniel Semenza, Eric Piza, Ariadna Albors Zumel, Bruno Lepri, and Patrick Sharkey
+  <details><summary>Abstract</summary>
+  Urban environments have long been a central focus for crime researchers across diverse disciplines. Over the past three decades, this heterogeneous area of inquiry has experienced substantial methodological and empirical change, driven by the emergence of novel datasets and the increasing use of flexible computational methods. In this Review, we take stock of this evolution and examine the potential these developments hold for advancing urban crime research, while also addressing the persistent challenges that continue to shape the field. Building on this overview, we emphasize the promise that computational methods offer for more rigorous causal inference beyond traditional prediction tasks. Finally, we outline three key directions for future research to ensure that new data and computational tools are used effectively: greater integration across disciplines, improved open science standards, and a broader scope of inquiry beyond Western contexts. In doing so, we aim to support more rigorous research and inform the development of more effective policies for safer and more sustainable cities worldwide.
+  </details>
+
+
 - Predicting behavioral health-involved police encounters: A machine learning approach. (Conditional Accept: *Journal of Quantitative Criminology*, 2025)
   - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
   <details><summary>Abstract</summary>
@@ -76,13 +83,6 @@ author_profile: true
 
 
 ## Working Papers
-
-- Crime and the City: Computational Approaches and the Future of Urban Crime Research (Revise and Resubmit at *Nature*)
-  - **With**: Gian Maria Campedelli, Bruno Lepri, Patrick Sharkey, Aaron Chalfin, Eric Piza, Ariadna Albors Zumel, and Daniel Semenza
-  <details><summary>Abstract</summary>
-  Urban environments have long been a central focus for crime researchers across diverse disciplines. Over the past fifteen years, this heterogeneous field has undergone a profound transformation, driven by the emergence of novel datasets and the rise of powerful, flexible computational methods. In this Review, we take stock of this transition and explore the significant potential these developments hold for advancing urban crime research, while also addressing the persistent challenges that continue to shape the field. Building on this overview, we highlight the importance of integrating causal inference beyond mere prediction tasks and outline three key directions for future research to ensure that the promise of new data and computational tools is fully realized. In doing so, we aim to support the production of more rigorous research and the development of more effective policies for safer, more sustainable cities worldwide.
-  </details>
-
 
 - Time is on your side: The benefits of time-sensitive factors in pretrial risk assessments
   - **With**: Greg Stoddard, Melissa McNeill, and Alexandra Chouldechova
