@@ -40,3 +40,66 @@ body.dark-mode {
 #dark-mode-toggle:hover {
     background: #444;
 }
+
+/* Research page styling */
+
+/* Smaller overall font, strong dividers between papers - only top level */
+.archive > ul > li {
+  font-size: 0.9em !important;
+  margin-bottom: 2em !important;
+  padding-bottom: 1.5em !important;
+  border-bottom: 3px solid #ccc !important;
+}
+
+/* Remove border from last item */
+.archive > ul > li:last-child {
+  border-bottom: none !important;
+}
+
+/* No borders on nested list items */
+.archive ul ul li {
+  border-bottom: none !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Make "With:" lines smaller and lighter */
+.archive ul > li > ul,
+.archive ul > li > ul li {
+  font-size: 0.9em !important;
+  color: #666 !important;
+  margin-top: 0.2em !important;
+}
+
+/* Abstract toggle - align caret with bullets above */
+.archive details {
+  margin-left: 1.6em !important;
+  margin-top: 0.2em !important;
+}
+
+.archive details summary {
+  font-size: 0.85em !important;
+  color: #666 !important;
+  font-weight: normal !important;
+}
+
+/* Abstract content styling */
+.archive details p {
+  font-size: 0.8em !important;
+  color: #555 !important;
+  line-height: 1.5 !important;
+}
+
+/* Dividers between sections */
+.archive h2 {
+  border-top: 1px solid #ddd !important;
+  padding-top: 2em !important;
+  margin-top: 2.5em !important;
+}
+
+/* No border on first h2 */
+.archive h2:first-of-type {
+  border-top: none !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
