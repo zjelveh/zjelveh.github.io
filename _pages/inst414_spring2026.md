@@ -178,7 +178,7 @@ Details to come.
 ### Week 8 (3/27): Decision Trees
 - Video Lecture: [Slides (Part 1: Interactions)](/files/inst414_spring2026/lectures/lecture_8a_interactions.pptx) &#124; [Slides (Part 2: Decision Trees)](/files/inst414_spring2026/lectures/lecture_8b_decision_trees.pptx) &#124; [Slides (Part 3: Splitting Criteria)](/files/inst414_spring2026/lectures/lecture_8c_splitting_criteria.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_8_practice_set.md)
-- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb)
+- Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%207%20Notes.md)
 
 **Problem Set 2 Due**
 {: style="color: red"}
