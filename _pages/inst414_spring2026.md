@@ -176,7 +176,8 @@ Details to come.
 ---
 
 ### Week 8 (3/27): Decision Trees
-- Video Lecture: [Slides (Decision Trees)](/files/inst414_spring2026/lectures/lecture_8.pptx)
+- Video Lecture: [Slides (Decision Trees)](/files/inst414_spring2026/lectures/lecture_8.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
+- [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_8_practice_set.md)
 - Lab: [Lab 7 Slides](/files/inst414_spring2026/labs/Lab_7.pptx) &#124; [Lab 7 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_7.ipynb)
 
 **Problem Set 2 Due**
