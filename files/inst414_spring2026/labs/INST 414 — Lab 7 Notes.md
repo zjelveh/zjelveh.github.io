@@ -148,10 +148,28 @@ The result is that every row gets an **out-of-sample** prediction at least once.
 
 ---
 
+## 7) The `calibration_plot` function (and why it’s in the notebook)
+
+Near the top of the Lab 7 notebook there is a helper function called `calibration_plot(...)`.
+
+**What it’s doing (conceptually):**
+
+1. Take a set of predicted probabilities $$\\hat p_i$$.
+2. Put them into bins (for example 10 bins from low risk to high risk).
+3. For each bin, compute:
+   - the **average predicted probability**
+   - the **actual outcome rate** (share with $$y=1$$)
+4. Plot those points. If the model is perfectly calibrated, the points lie on the **45-degree line**.
+
+**Why we include this now:** calibration is a core idea for this course, and this plot is a quick way to see whether the predicted probabilities line up with empirical rates.
+
+**Why it’s a helper function:** at this point in the semester we want you to focus on the *modeling / evaluation workflow* (splits, CV, selecting hyperparameters). Later, when we get to **visualizations**, we’ll build this kind of plot more “from scratch” so you understand every step.
+
+---
+
 ## Common pitfalls
 
 - Using the holdout set to tune hyperparameters (leaks information).
 - Forgetting that in logistic regression, smaller `C` means stronger regularization.
 - Mixing up `predict(...)` (labels) vs `predict_proba(...)` (probabilities).
 - Using a scoring metric that doesn’t match your goal (e.g., optimizing accuracy when you care about ranking risk).
-
