@@ -98,7 +98,7 @@ Four homework assignments throughout the semester that build on lecture and lab 
 
 <details>
 <summary class="section-heading">Midterm Exam (25%)</summary>
-Covers material from Weeks 1-8 (probability through random forests). Scheduled for Week 9 (4/3).
+Covers material from Weeks 1-9 (probability through random forests / gradient boosting). Scheduled for Week 10 (4/10).
 </details>
 
 <details>
@@ -184,11 +184,16 @@ Details to come.
 
 ---
 
-### Week 9 (4/3): Midterm (No Lab)
+### Week 9 (4/3): Random Forest / Gradient Boosting
+- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_9.pptx)
 
 ---
 
-### Week 10 (4/10): Fairness
+### Week 10 (4/10): Midterm (No Lab)
+
+---
+
+### Week 11 (4/17): Fairness
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_10.pptx)
 - Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb)
 
@@ -197,13 +202,13 @@ Details to come.
 
 ---
 
-### Week 11 (4/17): Sources of Bias, Part I
+### Week 12 (4/24): Sources of Bias, Part I
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
 - Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb)
 
 ---
 
-### Week 12 (4/24): Sources of Bias, Part II
+### Week 13 (5/1): Sources of Bias, Part II
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_12.pptx)
 
 **Problem Set 3 Due / Problem Set 4 Out**
@@ -211,13 +216,9 @@ Details to come.
 
 ---
 
-### Week 13 (5/1): Text Mining
+### Week 14 (5/8): Text Mining
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_13.pptx)
-
----
-
-### Week 14 (5/8): Text Mining / Generative AI
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_14.pptx)
+- Optional: [Generative AI Slides](/files/inst414_spring2026/lectures/lecture_14.pptx)
 
 **Problem Set 4 Due**
 {: style="color: red"}
