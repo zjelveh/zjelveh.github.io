@@ -185,7 +185,7 @@ Details to come.
 ---
 
 ### Week 9 (4/3): Random Forest / Gradient Boosting
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_9.pptx)
+- Video Lecture: [Slides (Random Forest / Gradient Boosting)](/files/inst414_spring2026/lectures/lecture_9.pptx)
 
 ---
 
