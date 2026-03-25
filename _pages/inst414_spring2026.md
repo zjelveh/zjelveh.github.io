@@ -49,6 +49,12 @@ h3 + p {
 
 </div>
 
+## Table of Contents
+- [Course Description](#course-description)
+- [Assessments](#assessment)
+- [Weekly Schedule](#weekly-schedule)
+- [Course Policies](#course-policies)
+
 ## Course Description
 This course provides a strong foundation in key data science techniques. As the amount of data available to public- and private-sector organizations continues to grow, it has become critical to have data scientists who can leverage this data to generate insights and enable data-driven decision-making, while ensuring that these decisions are based on fair and ethical principles.
 
