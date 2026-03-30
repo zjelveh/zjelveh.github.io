@@ -195,6 +195,7 @@ Details to come.
 
 ### Week 9 (4/3): Random Forest / Gradient Boosting
 - Video Lecture: [Slides (Part 1: Random Forest)](/files/inst414_spring2026/lectures/lecture_9a_RF.pptx) &#124; [Slides (Part 2: Gradient Boosting)](/files/inst414_spring2026/lectures/lecture_9b_gbdt.pptx) &#124; [Slides (Part 3: AUC)](/files/inst414_spring2026/lectures/lecture_9c_AUC.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
+- Recommended reading: [Introduction to Statistical Learning](https://www.statlearning.com/) — Chapter 8.2 (Bagging, Random Forests, Boosting)
 
 ---
 
