@@ -196,6 +196,7 @@ Details to come.
 ### Week 9 (4/3): Random Forest / Gradient Boosting
 - Video Lecture: [Slides (Part 1: Random Forest)](/files/inst414_spring2026/lectures/lecture_9a_RF.pptx) &#124; [Slides (Part 2: Gradient Boosting)](/files/inst414_spring2026/lectures/lecture_9b_gbdt.pptx) &#124; [Slides (Part 3: AUC)](/files/inst414_spring2026/lectures/lecture_9c_AUC.pptx) &#124; <span style="color: gray">Video (coming soon)</span>
 - Recommended reading: [Introduction to Statistical Learning](https://www.statlearning.com/) — Chapter 8.2 (Bagging, Random Forests, Boosting)
+- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20-%20Lab%208%20Notes.md)
 
 ---
 
@@ -205,7 +206,6 @@ Details to come.
 
 ### Week 11 (4/17): Fairness
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_10.pptx)
-- Lab: [Lab 8 Slides](/files/inst414_spring2026/labs/lab_8.pptx) &#124; [Lab 8 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_8.ipynb)
 
 **Problem Set 3 Out**
 {: style="color: red"}
