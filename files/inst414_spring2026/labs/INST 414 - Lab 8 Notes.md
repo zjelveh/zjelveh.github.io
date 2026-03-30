@@ -17,6 +17,14 @@ The main conceptual goal of the lab is to compare models using:
 
 These are related, but they are not the same thing.
 
+In other words:
+
+- **AUC** asks whether the model ranks positive cases above negative cases
+- **calibration** asks whether predicted probabilities match observed rates
+- **precision** asks whether the cases predicted positive are actually positive at a chosen threshold
+
+The point of the lab is to keep those ideas separate.
+
 ## Random forest
 
 Random forest builds many decision trees and averages their predictions.
@@ -31,6 +39,8 @@ Random forest also keeps the useful part of trees:
 - it can model **interactions automatically**
 
 So if the relationship between two predictors depends on a third variable, random forest can often capture that without you having to manually create interaction terms.
+
+This is one reason tree-based models are useful in practice. In logistic regression, if you think `x1` and `x2` interact, you usually need to add that interaction term yourself. In random forest, those kinds of interactions can appear naturally through the sequence of splits in different trees.
 
 ## Gradient boosting
 
@@ -57,6 +67,12 @@ That makes it especially interesting because it can potentially give us both:
 - automatic interactions
 - probability-focused training
 
+That is a useful contrast with earlier models in the course:
+
+- logistic regression is trained to predict probabilities, but interactions usually need to be added manually
+- decision trees and random forest can capture interactions automatically, but are not built around the same probability-focused loss
+- gradient boosting is attractive because it can combine flexibility with probability-focused training
+
 ## AUC
 
 In this class, the most useful way to think about AUC is as a **probability**.
@@ -79,6 +95,8 @@ Why this matters:
 - AUC is a **ranking** metric
 - it tells us how well the model orders positive cases above negative cases
 - it does **not** directly tell us whether the probabilities are calibrated
+
+So a model can get the ordering mostly right even if its predicted probabilities are systematically too large or too small.
 
 Interpretation:
 
@@ -106,6 +124,8 @@ The helper uses **quantile-based bins**, which means:
 
 If the model is well calibrated, the points should lie close to the 45-degree line.
 
+We use quantile bins rather than equal-width bins because they usually give more stable comparisons. If most predictions fall in a narrow range, equal-width bins can be sparse or empty. Quantile bins avoid that by making sure each bin has about the same number of observations.
+
 ## Why AUC and calibration can disagree
 
 This is the most important idea in the lab.
@@ -125,6 +145,14 @@ That would mean:
 
 So when you compare models in this lab, do not assume that the model with the highest AUC will also be the model with the best calibration.
 
+More generally:
+
+- **AUC and calibration are always different questions**
+- one is about ordering
+- the other is about probability accuracy
+
+Sometimes the same model will do well on both, but that is an empirical result, not something guaranteed by the definitions.
+
 ## Precision in this lab
 
 Precision is defined as:
@@ -138,6 +166,8 @@ In symbols:
 In the notebook, you create `yhat` by thresholding predicted probabilities at `0.5`.
 
 Then you compute precision manually by looking only at the rows where `yhat = 1` and taking the mean of the true outcome.
+
+That manual step matters. It forces you to see that once we turn probabilities into `0/1` predictions, we are asking a different question again. Precision is no longer about the full ranking of scores or whether probabilities match observed rates. It is about the quality of the subset of cases the model labels positive.
 
 This is useful because it reinforces the distinction between:
 
@@ -168,4 +198,4 @@ So the broader question in the lab is:
 - which model is best for ranking?
 - which model is best for probability estimation?
 
-Those are not always the same question, and they do not always have the same answer.
+Those are different questions, and they do not always have the same answer.
