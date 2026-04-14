@@ -207,7 +207,7 @@ Details to come.
 ---
 
 ### Week 11 (4/17): Fairness
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_10.pptx)
+- Video Lecture: [Slides (Part 1: Fairness Metrics and COMPAS)](/files/inst414_spring2026/lectures/lecture_11a_fairness_metrics_compas.pptx) &#124; [Slides (Part 2: Sources of Bias in Predictions I)](/files/inst414_spring2026/lectures/lecture_11b_sources_of_bias_part1.pptx)
 
 **Problem Set 3 Out**
 {: style="color: red"}
