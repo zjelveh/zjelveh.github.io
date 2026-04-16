@@ -1,6 +1,6 @@
 # Lecture 11 Practice Problems (Fairness Metrics + Sources of Bias I)
 
-> **How to use this:** Try these before the quiz. If you get stuck, write down what part is confusing:
+> **How to use this:** Try these before class. If you get stuck, write down what part is confusing:
 > (1) what quantity you are supposed to compute, (2) which denominator to use, or (3) what the result means.
 
 > **Notation reminders:**
@@ -15,7 +15,7 @@
 
 ### A1. Compute fairness metrics by group
 
-Suppose a prediction model produces the following confusion matrices.
+Suppose a prediction model produces the following confusion matrices. In these tables, rows are **predicted** outcomes and columns are **actual** outcomes.
 
 #### Group A
 
@@ -42,7 +42,7 @@ Suppose a prediction model produces the following confusion matrices.
 
 ### B1. One model, two thresholds
 
-Suppose the same risk model is used with two different thresholds.
+Suppose the same risk model is used with two different thresholds. A lower threshold reaches more people with the intervention, while a higher threshold reaches fewer people.
 
 - **Threshold 1** labels more people as high risk.
 - **Threshold 2** labels fewer people as high risk.
@@ -200,4 +200,4 @@ So the model does **not** look equally fair across groups under all three criter
    If the groups have different base rates, then the same predictions can imply different shares of true positives and false positives across groups. That makes it hard to make all fairness quantities line up at once.
 
 2. **Plain-language explanation**  
-   When one group has a higher outcome rate than another, the model is operating in different environments across the two groups. Because PPV, FPR, and FNR all depend in part on how common the outcome is, matching one of them across groups may make it hard to match the others.
+   When one group has a higher outcome rate than another, the same prediction rule will usually produce different mixes of true positives, false positives, false negatives, and true negatives across groups. That is why matching PPV and matching error rates can pull in different directions.
