@@ -22,7 +22,7 @@ author_profile: true
   </details>
 
 
-- Predicting behavioral health-involved police encounters: A machine learning approach. (Conditional Accept: *Journal of Quantitative Criminology*, 2025)
+- [Predicting behavioral health-involved police encounters: A machine learning approach.](https://link.springer.com/article/10.1007/s10940-026-09671-9) (*Journal of Quantitative Criminology*, 2026)
   - **With**: Andrea Tentner, Xander Beberman, and Harold Pollack
   <details><summary>Abstract</summary>
   Prevention or de-escalation of dangerous police encounters with community members experiencing behavioral health challenges are central public health and safety challenges. A complementary approach that leverages emergency response data to predict which individuals are at highest risk for these encounters may be an important tool in the implementation of targeted prevention and service interventions. In this study, we use emergency response data to show that behavioral health-indicated encounters with police can be reliably predicted. Both simple and complex modeling approaches are able to identify small populations at extreme risk, though a machine learning approach is more accurate, especially when targeting larger groups. And ML can also identify opportunities for prevention. Fully 28% of individuals identified in our top 1% risk-group had no prior BH-police-involved emergency encounters. Both approaches, when combined with rich administrative data may also aid in tailoring pertinent interventions.
@@ -53,7 +53,6 @@ author_profile: true
 
 
 - [Dude, Where's My Treatment Effect? Errors in Administrative Data Linking and the Destruction of Statistical Power in Randomized Experiments](https://link.springer.com/article/10.1007/s10940-020-09461-x) (*Journal of Quantitative Criminology*, 2020)
-  - [Working Paper Version](https://www.nber.org/papers/w25657)
   - **With**: Sarah Tahamont, Aaron Chalfin, Shi Yan, and Benjamin Hansen
   <details><summary>Abstract</summary>
   The increasing availability of large administrative datasets has led to an exciting innovation in social policy research—using administrative data to measure experimental outcomes in lieu of costly primary data collection. We demonstrate that this type of randomized experiment can have an unfortunate consequence: the destruction of statistical power. Combining experimental data with administrative records to track outcomes of interest typically requires linking datasets without a common identifier. In order to minimize mistaken linkages, researchers often use stringent linking rules like "exact matching" to ensure that speculative matches do not lead to errors in an analytic dataset. We show that this, seemingly conservative, approach leads to underpowered experiments, leaves real treatment effects undetected, and can therefore have profound implications for entire experimental literatures.
