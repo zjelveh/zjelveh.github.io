@@ -206,8 +206,8 @@ Details to come.
 
 ---
 
-### Week 11 (4/17): Fairness + Visualizations
-- Video Lecture: [Slides (Part 1: Fairness Metrics and COMPAS)](/files/inst414_spring2026/lectures/lecture_11a_fairness_metrics_compas.pptx) &#124; [Slides (Part 2: Sources of Bias in Predictions I)](/files/inst414_spring2026/lectures/lecture_11b_bias_part1.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
+### Week 11 (4/17): Fairness/Visualizations
+- Video Lecture: [Slides (Fairness Metrics and COMPAS)](/files/inst414_spring2026/lectures/lecture_11a_fairness_metrics_compas.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - [Practice Problems](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/lectures/lecture_11_practice_set.md)
 - [Lab 9 Notebook](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb) &#124; [Notes](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/INST%20414%20%E2%80%94%20Lab%209%20Notes.md)
 - Required reading: *Fairness and Machine Learning* — [Chapter 1](https://fairmlbook.org/introduction.html) and [Chapter 2](https://fairmlbook.org/classification.html)
@@ -218,8 +218,10 @@ Details to come.
 ---
 
 ### Week 12 (4/24): Sources of Bias
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
+- Video Lecture: [Slides (Sources of Bias I)](/files/inst414_spring2026/lectures/lecture_11b_bias_part1.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - Lab: [Lab 10 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_10.ipynb)
+- Sources of Bias II: Details to come.
+{: style="color: gray"}
 
 ---
 
