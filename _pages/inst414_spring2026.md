@@ -217,13 +217,13 @@ Details to come.
 
 ---
 
-### Week 12 (4/24): Sources of Bias, Part I
+### Week 12 (4/24): Sources of Bias
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
 - Lab: [Lab 10 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_10.ipynb)
 
 ---
 
-### Week 13 (5/1): Sources of Bias, Part II
+### Week 13 (5/1): Feature Importance
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_12.pptx)
 
 **Problem Set 3 Due / Problem Set 4 Out**
