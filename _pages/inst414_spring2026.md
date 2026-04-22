@@ -219,7 +219,7 @@ Details to come.
 
 ### Week 12 (4/24): Sources of Bias, Part I
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_11.pptx)
-- Lab: [Lab 9 Slides](/files/inst414_spring2026/labs/Lab_9.pptx) &#124; [Lab 9 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_9.ipynb)
+- Lab: [Lab 10 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_10.ipynb)
 
 ---
 
