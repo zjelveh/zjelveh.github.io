@@ -220,6 +220,8 @@ Details to come.
 ### Week 12 (4/24): Sources of Bias
 - Video Lecture: [Slides (Sources of Bias I)](/files/inst414_spring2026/lectures/lecture_11b_bias_part1.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 - Lab: [Lab 10 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_10.ipynb)
+- Required reading: [Racial Bias Found in a Major Health Care Risk Algorithm](https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/)
+- Original paper: [Dissecting racial bias in an algorithm used to manage the health of populations](https://www.science.org/doi/10.1126/science.aax2342)
 - Sources of Bias II: Details to come.
 {: style="color: gray"}
 
