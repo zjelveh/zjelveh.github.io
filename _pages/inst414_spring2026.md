@@ -227,8 +227,6 @@ Details to come.
 ---
 
 ### Week 13 (5/1): Feature Importance
-- Video Lecture: Details to come.
-{: style="color: gray"}
 
 **Problem Set 3 Due / Problem Set 4 Out**
 {: style="color: red"}
