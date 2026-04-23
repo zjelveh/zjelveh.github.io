@@ -226,16 +226,13 @@ Details to come.
 
 ### Week 13 (5/1): Feature Importance
 
-**Problem Set 3 Due / Problem Set 4 Out**
-{: style="color: red"}
-
 ---
 
 ### Week 14 (5/8): Text Mining
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_13.pptx)
 - Optional: [Generative AI Slides](/files/inst414_spring2026/lectures/lecture_14.pptx)
 
-**Problem Set 4 Due**
+**Problem Set 3 Due**
 {: style="color: red"}
 
 ---
