@@ -222,13 +222,13 @@ Details to come.
 - Lab: [Lab 10 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_10.ipynb)
 - Required reading: [Racial Bias Found in a Major Health Care Risk Algorithm](https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/)
 - Original paper: [Dissecting racial bias in an algorithm used to manage the health of populations](https://www.science.org/doi/10.1126/science.aax2342)
-- Sources of Bias II: Details to come.
-{: style="color: gray"}
+- Video Lecture: [Slides (Sources of Bias II)](/files/inst414_spring2026/lectures/lecture_12.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
 
 ---
 
 ### Week 13 (5/1): Feature Importance
-- Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_12.pptx)
+- Video Lecture: Details to come.
+{: style="color: gray"}
 
 **Problem Set 3 Due / Problem Set 4 Out**
 {: style="color: red"}
