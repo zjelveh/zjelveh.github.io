@@ -228,7 +228,8 @@ Details to come.
 
 ### Week 13 (5/1): Feature Importance
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_13_feature_importance.pptx) &#124; [Video](https://umd.instructure.com/courses/1401087/pages/lecture-videos)
-- Recommended reading: [Introduction to Statistical Learning](https://www.statlearning.com/) — Chapter 8.2 (Bagging, Random Forests, Boosting)
+- Resource: [A non-technical guide to interpreting SHAP analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+- Resource: [Feature Importance With Random Forests](https://www.geeksforgeeks.org/machine-learning/feature-importance-with-random-forests/)
 - Resource: [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
 - Resource: [Understanding SHAP SAGE](https://iancovert.com/blog/understanding-shap-sage/)
 - Lab: [Lab 11 Notebook](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/inst414_spring2026/labs/Lab_11.ipynb)
