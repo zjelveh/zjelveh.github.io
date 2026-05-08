@@ -239,6 +239,7 @@ Details to come.
 ### Week 14 (5/8): Real-World Prediction: Risk, Intervention, and Cost-Benefit
 - Video Lecture: [Slides](/files/inst414_spring2026/lectures/lecture_14.pptx)
 - Case study: Predicting shooting victimization risk
+- Explainer: [Cost-Benefit Analysis for Prediction-Based Interventions](/files/inst414_spring2026/lectures/cost_benefit_explainer.md)
 - Final project connection: Cost-benefit analysis and policy recommendations
 
 **Problem Set 3 Due**
