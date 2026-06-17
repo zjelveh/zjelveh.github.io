@@ -83,6 +83,13 @@ author_profile: true
 
 ## Working Papers
 
+- [What Is Bail For? Appearance, Danger, and Ability to Pay in Maryland](/files/md_bail_reform.pdf)
+  - **With**: Lydia Becker
+  <details><summary>Abstract</summary>
+  Courts may detain dangerous defendants outright, yet most held pretrial are there for failing to post money bail. Reformers argue bail should secure appearance alone, with danger handled through detention hearings, not the amount (Gouldin, 2016). Most reforms curtail or replace money bail; they do not restrict what it may target. Maryland's 2017 reform confines the amount to appearance and ability to pay while keeping broad detention authority. At the operational cutoff release rose about 10 points and held on default fell about 13; by the mature post-reform period both roughly doubled and amounts fell over 70 percent. Predicted rearrest risk moved off the amount and onto held-without-bail orders. Failure to appear and rearrest did not detectably rise, and the evidence gives little support that lower amounts raised nonappearance. It met the ability-to-pay limit bluntly, lowering amounts, not making any amount more postable, and changed detention's form more than its duration.
+  </details>
+
+
 - Time is on your side: The benefits of time-sensitive factors in pretrial risk assessments
   - **With**: Greg Stoddard, Melissa McNeill, and Alexandra Chouldechova
   <details><summary>Abstract</summary>
