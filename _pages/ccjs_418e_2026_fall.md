@@ -49,7 +49,7 @@ h3 + p {
 
 **Office:** 2220F LeFrak
 
-**Office Hours:** [Tue 12:30 to 1:30pm](https://umd.instructure.com/courses/1407296/external_tools/44833)
+**Office Hours:** TBD
 
 </div>
 
