@@ -54,15 +54,17 @@ h3 + p {
 </div>
 
 ## Course Description
-This course introduces criminology students to data analysis using Python programming and artificial intelligence tools. Criminal justice increasingly relies on data for major decisions—from setting bail to deploying patrols. This course teaches you to analyze that data using modern tools while understanding what's happening behind the scenes.
+This course teaches criminology students to answer questions about crime and criminal justice using data. Criminal justice increasingly relies on data for major decisions—from setting bail to deploying patrols—and the questions that matter are usually easy to ask and hard to answer. Did arrests actually fall after this policy changed? Are some neighborhoods policed differently than others? By the end of the semester you'll be able to take a question like that, work through it with real data, and arrive at an answer you can explain and defend.
 
-We begin with computational thinking, which is essentially a structured way to approach complex problems. You'll learn to break big questions into smaller pieces and identify patterns in data. These mental tools matter whether you're investigating crime trends or evaluating whether a new policy actually works. They're useful on their own but become essential once we start programming.
+We begin with computational thinking, which is essentially a structured way to approach complex problems. A large part of it is decomposition: breaking a question into steps small enough that a computer can carry them out. "Did crime go up?" can't be answered until you've decided what counts as crime, over what stretch of time, and measured how. "High-crime neighborhood" can't be either, until you've decided what counts as high.
 
-After computational thinking, we move to Python programming. Python has become the standard language for data analysis in many fields. You'll learn the fundamentals through real examples from criminal justice—instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library, covering data cleaning, filtering, aggregation, and data visualization.
+Being precise isn't the same as being right. Once a question is exact, you still have to decide what to compare against—last year, the rest of the city, or the same months before a policy took effect. Different comparisons can point in different directions, and this is a judgment the code will not make for you. We start on it in the first weeks of the semester and keep coming back to it.
 
-We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. However, using these tools without understanding what they produce is like using Google Translate without knowing if the translation makes sense. The assessments in this class ensure you develop real understanding alongside AI assistance.
+Once the steps are clear, you need something to carry them out on more data than you could work through by hand, and something that lets you redo the whole thing when the question changes. That's where Python comes in. Python has become the standard language for data analysis in many fields. You'll learn the fundamentals through real examples from criminal justice—instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library, covering data cleaning, filtering, aggregation, and data visualization. Each new piece of pandas arrives when we need it to answer something we couldn't answer the week before.
 
-You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these 5-minute conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
+We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. What they can't know is what you were actually trying to find out. Ask for the wrong comparison and you'll get clean, confident code that answers the wrong question, with nothing to signal that anything went wrong. That judgment stays yours, and the assessments in this class are designed to develop it.
+
+You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
 
 
 ## Course Objectives
@@ -97,7 +99,7 @@ You will complete three problem sets throughout the semester that build on each 
 <strong>How Problem Sets Work:</strong>
 <ul>
 <li>You submit working code on the Sunday that it is due (use any resources, including AI tools)</li>
-<li>The next Tuesday, you'll have a 5 minute code review session with me during class</li>
+<li>The next Tuesday, you'll have a one-on-one code review session with me</li>
 <li>During the review, you'll walk me through your code and answer questions about:
   <ul>
     <li>What specific lines of code do</li>
@@ -161,7 +163,7 @@ Resources:
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
 
 **Problem Set 1 Due: 9/27 11:59am** (covers Weeks 2-4)
-**Code Review: 9/29** (Tuesday class - 5 min sessions)
+**Code Review: 9/29** (Tuesday session)
 {: style="color: red"}
 
 ---
