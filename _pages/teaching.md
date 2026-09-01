@@ -10,6 +10,7 @@ author_profile: true
 {% include base_path %}
 
 ## Graduate
+- INST 762 (Fall 2026): Visual Analytics
 - INST 798/808 (Spring 2025): [A.I. as Research Assistant](/teaching/inst_808_syllabus)
 - CCJS 699F (Spring 2024): Data Science for Criminology
 
