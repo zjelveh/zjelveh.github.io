@@ -7,6 +7,17 @@ author_profile: true
 
 
 
+<style>
+/* This page uses layout: archive, so it inherits the research page's
+   "strong dividers between papers" rule from _custom.scss. Those dividers
+   don't belong on a course list — remove them here only. */
+.archive > ul > li {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.4em !important;
+}
+</style>
+
 {% include base_path %}
 
 ## Graduate
