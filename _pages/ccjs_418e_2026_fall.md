@@ -69,12 +69,11 @@ You'll complete three problem sets throughout the semester plus a final project 
 
 ## Course Objectives
 After completing this course, students will be able to:
-1. Write and modify Python code to load, clean, and analyze criminal justice datasets
-2. Use pandas to calculate statistics, identify patterns, and answer specific research questions about crime data
+1. Turn a broad question about crime or criminal justice into one precise enough to answer with data
+2. Write and modify Python code to load, clean, and analyze criminal justice datasets, using pandas to filter, group, aggregate, and merge
 3. Create meaningful visualizations that communicate findings from criminological data
-4. Collaborate effectively with AI tools while understanding what the generated code actually does
-5. Explain their code and analytical choices in plain English during code review discussions
-6. Adapt existing code to answer new questions when research needs change
+4. Work effectively with AI tools while understanding what the generated code actually does
+5. Explain their code and analytical choices in plain English during code review discussions, and adapt that code when the question changes
 
 ## Prerequisites
 No prior programming experience is required. This course is designed for students with no coding background who want to learn how to use data analysis and AI tools in criminology.
