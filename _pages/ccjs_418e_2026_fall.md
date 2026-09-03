@@ -139,7 +139,10 @@ Resources:
 
 ### Week 2: Getting Started - Python and Colab (9/8, 9/10)
 
-Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Research Design and Causality* — [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html) and [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
+Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Research Design and Causality*
+
+- [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html)
+- [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
 
 - Notebook: [Intro to Colab and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_colab_and_python.ipynb)
 
