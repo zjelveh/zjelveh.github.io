@@ -216,6 +216,7 @@ Resources:
 ---
 
 ### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
+- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
 
 **Project Proposal Due: 11/1 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
 {: style="color: red"}
