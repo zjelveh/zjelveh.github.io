@@ -127,7 +127,7 @@ Restore when the Canvas page exists:
 [**Links to Lecture Videos**](https://umd.instructure.com/courses/1407296/pages/video-links)
 {% endcomment %}
 
-### Week 1: Introduction to Computational Thinking (9/3)
+### Week 1: Questions, Comparisons, and Code (9/3)
 - Slides: [Introduction](/files/ccjs418e_fall2026/lecture_1.pptx)
 
 Resources: 
@@ -137,7 +137,7 @@ Resources:
 
 ---
 
-### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/8, 9/10)
+### Week 2: Getting Started - Python and Colab (9/8, 9/10)
 - Notebook: [Intro to Colab and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_colab_and_python.ipynb)
 
 - Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2026/Intro_to_Python_and_Jupyter.pptx)
@@ -147,7 +147,7 @@ Resources:
 
 ---
 
-### Week 3: Python Basics I (9/15, 9/17)
+### Week 3: Doing It for Every Case - Loops and Functions (9/15, 9/17)
 - Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/2_loops.ipynb)
 - Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
 
@@ -158,7 +158,7 @@ Resources:
 
 ---
 
-### Week 4: Python Basics II (9/22, 9/24)
+### Week 4: From Question to Steps (9/22, 9/24)
 - Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1407296/pages/final-project-example-datasets-and-stories)
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1407296/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
@@ -169,7 +169,7 @@ Resources:
 
 ---
 
-### Week 5: Introduction to Pandas and Data Manipulation (9/29, 10/1)
+### Week 5: Meeting Your Data (9/29, 10/1)
 - Slides: [Intro to Pandas](/files/ccjs418e_fall2026/Intro_to_Pandas.pptx) 
 - Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/4_pandas_intro_lecture.ipynb)
 
@@ -178,7 +178,7 @@ Resources:
 
 ---
 
-### Week 6: Pandas - Filtering (10/6, 10/8)
+### Week 6: Building the Two Groups - Filtering (10/6, 10/8)
 - Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/5_pandas_filtering_lecture.ipynb)
 
 Resources:
@@ -187,7 +187,7 @@ Resources:
 
 ---
 
-### Week 7: Pandas - Groupby (NO CLASS 10/13 - Fall Break, 10/15)
+### Week 7: Comparing Many Groups at Once - Groupby (NO CLASS 10/13 - Fall Break, 10/15)
 - Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/6_groupby.ipynb)
 
 Resources:
@@ -196,7 +196,7 @@ Resources:
 
 ---
 
-### Week 8: Data Visualization with Seaborn (10/20, 10/22)
+### Week 8: Showing a Comparison (10/20, 10/22)
 - Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_visualization.ipynb)
 
 Resources:
@@ -207,7 +207,7 @@ Resources:
 
 ---
 
-### Week 9: Pandas - Answering Questions with Data (10/27, 10/29)
+### Week 9: Compared to What? Choosing a Baseline (10/27, 10/29)
 
 **Problem Set 2 Due: 10/25 11:59am**
 **Code Review: 10/27**
@@ -215,20 +215,20 @@ Resources:
 
 ---
 
-### Week 10: Data Visualization (11/3, 11/5)
+### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
 
 **Project Proposal Due: 11/1 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
 {: style="color: red"}
 
 ---
 
-### Week 11: Merging (11/10, 11/12)
+### Week 11: Bringing Two Tables Together - Merging (11/10, 11/12)
 
 - Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
 
 ---
 
-### Week 12: Final Project Example & Work Session (11/17, 11/19)
+### Week 12: From Comparison to Claim (11/17, 11/19)
 - PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2026/Yankees_Noise_Analysis_Presentation.pptx)
 - Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/class_demo_notebook_complete.ipynb)
 
@@ -242,7 +242,7 @@ Resources:
 
 ---
 
-### Week 14: Introduction to Causality (12/1, 12/3)
+### Week 14: When the Comparison Breaks (12/1, 12/3)
 - Slides: [Anatomy of a Comparison](/files/ccjs418e_fall2026/10_causal_inference.pptx)
 - Slides: [What If? From Code to Causality to LLMs](/files/ccjs418e_fall2026/11_what_if_lecture.pptx)
 - Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/10_causal_inference.ipynb)
