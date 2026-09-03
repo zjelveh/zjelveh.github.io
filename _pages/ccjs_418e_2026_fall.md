@@ -169,7 +169,7 @@ Resources:
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1407296/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
 
-**Problem Set 1 Due: 9/27 11:59am** (covers Weeks 2-4)
+**Problem Set 1 Due: 9/27 11:59am** (covers Weeks 2-4)<br>
 **Code Review: 9/29** (Tuesday session)
 {: style="color: red"}
 
@@ -215,7 +215,7 @@ Resources:
 
 ### Week 9: Compared to What? Choosing a Baseline (10/27, 10/29)
 
-**Problem Set 2 Due: 10/25 11:59am**
+**Problem Set 2 Due: 10/25 11:59am**<br>
 **Code Review: 10/27**
 {: style="color: red"}
 
@@ -239,7 +239,7 @@ Resources:
 - PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2026/Yankees_Noise_Analysis_Presentation.pptx)
 - Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/class_demo_notebook_complete.ipynb)
 
-**Problem Set 3 Due: 11/22 11:59am**
+**Problem Set 3 Due: 11/22 11:59am**<br>
 **Code Review: 11/24**
 {: style="color: red"}
 
@@ -258,7 +258,7 @@ Resources:
 
 ### Week 15: **FINAL PRESENTATIONS** (12/8, 12/10)
 
-**Final Project Presentations Due: 12/7 11:59pm**
+**Final Project Presentations Due: 12/7 11:59pm**<br>
 **Final Project Due: 12/16 11:59pm**
 {: style="color: red"}
 
