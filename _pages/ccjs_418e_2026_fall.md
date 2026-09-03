@@ -62,7 +62,7 @@ Being precise isn't the same as being right. Once a question is exact, you still
 
 Once the steps are clear, you need something to carry them out on more data than you could work through by hand, and something that lets you redo the whole thing when the question changes. That's where Python comes in. Python has become the standard language for data analysis in many fields. You'll learn the fundamentals through real examples from criminal justice—instead of printing "Hello World," you'll be calculating crime rates. Instead of abstract math problems, you'll analyze actual arrest data. Most of the course focuses on pandas, Python's data manipulation library, covering data cleaning, filtering, aggregation, and data visualization. Each new piece of pandas arrives when we need it to answer something we couldn't answer the week before.
 
-We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. These tools excel at both writing and explaining code. What they can't know is what you were actually trying to find out. Ask for the wrong comparison and you'll get clean, confident code that answers the wrong question, with nothing to signal that anything went wrong. That judgment stays yours, and the assessments in this class are designed to develop it.
+We embrace AI tools like ChatGPT and Claude from day one because they're becoming standard in programming work. They can help at every stage—from sharpening a question and suggesting comparisons to writing and explaining code. But a fluent answer is not evidence that the analysis is sound. You remain responsible for deciding what you want to know, what should be compared, what the data actually measures, and what the result allows you to say. The assessments in this class are designed to develop that judgment.
 
 You'll complete three problem sets throughout the semester plus a final project and presentation. You're encouraged to use AI tools to help complete these assignments. However, grading happens through one-on-one code reviews where you'll walk me through your solution and explain what your code does. During these conversations, you should be prepared to answer questions about how your code works, what would happen if we changed certain parts, and interpret your results. These collaborative discussions focus on making sure you understand the tools you are using.
 
@@ -81,9 +81,11 @@ No prior programming experience is required. This course is designed for student
 ## Technical Requirements
 Students will need:
 - A laptop 
-- Access to AI tools (free tiers of ChatGPT, Claude, or similar - we'll discuss options in class)
+- Access to an AI assistant (free and university-provided options will be discussed in class)
 - No software purchases required - we'll use free, open-source tools
 
+## AI Tools and Resources
+UMD provides and supports several AI tools for students. See [AI Resources at UMD: Available Services](https://ai-resources.umd.edu/resources/services) for current options, access information, and data privacy guidance.
 
 
 ## Assessment
@@ -126,7 +128,7 @@ Restore when the Canvas page exists:
 {% endcomment %}
 
 ### Week 1: Introduction to Computational Thinking (9/1, 9/3)
-- Slides: [Introduction](/files/ccjs418e_fall2025/lecture_1.pptx)
+- Slides: [Introduction](/files/ccjs418e_fall2026/lecture_1.pptx)
 
 Resources: 
 - [BBC Bitesize: Computational Thinking](https://www.bbc.co.uk/bitesize/topics/z7tp34j)
@@ -136,9 +138,9 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/8, 9/10)
-- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python.ipynb)
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_jupyter_and_python.ipynb)
 
-- Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2025/Intro_to_Python_and_Jupyter.pptx)
+- Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2026/Intro_to_Python_and_Jupyter.pptx)
 
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-python)
@@ -146,8 +148,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/15, 9/17)
-- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops.ipynb)
-- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions.ipynb)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/2_loops.ipynb)
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -168,8 +170,8 @@ Resources:
 ---
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/29, 10/1)
-- Slides: [Intro to Pandas](/files/ccjs418e_fall2025/Intro_to_Pandas.pptx) 
-- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture.ipynb)
+- Slides: [Intro to Pandas](/files/ccjs418e_fall2026/Intro_to_Pandas.pptx) 
+- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/4_pandas_intro_lecture.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-pandas)
@@ -177,7 +179,7 @@ Resources:
 ---
 
 ### Week 6: Pandas - Filtering (10/6, 10/8)
-- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture.ipynb)
+- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/5_pandas_filtering_lecture.ipynb)
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
@@ -186,7 +188,7 @@ Resources:
 ---
 
 ### Week 7: Pandas - Groupby (NO CLASS 10/13 - Fall Break, 10/15)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby.ipynb)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/6_groupby.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
@@ -195,7 +197,7 @@ Resources:
 ---
 
 ### Week 8: Data Visualization with Seaborn (10/20, 10/22)
-- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/7_visualization.ipynb)
+- Jupyter Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_visualization.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
@@ -222,13 +224,13 @@ Resources:
 
 ### Week 11: Merging (11/10, 11/12)
 
-- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging.ipynb)
+- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
 
 ---
 
 ### Week 12: Final Project Example & Work Session (11/17, 11/19)
-- PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2025/Yankees_Noise_Analysis_Presentation.pptx)
-- Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/class_demo_notebook_complete.ipynb)
+- PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2026/Yankees_Noise_Analysis_Presentation.pptx)
+- Jupyter Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/class_demo_notebook_complete.ipynb)
 
 **Problem Set 3 Due: 11/22 11:59am**
 **Code Review: 11/24**
@@ -241,9 +243,9 @@ Resources:
 ---
 
 ### Week 14: Introduction to Causality (12/1, 12/3)
-- Slides: [Anatomy of a Comparison](/files/ccjs418e_fall2025/10_causal_inference.pptx)
-- Slides: [What If? From Code to Causality to LLMs](/files/ccjs418e_fall2025/11_what_if_lecture.pptx)
-- Jupyter Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/10_causal_inference.ipynb)
+- Slides: [Anatomy of a Comparison](/files/ccjs418e_fall2026/10_causal_inference.pptx)
+- Slides: [What If? From Code to Causality to LLMs](/files/ccjs418e_fall2026/11_what_if_lecture.pptx)
+- Jupyter Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/10_causal_inference.ipynb)
 
 ---
 
@@ -274,6 +276,5 @@ The University of Maryland is committed to creating and maintaining a welcoming 
 Students with disabilities who require accommodations for this course should contact the Accessibility and Disability Service (ADS) at 301-314-7682 or adsfrontdesk@umd.edu. Please inform me of any accommodations you need as soon as possible, preferably within the first two weeks of the semester.
 
 More information about ADS and accommodations can be found at [https://www.counseling.umd.edu/ads/](https://www.counseling.umd.edu/ads/)
-
 
 

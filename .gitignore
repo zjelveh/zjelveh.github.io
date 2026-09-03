@@ -31,6 +31,18 @@ CURRENT_STATE.md
 DECISIONS.md
 
 # ============================================
+# Teaching prep — instructor-only, NEVER publish
+# ============================================
+# Anything under files/ is served on the public site, so course-prep notes must be
+# gitignored. Prep = inventories, planning notes, keep/cut decisions, grading schemes
+# under consideration. Student-facing material (syllabi, slides, labs, notes linked
+# from a syllabus) is the exception and stays tracked.
+COURSE_MAP.md
+**/prep/
+**/*_prep.md
+**/*PREP*.md
+
+# ============================================
 # Solution files (NEVER publish to GitHub)
 # ============================================
 **/*solution*
