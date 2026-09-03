@@ -139,7 +139,7 @@ Resources:
 
 ### Week 2: Getting Started - Python and Colab (9/8, 9/10)
 
-Required Reading: Gertler, Martinez, Premand, Rawlings & Vermeersch, *Impact Evaluation in Practice* (2nd ed.), [Chapter 1: "Why Evaluate?"](https://openknowledge.worldbank.org/server/api/core/bitstreams/4659ef23-61ff-5df7-9b4e-89fda12b074d/content) (pp. 3-30)
+Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Research Design and Causality* — [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html) and [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
 
 - Notebook: [Intro to Colab and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_colab_and_python.ipynb)
 
