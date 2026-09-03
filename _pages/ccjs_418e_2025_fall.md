@@ -131,7 +131,7 @@ Resources:
 ---
 
 ### Week 2: Introduction to Python, AI Tools and Prompt Engineering (9/9, 9/11)
-- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python_solutions.ipynb)
+- Jupyter Notebook: [Intro to Jupyter and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/1_intro_to_jupyter_and_python.ipynb)
 
 - Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2025/Intro_to_Python_and_Jupyter.pptx)
 
@@ -141,8 +141,8 @@ Resources:
 ---
 
 ### Week 3: Python Basics I (9/16, 9/18)
-- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops_solutions.ipynb)
-- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions.ipynb), [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions_solutions.ipynb)
+- Jupyter Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/2_loops.ipynb)
+- Jupyter Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/3_functions.ipynb)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
@@ -164,7 +164,7 @@ Resources:
 
 ### Week 5: Introduction to Pandas and Data Manipulation (9/30, 10/2)
 - Slides: [Intro to Pandas](/files/ccjs418e_fall2025/Intro_to_Pandas.pptx) 
-- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture_solutions.ipynb)
+- Jupyter Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/4_pandas_intro_lecture.ipynb)
 
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1389501/pages/resources-for-learning-pandas)
@@ -172,7 +172,7 @@ Resources:
 ---
 
 ### Week 6: Pandas - Filtering (10/7, 10/9)
-- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture_solutions.ipynb)
+- Jupyter Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/5_pandas_filtering_lecture.ipynb)
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
@@ -181,7 +181,7 @@ Resources:
 ---
 
 ### Week 7: Pandas - Groupby (10/14, 10/16)
-- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby_solutions.ipynb)
+- Jupyter Notebook: [Groupby](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/6_groupby.ipynb)
 
 Resources:
 - Kaggle: [Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting-reference)
@@ -217,7 +217,7 @@ Resources:
 
 ### Week 11: Merging (11/11, NO CLASS 11/13)
 
-- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging.ipynb) | [Solutions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging_solutions.ipynb)
+- Jupyter Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2025/9_merging.ipynb)
 
 ---
 
