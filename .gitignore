@@ -102,3 +102,8 @@ credentials*.json
 secrets*.json
 *_SECRET*
 *_TOKEN*
+
+# ============================================
+# Local scratch (never publish)
+# ============================================
+scratch/
