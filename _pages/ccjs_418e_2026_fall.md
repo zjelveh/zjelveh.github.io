@@ -49,7 +49,7 @@ h3 + p {
 
 **Office:** 2220F LeFrak
 
-**Office Hours:** TBD
+**Office Hours:** Fridays 1 to 2pm, by appointment through [ELMS](https://umd.instructure.com/courses/1407296)
 
 </div>
 
