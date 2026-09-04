@@ -138,15 +138,14 @@ Resources:
 ---
 
 ### Week 2: Getting Started - Python and Colab (9/8, 9/10)
+- Notebook: [Intro to Colab and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_colab_and_python.ipynb)
+
+- Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2026/Intro_to_Python_and_Jupyter.pptx)
 
 Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Research Design and Causality*
 
 - [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html)
 - [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
-
-- Notebook: [Intro to Colab and Python](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/1_intro_to_colab_and_python.ipynb)
-
-- Slides: [Intro to Jupyter and Python](/files/ccjs418e_fall2026/Intro_to_Python_and_Jupyter.pptx)
 
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-python)
