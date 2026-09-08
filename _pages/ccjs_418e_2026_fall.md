@@ -151,6 +151,8 @@ Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Researc
 - [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html)
 - [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
 
+Bring a completed [Comparison Audit](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/comparison_audit.md) to Thursday. We use this page for every reading this semester, and later for your own project. For this first one, answer questions 1, 3, 5, and 7 only.
+
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-python)
 
