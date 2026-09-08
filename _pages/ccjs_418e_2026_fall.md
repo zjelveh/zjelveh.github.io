@@ -76,7 +76,11 @@ After completing this course, students will be able to:
 5. Explain their code and analytical choices in plain English during code review discussions, and adapt that code when the question changes
 
 ## Prerequisites
-No prior programming experience is required. This course is designed for students with no coding background who want to learn how to use data analysis and AI tools in criminology.
+CCJS 100, CCJS 105, CCJS 200, and CCJS 300. Permission of the department is also required.
+
+**No prior Python experience is needed.** CCJS 300 introduces R, and that experience helps, but this course starts Python from the beginning and assumes no coding background beyond it.
+
+CCJS 300 is the natural companion to this course. It covers research you design and data you collect — surveys, sampling, interviews, field observation. This course works with data that already exists: police records, 311 complaints, court data. You do not control how any of it was recorded, which changes what you can ask of it and what you can conclude.
 
 ## Technical Requirements
 Students will need:
