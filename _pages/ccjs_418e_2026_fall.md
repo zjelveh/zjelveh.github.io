@@ -150,8 +150,6 @@ Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Researc
 
 - [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html)
 - [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
-- [Chapter 3: Describing Variables, Sections 3.1–3.4](https://theeffectbook.net/ch-DescribingVariables.html) (stop before “Theoretical Distributions”)
-- [Understanding New York City’s 311 Data](https://datacollaborativeforjustice.org/work/low-level-enforcement/justice-data-brief-understanding-new-york-citys-311-data/)
 
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-python)
@@ -161,6 +159,11 @@ Resources:
 ### Week 3: Doing It for Every Case - Loops and Functions (9/15, 9/17)
 - Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/2_loops.ipynb)
 - Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
+
+Required Reading:
+
+- Nick Huntington-Klein, *The Effect*: [Chapter 3: Describing Variables, Sections 3.1–3.4](https://theeffectbook.net/ch-DescribingVariables.html) (stop before “Theoretical Distributions”)
+- Data Collaborative for Justice: [Understanding New York City’s 311 Data](https://datacollaborativeforjustice.org/work/low-level-enforcement/justice-data-brief-understanding-new-york-citys-311-data/)
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
