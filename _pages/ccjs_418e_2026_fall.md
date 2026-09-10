@@ -150,6 +150,8 @@ Required Reading: Nick Huntington-Klein, *The Effect: An Introduction to Researc
 
 - [Chapter 1: Designing Research](https://theeffectbook.net/ch-TheDesignofResearch.html)
 - [Chapter 2: Research Questions](https://theeffectbook.net/ch-ResearchQuestions.html)
+- [Chapter 3: Describing Variables, Sections 3.1–3.4](https://theeffectbook.net/ch-DescribingVariables.html) (stop before “Theoretical Distributions”)
+- [Understanding New York City’s 311 Data](https://datacollaborativeforjustice.org/work/low-level-enforcement/justice-data-brief-understanding-new-york-citys-311-data/)
 
 Resources:
 - [Resources for Learning Python](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-python)
