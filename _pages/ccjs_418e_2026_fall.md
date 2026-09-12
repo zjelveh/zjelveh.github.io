@@ -101,9 +101,12 @@ You will complete three problem sets throughout the semester that build on each 
     <li><strong>Problem Set 2 (10/25)</strong> </li>
     <li><strong>Problem Set 3 (11/22)</strong> </li>
 </ul>
+Problem-set files will be distributed and submitted through ELMS. They will not be posted on the
+public course website.
+
 <strong>How Problem Sets Work:</strong>
 <ul>
-<li>You submit working code on the Sunday that it is due (use any resources, including AI tools)</li>
+<li>You submit working code through ELMS on the Sunday that it is due (use any resources, including AI tools)</li>
 <li>The next Tuesday, you'll have a one-on-one code review session with me</li>
 <li>During the review, you'll walk me through your code and answer questions about:
   <ul>
@@ -173,9 +176,15 @@ Resources:
 ---
 
 ### Week 4: From Question to Steps (9/22, 9/24)
+- Problem Set 1: available through ELMS
 - Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1407296/pages/final-project-example-datasets-and-stories)
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1407296/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
+
+Required Reading:
+
+- Nick Huntington-Klein, *The Effect*: [Chapter 4: Describing Relationships, Sections 4.1–4.3](https://www.theeffectbook.net/ch-DescribingRelationships.html) (stop after Figure 4.4)
+- ProPublica: [Here's How We Analyzed the Data Underlying Texas Gov. Greg Abbott's Claims About His Border Initiative](https://www.propublica.org/article/heres-how-we-analyzed-the-data-underlying-texas-gov-greg-abbotts-claims-about-his-border-initiative)
 
 **Problem Set 1 Due: 9/27 11:59am** (covers Weeks 2-4)<br>
 **Code Review: 9/29** (Tuesday session)

@@ -50,6 +50,16 @@ COURSE_MAP.md
 **/*_key.*
 
 # ============================================
+# Assessed homework (distribute and collect through ELMS; NEVER publish)
+# ============================================
+**/assignments/
+**/homework/
+**/homeworks/
+**/ps/problem_set_*
+**/problem_set_*
+**/homework_*
+
+# ============================================
 # Course internal docs (not for students)
 docs/plans/
 files/inst414_spring2026/labs/Lab_1_old.ipynb
