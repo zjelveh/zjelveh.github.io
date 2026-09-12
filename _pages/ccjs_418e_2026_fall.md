@@ -186,7 +186,7 @@ Required Reading:
 - Nick Huntington-Klein, *The Effect*: [Chapter 4: Describing Relationships, Sections 4.1–4.3](https://www.theeffectbook.net/ch-DescribingRelationships.html) (stop after Figure 4.4)
 - ProPublica: [Here's How We Analyzed the Data Underlying Texas Gov. Greg Abbott's Claims About His Border Initiative](https://www.propublica.org/article/heres-how-we-analyzed-the-data-underlying-texas-gov-greg-abbotts-claims-about-his-border-initiative)
 
-**Problem Set 1 Due: 9/27 11:59am** (covers Weeks 2-4)<br>
+**Problem Set 1 Due: 9/27 11:59pm** (covers Weeks 2-4)<br>
 **Code Review: 9/29** (Tuesday session)
 {: style="color: red"}
 
