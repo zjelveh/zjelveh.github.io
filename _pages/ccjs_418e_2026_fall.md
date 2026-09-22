@@ -155,7 +155,6 @@ Resources:
 
 ### Week 3: Doing It for Every Case - Loops and Functions (9/15, 9/17)
 - Notebook: [Loops](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/2_loops.ipynb)
-- Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
 
 Required Reading:
 
@@ -164,13 +163,11 @@ Required Reading:
 
 Resources:
 - 30-Days-of-Python: [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
-- 30-Days-of-Python: [Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
-- GeeksforGeeks: [Functions](https://www.geeksforgeeks.org/python/python-functions/)
 
 ---
 
 ### Week 4: From Question to Steps (9/22, 9/24)
-- Problem Set 1: available through ELMS
+- Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
 - Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1407296/pages/final-project-example-datasets-and-stories)
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1407296/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
@@ -179,6 +176,10 @@ Required Reading:
 
 - Nick Huntington-Klein, *The Effect*: [Chapter 4: Describing Relationships, Sections 4.1–4.3](https://www.theeffectbook.net/ch-DescribingRelationships.html) (stop after Figure 4.4)
 - ProPublica: [Here's How We Analyzed the Data Underlying Texas Gov. Greg Abbott's Claims About His Border Initiative](https://www.propublica.org/article/heres-how-we-analyzed-the-data-underlying-texas-gov-greg-abbotts-claims-about-his-border-initiative)
+
+Resources:
+- 30-Days-of-Python: [Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
+- GeeksforGeeks: [Functions](https://www.geeksforgeeks.org/python/python-functions/)
 
 **Problem Set 1 Due: 9/27 11:59pm** (covers Weeks 2-4)<br>
 **Code Review: 9/29** (Tuesday session)
