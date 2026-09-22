@@ -128,12 +128,6 @@ Presentations will be held in the last week of class and projects will be due 12
 
 ## Weekly Schedule
 
-<span style="color: #999">**Links to Lecture Videos** (coming soon)</span>
-{% comment %}
-Restore when the Canvas page exists:
-[**Links to Lecture Videos**](https://umd.instructure.com/courses/1407296/pages/video-links)
-{% endcomment %}
-
 ### Week 1: Questions, Comparisons, and Code (9/3)
 - Slides: [Introduction](/files/ccjs418e_fall2026/lecture_1.pptx)
 
@@ -300,5 +294,3 @@ The University of Maryland is committed to creating and maintaining a welcoming 
 Students with disabilities who require accommodations for this course should contact the Accessibility and Disability Service (ADS) at 301-314-7682 or adsfrontdesk@umd.edu. Please inform me of any accommodations you need as soon as possible, preferably within the first two weeks of the semester.
 
 More information about ADS and accommodations can be found at [https://www.counseling.umd.edu/ads/](https://www.counseling.umd.edu/ads/)
-
-
