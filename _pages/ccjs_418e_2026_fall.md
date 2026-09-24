@@ -191,6 +191,12 @@ Resources:
 - Slides: [Intro to Pandas](/files/ccjs418e_fall2026/Intro_to_Pandas.pptx) 
 - Notebook: [Intro to Pandas](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/4_pandas_intro_lecture.ipynb)
 
+Required Reading:
+
+- Jeff Asher, [“When 100% Doesn't Mean 100%”](https://jasher.substack.com/p/when-100-doesnt-mean-100)
+
+As you read: What is in the numerator, what is in the denominator, and do they describe the same cases over the same period?
+
 Resources:
 - [Resources for Learning Pandas](https://umd.instructure.com/courses/1407296/pages/resources-for-learning-pandas)
 
@@ -198,6 +204,14 @@ Resources:
 
 ### Week 6: Building the Two Groups - Filtering (10/6, 10/8)
 - Notebook: [Filtering](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/5_pandas_filtering_lecture.ipynb)
+
+Required Reading:
+
+- National Institute of Justice, [Police Body-Worn Cameras in Washington, D.C.](https://crimesolutions.ojp.gov/ratedprograms/police-body-worn-cameras-washington-dc)
+
+Read the **Program Summary**, **Evaluation Outcomes**, and **Evaluation Methodology** sections. Stop before “Cost.”
+
+As you read: Who was in each group, how were officers placed into those groups, and what made the groups useful for comparison?
 
 Resources:
 - Kaggle: [Filtering and Sorting](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning-reference)
