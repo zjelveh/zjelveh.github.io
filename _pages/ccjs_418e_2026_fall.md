@@ -168,7 +168,7 @@ Resources:
 
 ### Week 4: From Question to Steps (9/22, 9/24)
 - Notebook: [Functions](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/3_functions.ipynb)
-- Final Project: [Example Datasets and Stories](https://umd.instructure.com/courses/1407296/pages/final-project-example-datasets-and-stories)
+- Final Project: [Choosing a Dataset](https://umd.instructure.com/courses/1407296/pages/final-project-choosing-a-dataset)
 - Final Project: [Crime Data Analysis Ideas](https://umd.instructure.com/courses/1407296/pages/final-project-crime-data-analysis-ideas)
 - Final Project: [Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide)
 
