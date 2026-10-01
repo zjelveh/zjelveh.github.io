@@ -119,7 +119,12 @@ public course website.
 </details>
 <details>
 <summary class="section-heading">Project Proposal (10%)</summary>
-Due November 1st, you'll submit a 2-3 page proposal for your final project. The project will require you to find a dataset set to analyze, an overall question you want to explore, and demonstration of computational thinking in how you will explore this question. Further details on the proposal to come. 
+Due November 1, you will submit a 2&ndash;3 page proposal for your final project. The proposal must
+include: (1) a focused question and why it matters, (2) a dataset and a brief data check confirming
+that you can open it and that it contains the records and measures your question requires, (3) an
+exact comparison and an explanation of why it is useful, along with one important complication,
+and (4) an ordered list of analysis steps using course tools. Charts are not required in the
+proposal.
 </details>
 <details>
 <summary class="section-heading">Final Project (30%)</summary>
@@ -250,7 +255,7 @@ Resources:
 ### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
 - Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
 
-**Project Proposal Due: 11/1 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
+**Project Proposal Due: 11/1 11:59pm** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
 {: style="color: red"}
 
 ---
