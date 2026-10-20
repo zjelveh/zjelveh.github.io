@@ -98,7 +98,7 @@ UMD provides and supports several AI tools for students. See [AI Resources at UM
 You will complete three problem sets throughout the semester that build on each other:
 <ul>
     <li><strong>Problem Set 1 (9/27)</strong> </li>
-    <li><strong>Problem Set 2 (10/25)</strong> </li>
+    <li><strong>Problem Set 2 (11/1): Investigating Changes in DC Crime Reports</strong> &mdash; <a href="https://umd.instructure.com/courses/1407296/assignments">ELMS</a></li>
     <li><strong>Problem Set 3 (11/22)</strong> </li>
 </ul>
 Problem-set files will be distributed and submitted through ELMS. They will not be posted on the
@@ -119,7 +119,7 @@ public course website.
 </details>
 <details>
 <summary class="section-heading">Project Proposal (10%)</summary>
-Due November 1, you will submit a 2&ndash;3 page proposal for your final project. The proposal must
+Due November 8, you will submit a 2&ndash;3 page proposal for your final project. The proposal must
 include: (1) a focused question and why it matters, (2) a dataset and a brief data check confirming
 that you can open it and that it contains the records and measures your question requires, (3) an
 exact comparison and an explanation of why it is useful, along with one important complication,
@@ -246,16 +246,13 @@ Resources:
 
 ### Week 9: Compared to What? Choosing a Baseline (10/27, 10/29)
 
-**Problem Set 2 Due: 10/25 11:59am**<br>
-**Code Review: 10/27**
-{: style="color: red"}
-
 ---
 
 ### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
 - Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
 
-**Project Proposal Due: 11/1 11:59pm** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
+**Problem Set 2 Due: 11/1 11:59am** ([Files and submission on ELMS](https://umd.instructure.com/courses/1407296/assignments))<br>
+**Code Review: 11/3**
 {: style="color: red"}
 
 ---
@@ -263,6 +260,9 @@ Resources:
 ### Week 11: Bringing Two Tables Together - Merging (11/10, 11/12)
 
 - Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
+
+**Project Proposal Due: 11/8 11:59pm** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
+{: style="color: red"}
 
 ---
 
