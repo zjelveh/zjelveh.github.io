@@ -246,10 +246,26 @@ Resources:
 
 ### Week 9: Compared to What? Choosing a Baseline (10/27, 10/29)
 
+Required Reading:
+
+- Emily Widra, Prison Policy Initiative: [New national data help fill 20-year data gap: Offense data for people in local jails](https://www.prisonpolicy.org/blog/2025/04/17/jdi_jail_offenses/)
+
+Read the introduction, **Our unique, representative sample of jail records**, and **One-third of annual jail admissions are for misdemeanor charges**, including its chart.
+
+As you read: How does the offense mix differ between admissions over a year and the population held on one day? How does length of stay help explain the difference?
+
 ---
 
 ### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
 - Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
+
+Required Reading:
+
+- Jennifer Mascia, The Trace: [What Have Trump’s Troops Done for Crime in D.C.?](https://www.thetrace.org/2025/10/dc-shooting-data-trump-national-guard/) (October 31, 2025)
+
+Read the full article.
+
+As you read: Which time periods does the article compare, and what does the preceding trend add to the comparison? How does its measure of shootings compare with the crime reports counted in Problem Set 2?
 
 **Problem Set 2 Due: 11/1 11:59am** ([Files and submission on ELMS](https://umd.instructure.com/courses/1407296/assignments))<br>
 **Code Review: 11/3**
@@ -260,6 +276,14 @@ Resources:
 ### Week 11: Bringing Two Tables Together - Merging (11/10, 11/12)
 
 - Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
+
+Required Reading:
+
+- ACLU: [A Tale of Two Countries: Racially Targeted Arrests in the Era of Marijuana Reform](https://www.aclu.org/publications/tale-two-countries-racially-targeted-arrests-era-marijuana-reform) (2020)
+
+Open the report PDF. Read the data sources discussion in **Methodology and Limitations**, the **Calculating Rate Ratios** subsection, and **Table 6**.
+
+As you read: Which sources supply the arrest counts and population figures? What details must match when combining those records to compare arrest rates for Black and white populations?
 
 **Project Proposal Due: 11/8 11:59pm** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
 {: style="color: red"}
