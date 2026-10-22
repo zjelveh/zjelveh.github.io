@@ -233,8 +233,8 @@ Resources:
 
 ---
 
-### Week 8: Showing a Comparison (10/20, 10/22)
-- Notebook: [Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_visualization.ipynb)
+### Week 8: Working with Dates and Time (10/20, 10/22)
+- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
