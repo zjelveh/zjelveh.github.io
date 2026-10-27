@@ -256,28 +256,16 @@ Read the introduction, **Our unique, representative sample of jail records**, an
 
 As you read: How does the offense mix differ between admissions over a year and the population held on one day? How does length of stay help explain the difference?
 
----
-
-### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
-- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_datetime_operations.ipynb)
-
-Required Reading:
-
-- Jennifer Mascia, The Trace: [What Have Trump’s Troops Done for Crime in D.C.?](https://www.thetrace.org/2025/10/dc-shooting-data-trump-national-guard/) (October 31, 2025)
-
-Read the full article.
-
-As you read: Which time periods does the article compare, and what does the preceding trend add to the comparison? How does its measure of shootings compare with the crime reports counted in Problem Set 2?
-
-**Problem Set 2 Due: 11/1 11:59am** ([Files and submission on ELMS](https://umd.instructure.com/courses/1407296/assignments))<br>
-**Code Review: 11/3**
+**Problem Set 2 Due: 11/1 11:59am** ([Files and submission on ELMS](https://umd.instructure.com/courses/1407296/assignments))
 {: style="color: red"}
 
 ---
 
-### Week 11: Bringing Two Tables Together - Merging (11/10, 11/12)
+### Week 10: Bringing Two Tables Together - Merging (11/3, 11/5)
 
-- Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
+- **11/3:** Problem Set 2 code reviews.
+- **11/5:** Merging: match records across tables, add population information, and calculate rates.
+- Notebook: Merging (coming soon).
 
 Required Reading:
 
@@ -292,33 +280,59 @@ As you read: Which sources supply the arrest counts and population figures? What
 
 ---
 
-### Week 12: From Comparison to Claim (11/17, 11/19)
-- PowerPoint: [Yankees Noise Analysis Example](/files/ccjs418e_fall2026/Yankees_Noise_Analysis_Presentation.pptx)
-- Notebook: [Complete Analysis Demo](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/class_demo_notebook_complete.ipynb)
+### Week 11: From Question to Complete Analysis (11/10, 11/12)
 
-**Problem Set 3 Due: 11/22 11:59am**<br>
-**Code Review: 11/24**
+- Work through a complete analysis: question, data preparation, comparison, chart, and explanation of the results.
+- Continue merging practice as needed and apply the workflow in hands-on work.
+- Notebook: Complete Analysis (coming soon).
+
+Required Reading:
+
+- Jennifer Mascia, The Trace: [What Have Trump’s Troops Done for Crime in D.C.?](https://www.thetrace.org/2025/10/dc-shooting-data-trump-national-guard/) (October 31, 2025)
+
+Read the full article.
+
+As you read: Which time periods does the article compare, and what does the preceding trend add to the comparison? How does its measure of shootings compare with the crime reports counted in Problem Set 2?
+
+---
+
+### Week 12: Strengthening Comparisons and Project Lab (11/17, 11/19)
+
+- **11/17:** Compare changes across two groups using a simple difference-in-differences example.
+- **11/19:** Project lab and Problem Set 3 help.
+- Notebook: Strengthening Comparisons (coming soon).
+
+In class, revisit an earlier course reading and identify how an additional comparison could strengthen the answer to its research question.
+
+**Problem Set 3 Due: 11/22 11:59am**
 {: style="color: red"}
 
 ---
 
 ### Week 13: Code Review (11/24 - NO CLASS 11/26, Thanksgiving Recess)
 
+- **11/24:** Problem Set 3 code reviews.
+
 ---
 
-### Week 14: When the Comparison Breaks (12/1, 12/3)
-- Slides: [Anatomy of a Comparison](/files/ccjs418e_fall2026/10_causal_inference.pptx)
-- Slides: [What If? From Code to Causality to LLMs](/files/ccjs418e_fall2026/11_what_if_lecture.pptx)
-- Notebook: [Causal Inference](https://colab.research.google.com/github/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/10_causal_inference.ipynb)
+### Week 14: Interpreting Results (12/1, 12/3)
+
+- Interpret patterns in tables and charts, describe the size of differences, and connect findings to the research question.
+- Notebook: Interpreting Results (coming soon).
 
 ---
 
 ### Week 15: **FINAL PRESENTATIONS** (12/8, 12/10)
 
-**Final Project Presentations Due: 12/7 11:59pm**<br>
-**Final Project Due: 12/16 11:59pm**
+**Final Project Presentations Due: 12/7 11:59pm**
 {: style="color: red"}
 
+---
+
+### Final Project Submission (12/16)
+
+**Final Project Due: 12/16 11:59pm**
+{: style="color: red"}
 
 ---
 
