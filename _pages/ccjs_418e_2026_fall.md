@@ -244,7 +244,9 @@ Resources:
 
 ---
 
-### Week 9: Compared to What? Choosing a Baseline (10/27, 10/29)
+### Week 9: Seeing Comparisons - Data Visualization (10/27, 10/29)
+
+- Notebook: [Data Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_visualization.ipynb)
 
 Required Reading:
 
