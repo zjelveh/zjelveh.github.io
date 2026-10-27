@@ -234,7 +234,7 @@ Resources:
 ---
 
 ### Week 8: Working with Dates and Time (10/20, 10/22)
-- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
+- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_datetime_operations.ipynb)
 
 Resources:
 - Seaborn Tutorial: [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
@@ -246,7 +246,7 @@ Resources:
 
 ### Week 9: Seeing Comparisons - Data Visualization (10/27, 10/29)
 
-- Notebook: [Data Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_visualization.ipynb)
+- Notebook: [Data Visualization](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_visualization.ipynb)
 
 Required Reading:
 
@@ -259,7 +259,7 @@ As you read: How does the offense mix differ between admissions over a year and 
 ---
 
 ### Week 10: Comparing to Yourself - Dates and Time (11/3, 11/5)
-- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8_datetime_operations.ipynb)
+- Notebook: [Dates and Time](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/7_datetime_operations.ipynb)
 
 Required Reading:
 
