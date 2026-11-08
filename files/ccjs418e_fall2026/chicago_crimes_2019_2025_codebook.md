@@ -1,6 +1,6 @@
-# Codebook: Chicago Police Department Crime Records, 2019 and 2025
+# Codebook: Chicago Police Department Crime Records, 2019–2025
 
-**File:** `chicago_crimes_2019_2025.csv` · 500,148 rows · 14 columns · 54 MB
+**File:** `chicago_crimes_2019_2025.csv` · 1,687,355 rows · 7 columns · 86 MB
 
 ```python
 import pandas as pd
@@ -11,40 +11,40 @@ chicago = pd.read_csv(filepath_or_buffer=url)
 
 ## About the Data
 
-**One row represents one reported crime incident.** The file holds every incident dated in 2019 (261,943 rows) or 2025 (238,205 rows).
+**One row represents one reported crime incident.** The file holds every incident dated from January 1, 2019, through December 31, 2025.
 
-- **Source:** City of Chicago Data Portal, [Crimes – 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2), published by the Chicago Police Department. Downloaded November 6, 2026.
+| Year | Rows | Year | Rows |
+|---|---|---|---|
+| 2019 | 261,944 | 2023 | 263,880 |
+| 2020 | 213,089 | 2024 | 259,686 |
+| 2021 | 210,028 | 2025 | 238,211 |
+| 2022 | 240,517 | | |
+
+- **Source:** City of Chicago Data Portal, [Crimes – 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2), published by the Chicago Police Department. Downloaded November 8, 2026.
 - **What the city includes:** reported incidents of crime, drawn from the department's CLEAR records system. Homicides appear once per victim. Addresses are rounded to the block to protect victims' privacy.
-- **The city's caution:** classifications come from preliminary information and can change after investigation. The department warns against treating the records as an exact measure of change over time. A comparison of 2019 and 2025 describes recorded incidents, which reflect both crime and reporting.
+- **The city's caution:** classifications come from preliminary information and can change after investigation. The department warns against treating the records as an exact measure of change over time. A comparison across years describes recorded incidents, which reflect both crime and reporting.
 
 ## How This File Was Prepared
 
-- Selected incidents whose `year` is 2019 or 2025.
-- Kept 14 of the portal's 22 columns. Removed: `case_number` (the police report number), `block` (block-level address), `x_coordinate`, `y_coordinate`, `latitude`, `longitude`, `location` (map coordinates), and `updated_on` (when the record was last edited).
-- Stored `district`, `beat`, `ward`, and `community_area` as whole numbers. The portal writes district 1 as `001` and beat 111 as `0111`.
-- Wrote `0` in the 16 blank `ward` cells and 25 blank `community_area` cells. The portal already uses `0` for an unknown ward or community area.
+- Selected incidents dated 2019 through 2025.
+- Kept 7 of the portal's 22 columns so the file stays under GitHub's 100 MB limit for a single file. The portal's other columns include the offense description, type of place, domestic flag, beat, ward, block address, and map coordinates; the full records are on the portal.
+- Stored `district` and `community_area` as whole numbers. The portal writes district 1 as `001`.
+- Wrote `0` in the blank `community_area` cells. The portal already uses `0` for an unknown community area.
 - Sorted rows by `date`.
 
 ## Columns
 
 | Column | Type | Meaning | Example |
 |---|---|---|---|
-| `id` | number | Unique record number | `11552667` |
 | `date` | text (date and time) | When the incident occurred; sometimes a best estimate | `2019-01-01 00:00:00` |
-| `year` | number | Year of `date`: 2019 or 2025 | `2019` |
-| `iucr` | text | Illinois Uniform Crime Reporting code; one code for each `primary_type` and `description` pair | `0486` |
-| `primary_type` | text | Offense category (32 categories) | `BATTERY` |
-| `description` | text | Offense subcategory within `primary_type` | `DOMESTIC BATTERY SIMPLE` |
+| `iucr` | text | Illinois Uniform Crime Reporting code, the most detailed offense code | `0486` |
+| `primary_type` | text | Offense category (33 categories) | `BATTERY` |
 | `fbi_code` | text | FBI offense classification (table below) | `08B` |
-| `location_description` | text | Type of place; blank for 2,638 rows | `APARTMENT` |
 | `arrest` | True/False | `True` if an arrest was made | `False` |
-| `domestic` | True/False | `True` if the incident was domestic-related under the Illinois Domestic Violence Act | `True` |
 | `district` | number | Police district (22 districts) | `9` |
-| `beat` | number | Police beat, the smallest patrol area (275 beats); the digits before the last two give the district | `922` |
-| `ward` | number | City Council ward, 1–50; `0` means unknown | `15` |
 | `community_area` | number | Community area, 1–77 (names below); `0` means unknown | `58` |
 
-`date` loads as text. Convert it with `pd.to_datetime()` before extracting the month, weekday, or hour.
+`date` loads as text. Convert it with `pd.to_datetime()`, then extract the year, month, day of the month, weekday, or hour with `.dt.year`, `.dt.month`, `.dt.day`, `.dt.day_name()`, or `.dt.hour`.
 
 ## FBI Codes
 
@@ -52,34 +52,34 @@ The Chicago Police Department groups the index codes into violent and property c
 
 | Code | Classification | Index crime | Rows | Most common `primary_type` |
 |---|---|---|---|---|
-| `01A` | Homicide, first and second degree | Violent | 935 | HOMICIDE |
-| `01B` | Involuntary manslaughter | | 15 | HOMICIDE |
-| `02` | Criminal sexual assault | Violent | 3,994 | CRIMINAL SEXUAL ASSAULT, CRIM SEXUAL ASSAULT |
-| `03` | Robbery | Violent | 13,813 | ROBBERY |
-| `04A` | Aggravated assault | Violent | 12,430 | ASSAULT |
-| `04B` | Aggravated battery | Violent | 14,995 | BATTERY |
-| `05` | Burglary | Property | 15,852 | BURGLARY |
-| `06` | Larceny (theft) | Property | 121,239 | THEFT |
-| `07` | Motor vehicle theft | Property | 26,240 | MOTOR VEHICLE THEFT |
-| `08A` | Simple assault | | 37,353 | ASSAULT, OTHER OFFENSE |
-| `08B` | Simple battery | | 78,377 | BATTERY |
-| `09` | Arson | Property | 750 | ARSON |
-| `10` | Forgery and counterfeiting | | 2,562 | DECEPTIVE PRACTICE |
-| `11` | Fraud | | 31,975 | DECEPTIVE PRACTICE |
-| `12` | Embezzlement | | 68 | DECEPTIVE PRACTICE |
-| `13` | Stolen property | | 108 | DECEPTIVE PRACTICE |
-| `14` | Vandalism | | 52,933 | CRIMINAL DAMAGE |
-| `15` | Weapons violation | | 12,285 | WEAPONS VIOLATION |
-| `16` | Prostitution | | 871 | PROSTITUTION |
-| `17` | Criminal sexual abuse | | 3,866 | SEX OFFENSE |
-| `18` | Drug abuse | | 22,492 | NARCOTICS |
-| `19` | Gambling | | 157 | GAMBLING |
-| `20` | Offenses against family | | 1,482 | OFFENSE INVOLVING CHILDREN |
-| `22` | Liquor license | | 432 | LIQUOR LAW VIOLATION |
-| `24` | Disorderly conduct | | 5,014 | PUBLIC PEACE VIOLATION |
-| `26` | Miscellaneous non-index offense | | 39,910 | OTHER OFFENSE, CRIMINAL TRESPASS |
+| `01A` | Homicide, first and second degree | Violent | 4,485 | HOMICIDE |
+| `01B` | Involuntary manslaughter | | 48 | HOMICIDE |
+| `02` | Criminal sexual assault | Violent | 13,510 | CRIMINAL SEXUAL ASSAULT |
+| `03` | Robbery | Violent | 58,746 | ROBBERY |
+| `04A` | Aggravated assault | Violent | 48,845 | ASSAULT |
+| `04B` | Aggravated battery | Violent | 55,486 | BATTERY |
+| `05` | Burglary | Property | 54,020 | BURGLARY |
+| `06` | Larceny (theft) | Property | 377,213 | THEFT |
+| `07` | Motor vehicle theft | Property | 119,254 | MOTOR VEHICLE THEFT |
+| `08A` | Simple assault | | 126,031 | ASSAULT, OTHER OFFENSE |
+| `08B` | Simple battery | | 253,860 | BATTERY |
+| `09` | Arson | Property | 3,284 | ARSON |
+| `10` | Forgery and counterfeiting | | 10,602 | DECEPTIVE PRACTICE |
+| `11` | Fraud | | 111,659 | DECEPTIVE PRACTICE |
+| `12` | Embezzlement | | 259 | DECEPTIVE PRACTICE |
+| `13` | Stolen property | | 396 | DECEPTIVE PRACTICE |
+| `14` | Vandalism | | 188,823 | CRIMINAL DAMAGE |
+| `15` | Weapons violation | | 55,844 | WEAPONS VIOLATION |
+| `16` | Prostitution | | 2,044 | PROSTITUTION |
+| `17` | Criminal sexual abuse | | 12,709 | SEX OFFENSE |
+| `18` | Drug abuse | | 51,609 | NARCOTICS |
+| `19` | Gambling | | 243 | GAMBLING |
+| `20` | Offenses against family | | 4,888 | OFFENSE INVOLVING CHILDREN |
+| `22` | Liquor license | | 1,345 | LIQUOR LAW VIOLATION |
+| `24` | Disorderly conduct | | 12,015 | PUBLIC PEACE VIOLATION |
+| `26` | Miscellaneous non-index offense | | 120,137 | OTHER OFFENSE, CRIMINAL TRESPASS |
 
-Source of the classifications: [Chicago Police Department crime details](https://gis.chicagopolice.org/pages/crime_details). The full list of IUCR codes is on the [city portal](https://data.cityofchicago.org/d/c7ck-438e).
+Source of the classifications: [Chicago Police Department crime details](https://gis.chicagopolice.org/pages/crime_details). The full list of IUCR codes, with the description of each, is on the [city portal](https://data.cityofchicago.org/d/c7ck-438e).
 
 ## Community Areas
 
@@ -110,7 +110,8 @@ Source: City of Chicago, [Boundaries – Community Areas](https://data.cityofchi
 
 ## Things to Know
 
-- **Offense names changed between the years.** Chicago reworded the `description` for 142 IUCR codes, for example `AGGRAVATED: HANDGUN` in 2019 became `AGGRAVATED - HANDGUN` in 2025. The `primary_type` `CRIM SEXUAL ASSAULT` in 2019 became `CRIMINAL SEXUAL ASSAULT`. The `iucr` code stays the same in both years, so use `iucr` or `fbi_code` to match an offense across 2019 and 2025.
-- **Wards were redrawn in 2023.** A ward number covers different blocks in 2019 and 2025. Community areas keep the same boundaries in both years, so use them for place comparisons across years.
-- **Unknown places.** 530 rows have `0` for `ward` and 539 have `0` for `community_area`, mostly the same rows. Districts 31 (27 rows) and 61 (506 rows) fall outside the 22 standard districts; every district 61 row has beat 6100 and an unknown ward and community area.
-- **Rounded times.** 2.6% of incidents are timed at exactly midnight and 2.4% at exactly noon, more than the surrounding minutes. Many of these record an unknown time, which matters for questions about the hour of day.
+- **One offense name changed.** Chicago renamed `CRIM SEXUAL ASSAULT` to `CRIMINAL SEXUAL ASSAULT`; 2019 and 2020 records use both names. Use `fbi_code` `02` or `iucr` to count sexual assaults across years.
+- **Unknown places.** 2,223 rows have `0` for `community_area`. Districts 31 (91 rows) and 61 (2,047 rows) fall outside the 22 standard districts; every district 61 row has an unknown community area.
+- **Rounded times and dates.** 3.4% of incidents are timed at exactly midnight and 2.5% at exactly noon, more than the surrounding minutes, and the 1st of the month holds 4.1% of incidents, more than the other days. Many of these record an unknown time or date, which matters for questions about the hour or the day of the month.
+- **Months have different lengths.** Only seven months have a 31st, so a raw count makes the 31st look quiet. To compare days of the month, divide each day's count by the number of months that include that day.
+- **Arrest rates changed.** The share of incidents with an arrest fell from 21.5% in 2019 to 11.8% in 2022 and rose to 16.1% in 2025.
