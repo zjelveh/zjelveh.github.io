@@ -266,7 +266,6 @@ As you read: How does the offense mix differ between admissions over a year and 
 - **11/3:** Problem Set 2 code reviews.
 - **11/5:** Merging: match records across tables, add population information, and calculate rates.
 - Notebook: [Plotting with Dates](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/8b_plotting_with_dates.ipynb)
-- Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
 
 Required Reading:
 
@@ -285,6 +284,7 @@ As you read: Which sources supply the arrest counts and population figures? What
 
 - Work through a complete analysis: question, data preparation, comparison, chart, and explanation of the results.
 - Continue merging practice as needed and apply the workflow in hands-on work.
+- Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
 - Notebook: Complete Analysis (coming soon).
 
 Required Reading:
