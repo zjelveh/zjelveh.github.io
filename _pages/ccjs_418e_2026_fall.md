@@ -119,7 +119,7 @@ public course website.
 </details>
 <details>
 <summary class="section-heading">Project Proposal (10%)</summary>
-Due November 8, you will submit a 2&ndash;3 page proposal for your final project. The proposal must
+Due November 10, you will submit a 2&ndash;3 page proposal for your final project. The proposal must
 include: (1) a focused question and why it matters, (2) a dataset and a brief data check confirming
 that you can open it and that it contains the records and measures your question requires, (3) an
 exact comparison and an explanation of why it is useful, along with one important complication,
@@ -276,7 +276,7 @@ Open the report PDF. Read the data sources discussion in **Methodology and Limit
 
 As you read: Which sources supply the arrest counts and population figures? What details must match when combining those records to compare arrest rates for Black and white populations?
 
-**Project Proposal Due: 11/8 11:59pm** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
+**Project Proposal Due: 11/10 11:59am** ([Proposal Guidelines](https://umd.instructure.com/courses/1407296/pages/final-project-proposal-guide))
 {: style="color: red"}
 
 ---
