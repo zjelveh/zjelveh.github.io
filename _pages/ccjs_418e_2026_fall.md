@@ -285,7 +285,7 @@ As you read: Which sources supply the arrest counts and population figures? What
 - Work through a complete analysis: question, data preparation, comparison, chart, and explanation of the results.
 - Continue merging practice as needed and apply the workflow in hands-on work.
 - Notebook: [Merging](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/9_merging.ipynb)
-- Notebook: Complete Analysis (coming soon).
+- Notebook: [Complete Analysis](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/10_complete_analysis.ipynb)
 
 Required Reading:
 
