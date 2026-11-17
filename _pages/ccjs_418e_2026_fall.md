@@ -301,7 +301,7 @@ As you read: Which time periods does the article compare, and what does the prec
 
 - **11/17:** Compare changes across two groups using a simple difference-in-differences example.
 - **11/19:** Project lab and Problem Set 3 help.
-- Notebook: Strengthening Comparisons (coming soon).
+- Notebook: [Strengthening Comparisons](https://github.com/zjelveh/zjelveh.github.io/blob/master/files/ccjs418e_fall2026/11_strengthening_comparisons.ipynb)
 
 In class, revisit an earlier course reading and identify how an additional comparison could strengthen the answer to its research question.
 
