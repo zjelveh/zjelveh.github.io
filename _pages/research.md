@@ -118,13 +118,6 @@ author_profile: true
   </details>
 
 
-- [The SPIRIT of Science: Institutional Responses to the P-Hacking Problem in Academic Clinical Trials](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6226781)
-  - **With**: Jorge Guzman and Bruce Kogut
-  <details><summary>Abstract</summary>
-  All researchers face pressure to demonstrate significance, but whether that pressure distorts findings may depend on how observable their analytic choices are. We examine this in clinical trials, where academic and industry sponsors face similar evidentiary benchmarks but differ in documentation practices and oversight contexts. Using p-value distributions from 10,596 completed randomized clinical trials registered on ClinicalTrials.gov, we test for threshold-driven distortions around p = 0.05. Academic-sponsored trials exhibit an excess of primary-outcome p-values just below 0.05, while industry-sponsored trials show little or no such pattern; secondary outcomes show no comparable distortion for either sponsor type. Internal consistency checks between reported p-values and 95% confidence intervals replicate the same sponsor gap, and a validation exercise using p-values extracted from PubMed Central trial publications yields similar directional differences. The academic–industry gap persists after adjusting for trial characteristics, suggesting that organizational setting itself may matter. We examine the 2013 SPIRIT statement (Standard Protocol Items: Recommendations for Interventional Trials), which standardized protocol documentation for clinical trials. Academic trials initiated after SPIRIT show weaker evidence of threshold-adjacent bunching than those initiated earlier, whereas trials initiated earlier but reported later show no comparable change—a pattern suggestive of protocol design and documentation as a relevant margin.
-  </details>
-
-
 ## Other
 
 - [Productivity and selection of human capital with machine learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161029) (*AER P&P*)
